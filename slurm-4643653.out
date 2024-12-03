@@ -1,0 +1,734 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'full'
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+[0 : planck_2018_lensing.clik] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Initial point: logA:3.050047, ns:0.9703708, theta_MC_100:1.041216, ombh2:0.02253424, omch2:0.1182992, w:-0.9804405, wa:-0.03182896, beta_DE:1.091945, tau:0.0548091, A_planck:0.9997876, calib_100T:1.000979, calib_217T:0.9971527, A_cib_217:72.69027, xi_sz_cib:0.1262391, A_sz:5.565425, ksz_norm:3.76306, gal545_A_100:4.074675, gal545_A_143:8.922859, gal545_A_143_217:11.55397, gal545_A_217:107.8235, ps_A_100_100:253.7567, ps_A_143_143:47.28636, ps_A_143_217:29.95585, ps_A_217_217:114.8223, galf_TE_A_100:0.1302786, galf_TE_A_100_143:-0.06102816, galf_TE_A_100_217:0.4357553, galf_TE_A_143:0.1990102, galf_TE_A_143_217:0.7269622, galf_TE_A_217:2.101362
+[0 : mcmc] Initial point: logA:3.049031, ns:0.9622549, theta_MC_100:1.041123, ombh2:0.02240334, omch2:0.1202395, w:-0.9537159, wa:0.06575518, beta_DE:1.088088, tau:0.05431678, A_planck:0.997283, calib_100T:0.9995565, calib_217T:0.998232, A_cib_217:57.78643, xi_sz_cib:0.0744859, A_sz:5.833469, ksz_norm:2.313265, gal545_A_100:5.998682, gal545_A_143:7.970449, gal545_A_143_217:20.2325, gal545_A_217:75.47535, ps_A_100_100:255.0256, ps_A_143_143:57.08981, ps_A_143_217:35.74732, ps_A_217_217:106.8157, galf_TE_A_100:0.09325486, galf_TE_A_100_143:0.2878078, galf_TE_A_100_217:0.4566877, galf_TE_A_143:0.1855454, galf_TE_A_143_217:0.7129138, galf_TE_A_217:1.788915
+[3 : mcmc] Initial point: logA:3.05244, ns:0.9623685, theta_MC_100:1.041126, ombh2:0.02232679, omch2:0.1210064, w:-0.9411777, wa:-0.06014838, beta_DE:1.092577, tau:0.05441583, A_planck:1.001812, calib_100T:1.000479, calib_217T:0.9967873, A_cib_217:53.6632, xi_sz_cib:0.1256739, A_sz:7.43783, ksz_norm:3.129298, gal545_A_100:9.947834, gal545_A_143:7.261266, gal545_A_143_217:17.59858, gal545_A_217:92.79692, ps_A_100_100:332.204, ps_A_143_143:51.16653, ps_A_143_217:38.44024, ps_A_217_217:95.1327, galf_TE_A_100:-0.0005795396, galf_TE_A_100_143:0.126461, galf_TE_A_100_217:0.6175478, galf_TE_A_143:0.2209062, galf_TE_A_143_217:0.5645225, galf_TE_A_217:2.119807
+[1 : mcmc] Initial point: logA:3.04923, ns:0.9667581, theta_MC_100:1.041085, ombh2:0.02253219, omch2:0.1206448, w:-0.9786119, wa:0.0430158, beta_DE:1.106341, tau:0.05414861, A_planck:1.003271, calib_100T:1.001747, calib_217T:0.9993677, A_cib_217:63.00286, xi_sz_cib:0.08525798, A_sz:9.413862, ksz_norm:2.155508, gal545_A_100:4.955652, gal545_A_143:6.907806, gal545_A_143_217:17.87288, gal545_A_217:64.56733, ps_A_100_100:251.219, ps_A_143_143:62.01187, ps_A_143_217:25.96519, ps_A_217_217:109.6811, galf_TE_A_100:0.02560283, galf_TE_A_100_143:0.2045533, galf_TE_A_100_217:0.5565107, galf_TE_A_143:0.4563414, galf_TE_A_143_217:0.8311847, galf_TE_A_217:1.662451
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {planck_2018_highl_plik.TTTEEE: 28.7, planck_2018_lowl.TT: 1660.0, planck_2018_lowl.EE: 9220.0, planck_2018_lensing.clik: 99.6, camb.transfers: 0.288, camb: 0.938}
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : [['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns']]
+[0 : mcmc] * 14 : [['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217']]
+[0 : autoselect_covmat] No cached covmat database present, not usable or not up-to-date. Will be re-created and cached.
+[0 : mcmc] Covariance matrix selected automatically: /users/smp24dhl/cosmo/data/planck_supp_data_and_covmats/covmats/base_w_wa_BAO_TTTEEE_lowE_lowl_plikHM.covmat
+[0 : mcmc] Covariance matrix loaded for params ['ombh2', 'omch2', 'theta_MC_100', 'tau', 'w', 'wa', 'logA', 'ns', 'A_planck', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217', 'calib_100T', 'calib_217T']
+[0 : mcmc] Missing proposal covariance for params ['beta_DE']
+[0 : mcmc] Covariance matrix not complete. We will start learning the covariance of the proposal earlier: R-1 = 30 (would be 2 if all params loaded).
+[0 : mcmc] *WARNING* The initial points are widely dispersed compared to the proposal covariance, it may take a long time to burn in (max dist to start mean: [10.195477568906876, 8.635518284327897, 17.24595928092937, 6.150348470401454])
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2024-12-03 01:13:05 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:13:11 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:13:17 : 1 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:13:21 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:14:07 : 31 steps taken, and 8 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:14:11 : 26 steps taken, and 10 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:14:23 : 14 steps taken, and 4 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:14:28 : 11 steps taken, and 4 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:15:07 : 64 steps taken, and 21 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:15:12 : 53 steps taken, and 22 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:15:28 : 24 steps taken, and 10 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:15:30 : 21 steps taken, and 7 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:16:08 : 94 steps taken, and 37 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:16:13 : 80 steps taken, and 30 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:16:32 : 36 steps taken, and 12 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:16:35 : 31 steps taken, and 12 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:17:10 : 123 steps taken, and 47 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:17:13 : 104 steps taken, and 39 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:17:35 : 46 steps taken, and 17 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:17:37 : 47 steps taken, and 16 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:18:13 : 149 steps taken, and 57 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:18:15 : 134 steps taken, and 55 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:18:39 : 56 steps taken, and 20 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:18:40 : 57 steps taken, and 25 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:19:15 : 178 steps taken, and 72 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:19:16 : 164 steps taken, and 70 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:19:41 : 68 steps taken, and 31 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:19:43 : 66 steps taken, and 27 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:20:16 : 203 steps taken, and 87 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:20:18 : 191 steps taken, and 80 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:20:41 : 79 steps taken, and 34 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:20:50 : 77 steps taken, and 31 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:21:17 : 232 steps taken, and 101 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:21:21 : 220 steps taken, and 94 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:21:42 : 89 steps taken, and 37 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:21:52 : 86 steps taken, and 37 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:22:20 : 259 steps taken, and 114 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:22:21 : 243 steps taken, and 103 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:22:42 : 100 steps taken, and 42 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:22:52 : 98 steps taken, and 43 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:23:21 : 284 steps taken, and 124 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:23:23 : 268 steps taken, and 116 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:23:45 : 114 steps taken, and 47 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:23:58 : 112 steps taken, and 48 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:24:22 : 313 steps taken, and 135 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:24:24 : 294 steps taken, and 125 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:24:47 : 130 steps taken, and 53 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:24:59 : 123 steps taken, and 54 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:25:22 : 343 steps taken, and 144 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:25:27 : 324 steps taken, and 136 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:25:47 : 139 steps taken, and 58 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:26:00 : 141 steps taken, and 61 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:26:22 : 369 steps taken, and 155 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:26:30 : 354 steps taken, and 147 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:26:52 : 155 steps taken, and 63 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:27:03 : 153 steps taken, and 66 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:27:23 : 392 steps taken, and 164 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:27:33 : 386 steps taken, and 158 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:27:54 : 165 steps taken, and 69 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:28:04 : 165 steps taken, and 72 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:28:24 : 420 steps taken, and 177 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:28:33 : 417 steps taken, and 171 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:29:00 : 178 steps taken, and 72 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:29:06 : 176 steps taken, and 77 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:29:25 : 445 steps taken, and 188 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:29:35 : 445 steps taken, and 183 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:30:05 : 188 steps taken, and 78 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:30:06 : 191 steps taken, and 81 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:30:26 : 470 steps taken, and 202 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:30:35 : 471 steps taken, and 189 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:31:05 : 198 steps taken, and 86 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:31:09 : 203 steps taken, and 87 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:31:28 : 496 steps taken, and 207 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:31:36 : 499 steps taken, and 199 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:32:09 : 210 steps taken, and 93 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:32:13 : 215 steps taken, and 90 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:32:28 : 534 steps taken, and 218 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:32:37 : 523 steps taken, and 210 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:33:15 : 220 steps taken, and 99 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:33:19 : 228 steps taken, and 95 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:33:31 : 568 steps taken, and 232 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:33:38 : 550 steps taken, and 217 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:34:16 : 234 steps taken, and 103 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:34:22 : 237 steps taken, and 98 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:34:31 : 598 steps taken, and 245 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:34:40 : 580 steps taken, and 225 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:35:17 : 245 steps taken, and 107 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:35:23 : 248 steps taken, and 102 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:35:34 : 624 steps taken, and 255 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:35:41 : 610 steps taken, and 233 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:36:18 : 257 steps taken, and 117 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:36:27 : 257 steps taken, and 105 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:36:34 : 649 steps taken, and 268 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:36:43 : 641 steps taken, and 242 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:37:24 : 266 steps taken, and 122 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:37:29 : 268 steps taken, and 109 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:37:35 : 681 steps taken, and 278 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:37:46 : 670 steps taken, and 252 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:38:28 : 278 steps taken, and 129 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:38:32 : 278 steps taken, and 112 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:38:36 : 706 steps taken, and 287 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:38:47 : 705 steps taken, and 260 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:39:30 : 290 steps taken, and 134 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:39:35 : 296 steps taken, and 118 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:39:38 : 740 steps taken, and 299 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:39:48 : 734 steps taken, and 270 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:40:30 : 301 steps taken, and 139 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:40:36 : 311 steps taken, and 122 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:40:40 : 767 steps taken, and 307 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:40:49 : 763 steps taken, and 282 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:41:31 : 313 steps taken, and 142 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:41:40 : 325 steps taken, and 126 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:41:40 : 799 steps taken, and 318 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:41:52 : 793 steps taken, and 294 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:42:34 : 330 steps taken, and 148 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:42:43 : 834 steps taken, and 332 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:42:44 : 336 steps taken, and 129 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:42:54 : 820 steps taken, and 305 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:43:36 : 340 steps taken, and 156 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:43:45 : 864 steps taken, and 338 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:43:47 : 355 steps taken, and 137 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:43:55 : 846 steps taken, and 316 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:44:38 : 352 steps taken, and 162 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:44:45 : 887 steps taken, and 344 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:44:47 : 368 steps taken, and 146 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:44:57 : 871 steps taken, and 329 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:45:39 : 363 steps taken, and 169 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:45:46 : 916 steps taken, and 357 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:45:48 : 380 steps taken, and 149 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:45:59 : 897 steps taken, and 341 accepted.
+[2 : mcmc] Learn + convergence test @ 360 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2024-12-03 01:46:45 : 374 steps taken, and 176 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:46:46 : 944 steps taken, and 363 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:46:55 : 390 steps taken, and 153 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:47:00 : 926 steps taken, and 347 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:47:47 : 976 steps taken, and 374 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:47:49 : 385 steps taken, and 181 accepted.
+[0 : mcmc] Learn + convergence test @ 360 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2024-12-03 01:48:01 : 404 steps taken, and 157 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:48:02 : 957 steps taken, and 362 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:48:49 : 1006 steps taken, and 384 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:48:51 : 394 steps taken, and 184 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:49:02 : 419 steps taken, and 162 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:49:04 : 982 steps taken, and 375 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:49:50 : 1030 steps taken, and 394 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:49:56 : 410 steps taken, and 188 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:50:03 : 428 steps taken, and 168 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:50:06 : 1013 steps taken, and 387 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:50:51 : 1062 steps taken, and 410 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:50:59 : 421 steps taken, and 195 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:51:07 : 1043 steps taken, and 401 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:51:10 : 449 steps taken, and 173 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:51:53 : 1096 steps taken, and 422 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:52:04 : 435 steps taken, and 200 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:52:08 : 1073 steps taken, and 411 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:52:14 : 462 steps taken, and 178 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:52:55 : 1122 steps taken, and 437 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:53:10 : 446 steps taken, and 203 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:53:11 : 1100 steps taken, and 416 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:53:15 : 479 steps taken, and 183 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:53:55 : 1156 steps taken, and 448 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:54:14 : 1128 steps taken, and 428 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:54:15 : 461 steps taken, and 208 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:54:18 : 493 steps taken, and 188 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:54:56 : 1185 steps taken, and 460 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:55:14 : 1153 steps taken, and 440 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:55:16 : 476 steps taken, and 214 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:55:22 : 504 steps taken, and 196 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:55:58 : 1219 steps taken, and 470 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:56:16 : 1178 steps taken, and 452 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:56:17 : 486 steps taken, and 219 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:56:22 : 514 steps taken, and 203 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:56:58 : 1260 steps taken, and 485 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:57:19 : 1204 steps taken, and 465 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:57:21 : 497 steps taken, and 222 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:57:27 : 525 steps taken, and 208 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:58:00 : 1289 steps taken, and 493 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:58:19 : 1245 steps taken, and 480 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:58:24 : 507 steps taken, and 225 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:58:34 : 537 steps taken, and 214 accepted.
+[2 : mcmc] Progress @ 2024-12-03 01:59:02 : 1320 steps taken, and 504 accepted.
+[0 : mcmc] Progress @ 2024-12-03 01:59:20 : 1274 steps taken, and 493 accepted.
+[3 : mcmc] Progress @ 2024-12-03 01:59:31 : 527 steps taken, and 231 accepted.
+[1 : mcmc] Progress @ 2024-12-03 01:59:39 : 549 steps taken, and 219 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:00:04 : 1347 steps taken, and 511 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:00:21 : 1300 steps taken, and 499 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:00:38 : 539 steps taken, and 236 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:00:41 : 562 steps taken, and 220 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:01:06 : 1382 steps taken, and 523 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:01:23 : 1334 steps taken, and 515 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:01:39 : 550 steps taken, and 237 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:01:48 : 575 steps taken, and 224 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:02:07 : 1405 steps taken, and 531 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:02:23 : 1366 steps taken, and 526 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:02:46 : 562 steps taken, and 240 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:02:48 : 587 steps taken, and 229 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:03:08 : 1435 steps taken, and 542 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:03:26 : 1393 steps taken, and 534 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:03:48 : 572 steps taken, and 245 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:03:49 : 598 steps taken, and 234 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:04:11 : 1468 steps taken, and 556 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:04:26 : 1420 steps taken, and 546 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:04:50 : 586 steps taken, and 249 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:04:55 : 609 steps taken, and 239 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:05:13 : 1498 steps taken, and 569 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:05:29 : 1447 steps taken, and 556 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:05:51 : 596 steps taken, and 253 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:05:57 : 619 steps taken, and 244 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:06:14 : 1529 steps taken, and 587 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:06:31 : 1486 steps taken, and 572 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:06:53 : 606 steps taken, and 259 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:07:03 : 632 steps taken, and 251 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:07:14 : 1555 steps taken, and 597 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:07:32 : 1517 steps taken, and 586 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:07:54 : 617 steps taken, and 264 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:08:05 : 643 steps taken, and 257 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:08:17 : 1584 steps taken, and 606 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:08:32 : 1549 steps taken, and 597 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:08:57 : 630 steps taken, and 267 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:09:09 : 656 steps taken, and 263 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:09:17 : 1607 steps taken, and 615 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:09:35 : 1586 steps taken, and 606 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:10:03 : 643 steps taken, and 271 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:10:15 : 670 steps taken, and 270 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:10:18 : 1633 steps taken, and 629 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:10:36 : 1614 steps taken, and 618 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:11:04 : 652 steps taken, and 274 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:11:16 : 684 steps taken, and 273 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:11:18 : 1668 steps taken, and 641 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:11:37 : 1639 steps taken, and 632 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:12:10 : 665 steps taken, and 278 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:12:16 : 698 steps taken, and 281 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:12:19 : 1697 steps taken, and 650 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:12:37 : 1668 steps taken, and 642 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:13:12 : 676 steps taken, and 286 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:13:20 : 1720 steps taken, and 659 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:13:22 : 711 steps taken, and 286 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:13:39 : 1693 steps taken, and 653 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:14:15 : 687 steps taken, and 293 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:14:22 : 1746 steps taken, and 673 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:14:27 : 722 steps taken, and 290 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:14:41 : 1719 steps taken, and 662 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:15:20 : 698 steps taken, and 298 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:15:23 : 1773 steps taken, and 685 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:15:30 : 732 steps taken, and 295 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:15:41 : 1745 steps taken, and 672 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:16:22 : 710 steps taken, and 302 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:16:25 : 1799 steps taken, and 697 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:16:32 : 743 steps taken, and 299 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:16:42 : 1790 steps taken, and 685 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:17:25 : 1833 steps taken, and 710 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:17:28 : 728 steps taken, and 306 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:17:38 : 754 steps taken, and 306 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:17:43 : 1822 steps taken, and 701 accepted.
+[2 : mcmc] Learn + convergence test @ 720 samples accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:18:27 : 1859 steps taken, and 723 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:18:31 : 738 steps taken, and 311 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:18:44 : 1852 steps taken, and 712 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:18:44 : 771 steps taken, and 311 accepted.
+[0 : mcmc] Learn + convergence test @ 720 samples accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:19:28 : 1887 steps taken, and 738 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:19:31 : 752 steps taken, and 320 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:19:46 : 1882 steps taken, and 724 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:19:49 : 787 steps taken, and 316 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:20:31 : 1914 steps taken, and 746 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:20:35 : 769 steps taken, and 323 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:20:47 : 1908 steps taken, and 734 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:20:55 : 799 steps taken, and 320 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:21:32 : 1939 steps taken, and 757 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:21:35 : 781 steps taken, and 330 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:21:49 : 1937 steps taken, and 748 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:22:00 : 811 steps taken, and 324 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:22:34 : 1975 steps taken, and 773 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:22:37 : 797 steps taken, and 333 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:22:50 : 1967 steps taken, and 760 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:23:02 : 825 steps taken, and 328 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:23:37 : 2002 steps taken, and 785 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:23:40 : 809 steps taken, and 340 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:23:51 : 1991 steps taken, and 771 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:24:07 : 839 steps taken, and 334 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:24:39 : 2034 steps taken, and 797 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:24:45 : 819 steps taken, and 346 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:24:52 : 2028 steps taken, and 783 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:25:15 : 855 steps taken, and 341 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:25:41 : 2068 steps taken, and 809 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:25:49 : 830 steps taken, and 353 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:25:53 : 2059 steps taken, and 792 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:26:16 : 865 steps taken, and 343 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:26:44 : 2093 steps taken, and 819 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:26:51 : 844 steps taken, and 358 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:26:54 : 2086 steps taken, and 803 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:27:21 : 876 steps taken, and 348 accepted.
+[3 : mcmc] Learn + convergence test @ 360 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Progress @ 2024-12-03 02:27:47 : 2128 steps taken, and 832 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:27:52 : 856 steps taken, and 362 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:27:55 : 2113 steps taken, and 814 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:28:28 : 888 steps taken, and 354 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:28:49 : 2156 steps taken, and 839 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:28:54 : 866 steps taken, and 367 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:28:55 : 2138 steps taken, and 822 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:29:33 : 897 steps taken, and 359 accepted.
+[1 : mcmc] Learn + convergence test @ 360 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.395 = avg([0.38878504672897196, 0.4176334106728538, 0.39295644114921224, 0.3891213389121339])
+[0 : mcmc]  - Convergence of means: R-1 = 7.364258 after 2409 accepted steps = sum([831, 360, 847, 371])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[2 : mcmc] Progress @ 2024-12-03 02:29:50 : 2179 steps taken, and 847 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:29:55 : 877 steps taken, and 371 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:29:56 : 2167 steps taken, and 833 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:30:35 : 922 steps taken, and 364 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:30:50 : 2216 steps taken, and 861 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:30:57 : 891 steps taken, and 373 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:30:58 : 2196 steps taken, and 843 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:31:37 : 933 steps taken, and 371 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:31:51 : 2355 steps taken, and 878 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:31:59 : 2226 steps taken, and 851 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:32:00 : 902 steps taken, and 379 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:32:39 : 945 steps taken, and 377 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:32:53 : 2390 steps taken, and 886 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:32:59 : 2256 steps taken, and 864 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:33:05 : 919 steps taken, and 384 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:33:43 : 957 steps taken, and 385 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:33:55 : 2431 steps taken, and 902 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:34:02 : 2283 steps taken, and 877 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:34:06 : 937 steps taken, and 390 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:34:45 : 967 steps taken, and 391 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:34:58 : 2461 steps taken, and 914 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:35:03 : 2311 steps taken, and 891 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:35:09 : 951 steps taken, and 394 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:35:51 : 977 steps taken, and 395 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:35:58 : 2494 steps taken, and 926 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:36:04 : 2338 steps taken, and 903 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:36:12 : 963 steps taken, and 400 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:36:54 : 986 steps taken, and 398 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:37:00 : 2519 steps taken, and 935 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:37:04 : 2379 steps taken, and 921 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:37:16 : 977 steps taken, and 407 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:37:58 : 997 steps taken, and 404 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:38:03 : 2547 steps taken, and 944 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:38:07 : 2410 steps taken, and 933 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:38:17 : 987 steps taken, and 409 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:39:00 : 1009 steps taken, and 408 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:39:05 : 2579 steps taken, and 955 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:39:08 : 2442 steps taken, and 944 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:39:23 : 1002 steps taken, and 414 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:40:03 : 1022 steps taken, and 414 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:40:06 : 2620 steps taken, and 970 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:40:10 : 2477 steps taken, and 957 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:40:24 : 1015 steps taken, and 419 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:41:07 : 1032 steps taken, and 420 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:41:08 : 2653 steps taken, and 986 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:41:10 : 2505 steps taken, and 973 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:41:27 : 1026 steps taken, and 423 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:42:08 : 2690 steps taken, and 1001 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:42:09 : 1045 steps taken, and 424 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:42:11 : 2533 steps taken, and 978 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:42:28 : 1040 steps taken, and 428 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:43:10 : 2725 steps taken, and 1015 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:43:12 : 2567 steps taken, and 985 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:43:15 : 1058 steps taken, and 426 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:43:34 : 1052 steps taken, and 431 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:44:11 : 2769 steps taken, and 1028 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:44:15 : 2603 steps taken, and 997 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:44:17 : 1072 steps taken, and 430 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:44:36 : 1067 steps taken, and 437 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:45:12 : 2796 steps taken, and 1034 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:45:17 : 2649 steps taken, and 1010 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:45:18 : 1082 steps taken, and 434 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:45:40 : 1082 steps taken, and 444 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:46:13 : 2840 steps taken, and 1047 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:46:17 : 2695 steps taken, and 1025 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:46:20 : 1101 steps taken, and 440 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:46:40 : 1092 steps taken, and 446 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:47:14 : 2877 steps taken, and 1061 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:47:20 : 2727 steps taken, and 1037 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:47:25 : 1113 steps taken, and 445 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:47:46 : 1102 steps taken, and 449 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:48:16 : 2913 steps taken, and 1074 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:48:22 : 2752 steps taken, and 1047 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:48:25 : 1122 steps taken, and 452 accepted.
+[2 : mcmc] Learn + convergence test @ 1080 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2024-12-03 02:48:46 : 1113 steps taken, and 453 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:49:17 : 2949 steps taken, and 1090 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:49:23 : 2786 steps taken, and 1062 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:49:32 : 1133 steps taken, and 457 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:49:51 : 1124 steps taken, and 457 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:50:17 : 2983 steps taken, and 1104 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:50:25 : 2839 steps taken, and 1076 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:50:33 : 1151 steps taken, and 463 accepted.
+[0 : mcmc] Learn + convergence test @ 1080 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2024-12-03 02:50:54 : 1139 steps taken, and 463 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:51:18 : 3028 steps taken, and 1118 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:51:26 : 2915 steps taken, and 1093 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:51:33 : 1161 steps taken, and 466 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:51:56 : 1160 steps taken, and 469 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:52:19 : 3073 steps taken, and 1132 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:52:26 : 2945 steps taken, and 1108 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:52:37 : 1172 steps taken, and 470 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:53:04 : 1174 steps taken, and 473 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:53:20 : 3104 steps taken, and 1141 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:53:27 : 2991 steps taken, and 1122 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:53:43 : 1184 steps taken, and 472 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:54:09 : 1190 steps taken, and 480 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:54:21 : 3138 steps taken, and 1150 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:54:27 : 3022 steps taken, and 1131 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:54:44 : 1195 steps taken, and 476 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:55:13 : 1209 steps taken, and 486 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:55:22 : 3164 steps taken, and 1158 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:55:30 : 3048 steps taken, and 1140 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:55:49 : 1212 steps taken, and 478 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:56:14 : 1221 steps taken, and 490 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:56:22 : 3199 steps taken, and 1172 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:56:31 : 3078 steps taken, and 1151 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:56:52 : 1228 steps taken, and 483 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:57:15 : 1235 steps taken, and 495 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:57:23 : 3238 steps taken, and 1182 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:57:33 : 3104 steps taken, and 1163 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:57:54 : 1238 steps taken, and 485 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:58:19 : 1248 steps taken, and 502 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:58:25 : 3292 steps taken, and 1198 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:58:34 : 3133 steps taken, and 1172 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:58:56 : 1251 steps taken, and 489 accepted.
+[3 : mcmc] Progress @ 2024-12-03 02:59:23 : 1261 steps taken, and 507 accepted.
+[2 : mcmc] Progress @ 2024-12-03 02:59:27 : 3323 steps taken, and 1211 accepted.
+[0 : mcmc] Progress @ 2024-12-03 02:59:35 : 3161 steps taken, and 1185 accepted.
+[1 : mcmc] Progress @ 2024-12-03 02:59:59 : 1261 steps taken, and 493 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:00:27 : 1274 steps taken, and 516 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:00:28 : 3357 steps taken, and 1223 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:00:37 : 3195 steps taken, and 1197 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:01:03 : 1275 steps taken, and 497 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:01:30 : 3385 steps taken, and 1228 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:01:33 : 1288 steps taken, and 519 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:01:40 : 3223 steps taken, and 1206 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:02:10 : 1292 steps taken, and 500 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:02:32 : 3411 steps taken, and 1240 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:02:34 : 1303 steps taken, and 523 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:02:41 : 3254 steps taken, and 1219 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:03:16 : 1303 steps taken, and 505 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:03:33 : 3464 steps taken, and 1254 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:03:37 : 1320 steps taken, and 529 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:03:42 : 3289 steps taken, and 1234 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:04:21 : 1317 steps taken, and 511 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:04:34 : 3503 steps taken, and 1270 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:04:40 : 1331 steps taken, and 533 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:04:43 : 3316 steps taken, and 1242 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:05:25 : 1330 steps taken, and 514 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:05:36 : 3536 steps taken, and 1287 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:05:44 : 3341 steps taken, and 1255 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:05:48 : 1351 steps taken, and 538 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:06:26 : 1343 steps taken, and 519 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:06:37 : 3575 steps taken, and 1297 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:06:44 : 3375 steps taken, and 1268 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:06:53 : 1364 steps taken, and 542 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:07:27 : 1354 steps taken, and 520 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:07:37 : 3613 steps taken, and 1310 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:07:46 : 3400 steps taken, and 1278 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:07:56 : 1377 steps taken, and 545 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:08:34 : 1367 steps taken, and 526 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:08:40 : 3641 steps taken, and 1323 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:08:47 : 3440 steps taken, and 1292 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:09:00 : 1391 steps taken, and 551 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:09:35 : 1379 steps taken, and 533 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:09:42 : 3672 steps taken, and 1338 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:09:48 : 3499 steps taken, and 1303 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:10:02 : 1404 steps taken, and 555 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:10:38 : 1393 steps taken, and 538 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:10:43 : 3705 steps taken, and 1349 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:10:50 : 3553 steps taken, and 1315 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:11:04 : 1422 steps taken, and 558 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:11:43 : 1404 steps taken, and 542 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:11:45 : 3754 steps taken, and 1361 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:11:53 : 3590 steps taken, and 1331 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:12:11 : 1438 steps taken, and 563 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:12:46 : 3796 steps taken, and 1372 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:12:47 : 1415 steps taken, and 544 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:12:55 : 3631 steps taken, and 1342 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:13:12 : 1448 steps taken, and 567 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:13:46 : 3838 steps taken, and 1389 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:13:49 : 1426 steps taken, and 551 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:13:56 : 3666 steps taken, and 1353 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:14:16 : 1461 steps taken, and 573 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:14:47 : 3871 steps taken, and 1405 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:14:49 : 1440 steps taken, and 555 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:14:57 : 3701 steps taken, and 1366 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:15:18 : 1472 steps taken, and 577 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:15:49 : 3913 steps taken, and 1419 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:15:49 : 1451 steps taken, and 561 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:16:00 : 3741 steps taken, and 1379 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:16:24 : 1489 steps taken, and 579 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:16:51 : 3956 steps taken, and 1430 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:16:52 : 1461 steps taken, and 564 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:17:02 : 3778 steps taken, and 1393 accepted.
+[2 : mcmc] Learn + convergence test @ 1440 samples accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:17:30 : 1500 steps taken, and 583 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:17:52 : 4016 steps taken, and 1447 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:17:59 : 1476 steps taken, and 569 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:18:05 : 3813 steps taken, and 1409 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:18:33 : 1512 steps taken, and 589 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:18:54 : 4057 steps taken, and 1457 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:19:07 : 1499 steps taken, and 577 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:19:07 : 3852 steps taken, and 1421 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:19:33 : 1529 steps taken, and 595 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:19:56 : 4091 steps taken, and 1468 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:20:07 : 1520 steps taken, and 584 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:20:10 : 3883 steps taken, and 1433 accepted.
+[0 : mcmc] Learn + convergence test @ 1440 samples accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:20:38 : 1553 steps taken, and 598 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:20:56 : 4141 steps taken, and 1479 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:21:13 : 3932 steps taken, and 1449 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:21:13 : 1535 steps taken, and 589 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:21:38 : 1570 steps taken, and 601 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:21:58 : 4168 steps taken, and 1492 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:22:13 : 1546 steps taken, and 593 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:22:14 : 3979 steps taken, and 1468 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:22:40 : 1591 steps taken, and 609 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:22:59 : 4217 steps taken, and 1509 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:23:16 : 4018 steps taken, and 1482 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:23:16 : 1557 steps taken, and 597 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:23:46 : 1605 steps taken, and 615 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:24:00 : 4250 steps taken, and 1515 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:24:17 : 4056 steps taken, and 1493 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:24:17 : 1572 steps taken, and 602 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:24:52 : 1616 steps taken, and 618 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:25:02 : 4286 steps taken, and 1528 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:25:17 : 4102 steps taken, and 1500 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:25:20 : 1581 steps taken, and 605 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:25:57 : 1633 steps taken, and 622 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:26:04 : 4330 steps taken, and 1543 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:26:19 : 4130 steps taken, and 1513 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:26:23 : 1596 steps taken, and 610 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:26:57 : 1649 steps taken, and 626 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:27:07 : 4365 steps taken, and 1557 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:27:20 : 4163 steps taken, and 1520 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:27:25 : 1606 steps taken, and 614 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:27:58 : 1665 steps taken, and 631 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:28:08 : 4394 steps taken, and 1570 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:28:21 : 4195 steps taken, and 1531 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:28:26 : 1624 steps taken, and 618 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:29:02 : 1678 steps taken, and 634 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:29:10 : 4428 steps taken, and 1578 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:29:21 : 4230 steps taken, and 1543 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:29:28 : 1634 steps taken, and 624 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:30:07 : 1691 steps taken, and 639 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:30:12 : 4460 steps taken, and 1590 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:30:23 : 4265 steps taken, and 1556 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:30:31 : 1646 steps taken, and 627 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:31:13 : 4483 steps taken, and 1601 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:31:13 : 1704 steps taken, and 644 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:31:24 : 4293 steps taken, and 1563 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:31:35 : 1660 steps taken, and 629 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:32:13 : 4516 steps taken, and 1608 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:32:20 : 1717 steps taken, and 650 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:32:27 : 4320 steps taken, and 1578 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:32:35 : 1671 steps taken, and 633 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:33:16 : 4551 steps taken, and 1618 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:33:28 : 1733 steps taken, and 655 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:33:29 : 4360 steps taken, and 1590 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:33:39 : 1685 steps taken, and 637 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:34:18 : 4589 steps taken, and 1636 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:34:31 : 4396 steps taken, and 1607 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:34:34 : 1753 steps taken, and 661 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:34:40 : 1697 steps taken, and 642 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:35:20 : 4619 steps taken, and 1647 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:35:31 : 4434 steps taken, and 1617 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:35:40 : 1769 steps taken, and 665 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:35:44 : 1708 steps taken, and 650 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:36:21 : 4651 steps taken, and 1656 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:36:32 : 4482 steps taken, and 1630 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:36:45 : 1781 steps taken, and 671 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:36:51 : 1721 steps taken, and 657 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:37:22 : 4678 steps taken, and 1667 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:37:34 : 4535 steps taken, and 1646 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:37:46 : 1795 steps taken, and 675 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:37:57 : 1732 steps taken, and 658 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:38:23 : 4712 steps taken, and 1683 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:38:36 : 4574 steps taken, and 1661 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:38:48 : 1806 steps taken, and 678 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:38:58 : 1751 steps taken, and 661 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:39:23 : 4742 steps taken, and 1697 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:39:36 : 4602 steps taken, and 1675 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:39:53 : 1823 steps taken, and 684 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:40:02 : 1769 steps taken, and 663 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:40:25 : 4778 steps taken, and 1706 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:40:38 : 4639 steps taken, and 1686 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:40:57 : 1836 steps taken, and 689 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:41:06 : 1782 steps taken, and 667 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:41:25 : 4817 steps taken, and 1721 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:41:39 : 4685 steps taken, and 1701 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:41:59 : 1847 steps taken, and 691 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:42:10 : 1792 steps taken, and 669 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:42:26 : 4852 steps taken, and 1735 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:42:40 : 4726 steps taken, and 1716 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:43:02 : 1858 steps taken, and 695 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:43:14 : 1806 steps taken, and 677 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:43:26 : 4887 steps taken, and 1745 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:43:41 : 4763 steps taken, and 1725 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:44:08 : 1869 steps taken, and 702 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:44:20 : 1830 steps taken, and 681 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:44:29 : 4926 steps taken, and 1759 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:44:41 : 4792 steps taken, and 1736 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:45:15 : 1888 steps taken, and 706 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:45:24 : 1849 steps taken, and 687 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:45:29 : 4953 steps taken, and 1770 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:45:44 : 4821 steps taken, and 1748 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:46:19 : 1905 steps taken, and 714 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:46:24 : 1862 steps taken, and 690 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:46:31 : 4983 steps taken, and 1781 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:46:45 : 4848 steps taken, and 1760 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:47:23 : 1924 steps taken, and 718 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:47:27 : 1872 steps taken, and 696 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:47:33 : 5021 steps taken, and 1792 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:47:46 : 4885 steps taken, and 1777 accepted.
+[3 : mcmc] Learn + convergence test @ 720 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:48:25 : 1934 steps taken, and 721 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:48:30 : 1886 steps taken, and 704 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:48:35 : 5056 steps taken, and 1809 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:48:48 : 4915 steps taken, and 1786 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:49:29 : 1948 steps taken, and 728 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:49:35 : 1901 steps taken, and 713 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:49:37 : 5092 steps taken, and 1818 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:49:49 : 4947 steps taken, and 1794 accepted.
+[0 : mcmc] Learn + convergence test @ 1800 samples accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:50:35 : 1961 steps taken, and 733 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:50:39 : 1913 steps taken, and 717 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:50:40 : 5120 steps taken, and 1826 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:50:51 : 4998 steps taken, and 1809 accepted.
+[1 : mcmc] Learn + convergence test @ 720 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] All chains are ready to check convergence and learn a new proposal covmat
+[0 : mcmc]  - Acceptance rate: 0.342 = avg([0.33982765080554517, 0.3519061583577713, 0.34267563527653216, 0.3333333333333333])
+[0 : mcmc]  - Convergence of means: R-1 = 1.913173 after 5103 accepted steps = sum([1813, 720, 1834, 736])
+[0 : mcmc]  - Updated covariance matrix of proposal pdf.
+[3 : mcmc] Progress @ 2024-12-03 03:51:39 : 1976 steps taken, and 736 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:51:40 : 5156 steps taken, and 1836 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:51:43 : 1925 steps taken, and 723 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:51:53 : 5026 steps taken, and 1818 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:52:40 : 1988 steps taken, and 743 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:52:40 : 5198 steps taken, and 1846 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:52:45 : 1941 steps taken, and 727 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:52:54 : 5070 steps taken, and 1832 accepted.
+[2 : mcmc] Progress @ 2024-12-03 03:53:42 : 5250 steps taken, and 1859 accepted.
+[3 : mcmc] Progress @ 2024-12-03 03:53:45 : 2011 steps taken, and 748 accepted.
+[1 : mcmc] Progress @ 2024-12-03 03:53:46 : 1954 steps taken, and 730 accepted.
+[0 : mcmc] Progress @ 2024-12-03 03:53:56 : 5110 steps taken, and 1841 accepted.
+[node008:59392:0:59477] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc05964f58)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  59477) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f73 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da59 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f11 dtauda_()  ???:0
+ 4 0x000000000004cfec __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node008:59392] *** Process received signal ***
+[node008:59392] Signal: Segmentation fault (11)
+[node008:59392] Signal code:  (-6)
+[node008:59392] Failing at address: 0x8cfb80000e800
+[node008:59392] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f7beeeae630]
+[node008:59392] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f7bbc85df73]
+[node008:59392] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f7bbc861a59]
+[node008:59392] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f7bbc8c9f11]
+[node008:59392] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfec)[0x7f7bbc870fec]
+[node008:59392] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f7bbc7fdf09]
+[node008:59392] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f7beeea6ea5]
+[node008:59392] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f7bee4c6b0d]
+[node008:59392] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 59392 on node node008 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

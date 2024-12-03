@@ -96,7 +96,7 @@ params:
     latex: w_{0,\mathrm{DE}}
   wa:
     prior:
-      min: -2
+      min: -3
       max: 2
     ref:
       dist: norm
@@ -160,7 +160,6 @@ sampler:
     oversample_power: 0.4
     proposal_scale: 1.9
     covmat: auto
-    Rminus1_stop: 0.1 # usually have this to 0.1 for a typical run. 0.01 is publication quality
+    Rminus1_stop: 0.1
     Rminus1_cl_stop: 0.2
-output: chains/full
-force: true
+output: noHalo
