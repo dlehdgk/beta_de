@@ -96,7 +96,7 @@ params:
     latex: w_{0,\mathrm{DE}}
   wa:
     prior:
-      min: -3
+      min: -2
       max: 2
     ref:
       dist: norm
@@ -110,7 +110,7 @@ params:
       max: 3
     ref:
       dist: norm
-      loc: 1.1
+      loc: 1
       scale: 0.01
     proposal: 0.01
     latex: \beta_{\mathrm{DE}}

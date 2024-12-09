@@ -243,11 +243,11 @@ params:
     latex: w_{a,\mathrm{DE}}
   beta_DE:
     prior:
-      min: -3
+      min: 0
       max: 3
     ref:
       dist: norm
-      loc: 1.1
+      loc: 1
       scale: 0.01
     proposal: 0.01
     latex: \beta_{\mathrm{DE}}
@@ -656,9 +656,9 @@ sampler:
     - - 1
       - - logA
         - ns
-    - - 6
+    - - 3
       - - A_planck
-    - - 6
+    - - 3
       - - calib_100T
         - calib_217T
         - A_cib_217
@@ -687,5 +687,5 @@ sampler:
     drag_limits: null
     fallback_covmat_scale: 4
     version: 3.5.4
-output: full
+output: nolinear
 version: 3.5.4

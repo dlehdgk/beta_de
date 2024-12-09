@@ -106,11 +106,11 @@ params:
     latex: w_{a,\mathrm{DE}}
   beta_DE:
     prior:
-      min: -3
+      min: 0
       max: 3
     ref:
       dist: norm
-      loc: 1.1
+      loc: 1
       scale: 0.01
     proposal: 0.01
     latex: \beta_{\mathrm{DE}}
@@ -162,5 +162,5 @@ sampler:
     covmat: auto
     Rminus1_stop: 0.1 # usually have this to 0.1 for a typical run. 0.01 is publication quality
     Rminus1_cl_stop: 0.2
-output: chains/full
-force: true
+resume: true
+output: chains/nolinear
