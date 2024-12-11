@@ -1,0 +1,342 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'noHalo'
+[0 : output] Found existing info files with the requested output prefix: 'chains/noHalo'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+[0 : planck_2018_lensing.clik] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : mcmc] Resuming from previous sample!
+[7 : samplecollection] Loaded 1109 sample points from 'chains/noHalo.8.txt'
+[5 : samplecollection] Loaded 1104 sample points from 'chains/noHalo.6.txt'
+[3 : samplecollection] Loaded 1045 sample points from 'chains/noHalo.4.txt'
+[1 : samplecollection] Loaded 1056 sample points from 'chains/noHalo.2.txt'
+[6 : samplecollection] Loaded 1419 sample points from 'chains/noHalo.7.txt'
+[2 : samplecollection] Loaded 1463 sample points from 'chains/noHalo.3.txt'
+[0 : samplecollection] Loaded 1450 sample points from 'chains/noHalo.1.txt'
+[4 : samplecollection] Loaded 1509 sample points from 'chains/noHalo.5.txt'
+[7 : mcmc] Initial point: logA:3.048613, ns:0.9731643, theta_MC_100:1.04131, ombh2:0.02238665, omch2:0.1187063, w:-1.227468, wa:-0.4446863, beta_DE:0.7247483, tau:0.05976943, A_planck:0.9989727, calib_100T:0.9991499, calib_217T:0.9961713, A_cib_217:39.26708, xi_sz_cib:0.8019327, A_sz:4.997119, ksz_norm:1.157442, gal545_A_100:7.426813, gal545_A_143:11.43361, gal545_A_143_217:17.18439, gal545_A_217:89.90249, ps_A_100_100:235.2107, ps_A_143_143:50.69797, ps_A_143_217:52.33817, ps_A_217_217:129.0469, galf_TE_A_100:0.08445934, galf_TE_A_100_143:0.1597674, galf_TE_A_100_217:0.4697368, galf_TE_A_143:0.2883054, galf_TE_A_143_217:0.472116, galf_TE_A_217:2.048411
+[5 : mcmc] Initial point: logA:3.04584, ns:0.9657844, theta_MC_100:1.040845, ombh2:0.02235275, omch2:0.1179561, w:-1.653193, wa:-1.065016, beta_DE:0.6714938, tau:0.05537037, A_planck:1.002616, calib_100T:0.9995247, calib_217T:0.997131, A_cib_217:36.58055, xi_sz_cib:0.6195189, A_sz:2.857879, ksz_norm:6.607126, gal545_A_100:10.40031, gal545_A_143:11.30329, gal545_A_143_217:17.67596, gal545_A_217:94.49768, ps_A_100_100:258.0904, ps_A_143_143:49.30541, ps_A_143_217:41.54155, ps_A_217_217:131.2597, galf_TE_A_100:0.127765, galf_TE_A_100_143:0.1288512, galf_TE_A_100_217:0.6447488, galf_TE_A_143:0.2330529, galf_TE_A_143_217:0.7506586, galf_TE_A_217:2.518309
+[3 : mcmc] Initial point: logA:3.018101, ns:0.9668393, theta_MC_100:1.040754, ombh2:0.02232603, omch2:0.1203197, w:-1.567672, wa:0.8625707, beta_DE:1.749749, tau:0.04776287, A_planck:0.9955261, calib_100T:0.999473, calib_217T:0.9973133, A_cib_217:35.00945, xi_sz_cib:0.8052479, A_sz:7.434296, ksz_norm:3.472035, gal545_A_100:7.378768, gal545_A_143:10.66926, gal545_A_143_217:20.9961, gal545_A_217:101.0926, ps_A_100_100:248.6142, ps_A_143_143:49.56253, ps_A_143_217:52.88951, ps_A_217_217:129.4052, galf_TE_A_100:0.1195422, galf_TE_A_100_143:0.1153261, galf_TE_A_100_217:0.4435848, galf_TE_A_143:0.2662334, galf_TE_A_143_217:0.6249208, galf_TE_A_217:2.055379
+[1 : mcmc] Initial point: logA:3.027266, ns:0.9668652, theta_MC_100:1.041403, ombh2:0.02246918, omch2:0.1184639, w:-1.188795, wa:-1.809024, beta_DE:0.5323414, tau:0.05175856, A_planck:0.995779, calib_100T:1.000745, calib_217T:0.9983674, A_cib_217:52.29593, xi_sz_cib:0.3878153, A_sz:4.257075, ksz_norm:5.944863, gal545_A_100:10.85331, gal545_A_143:10.89803, gal545_A_143_217:17.54226, gal545_A_217:90.1288, ps_A_100_100:312.6535, ps_A_143_143:42.96439, ps_A_143_217:31.29245, ps_A_217_217:97.72617, galf_TE_A_100:0.1114178, galf_TE_A_100_143:0.1567823, galf_TE_A_100_217:0.5510524, galf_TE_A_143:0.2427906, galf_TE_A_143_217:0.739436, galf_TE_A_217:2.193781
+[0 : mcmc] Initial point: logA:3.031557, ns:0.9520576, theta_MC_100:1.040702, ombh2:0.02229345, omch2:0.1223838, w:-0.885099, wa:-1.10438, beta_DE:0.9562565, tau:0.04337005, A_planck:1.003201, calib_100T:1.000017, calib_217T:0.9979899, A_cib_217:55.97941, xi_sz_cib:0.3798967, A_sz:5.305909, ksz_norm:8.643672, gal545_A_100:11.39541, gal545_A_143:12.21164, gal545_A_143_217:17.54985, gal545_A_217:85.7527, ps_A_100_100:228.9245, ps_A_143_143:37.06311, ps_A_143_217:33.05012, ps_A_217_217:100.7296, galf_TE_A_100:0.1233772, galf_TE_A_100_143:0.1478428, galf_TE_A_100_217:0.5021986, galf_TE_A_143:0.2240875, galf_TE_A_143_217:0.7203101, galf_TE_A_217:2.143296
+[4 : mcmc] Initial point: logA:3.032167, ns:0.9691879, theta_MC_100:1.041244, ombh2:0.02273599, omch2:0.1184687, w:-1.464813, wa:0.2637731, beta_DE:2.733311, tau:0.05181402, A_planck:0.9979384, calib_100T:1.000418, calib_217T:0.9983818, A_cib_217:42.36161, xi_sz_cib:0.878509, A_sz:3.725933, ksz_norm:1.832418, gal545_A_100:9.776162, gal545_A_143:9.187992, gal545_A_143_217:18.84152, gal545_A_217:96.30533, ps_A_100_100:275.1082, ps_A_143_143:54.47605, ps_A_143_217:48.5412, ps_A_217_217:122.232, galf_TE_A_100:0.09217486, galf_TE_A_100_143:0.08156906, galf_TE_A_100_217:0.4909711, galf_TE_A_143:0.09443578, galf_TE_A_143_217:0.7917929, galf_TE_A_217:1.891581
+[6 : mcmc] Initial point: logA:3.049843, ns:0.9685472, theta_MC_100:1.040798, ombh2:0.02257564, omch2:0.117846, w:-1.830884, wa:0.2940633, beta_DE:2.910433, tau:0.05934811, A_planck:1.000409, calib_100T:0.9999886, calib_217T:0.9981603, A_cib_217:49.44714, xi_sz_cib:0.5705497, A_sz:1.942566, ksz_norm:5.914569, gal545_A_100:9.012734, gal545_A_143:10.37604, gal545_A_143_217:15.37795, gal545_A_217:86.75952, ps_A_100_100:298.1734, ps_A_143_143:41.33429, ps_A_143_217:30.60932, ps_A_217_217:106.2541, galf_TE_A_100:0.1197293, galf_TE_A_100_143:0.1689791, galf_TE_A_100_217:0.4881391, galf_TE_A_143:0.308995, galf_TE_A_143_217:0.7306674, galf_TE_A_217:2.174076
+[2 : mcmc] Initial point: logA:3.048647, ns:0.9670329, theta_MC_100:1.040692, ombh2:0.02245802, omch2:0.1195741, w:-0.8754299, wa:-1.563848, beta_DE:0.1037681, tau:0.05862308, A_planck:0.9990473, calib_100T:0.9997355, calib_217T:0.99843, A_cib_217:43.24713, xi_sz_cib:0.4021936, A_sz:6.567924, ksz_norm:0.9881916, gal545_A_100:11.60585, gal545_A_143:12.85905, gal545_A_143_217:23.83327, gal545_A_217:104.2216, ps_A_100_100:250.7185, ps_A_143_143:41.19283, ps_A_143_217:39.30626, ps_A_217_217:117.8663, galf_TE_A_100:0.1229174, galf_TE_A_100_143:0.1937914, galf_TE_A_100_217:0.3251062, galf_TE_A_143:0.3035447, galf_TE_A_143_217:0.6956336, galf_TE_A_217:1.72397
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 14 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[6 : mcmc] Progress @ 2024-12-11 11:15:09 : 1 steps taken, and 1419 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:15:09 : 1 steps taken, and 1463 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:15:14 : 1 steps taken, and 1109 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:15:14 : 1 steps taken, and 1104 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:15:14 : 1 steps taken, and 1056 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:15:15 : 1 steps taken, and 1509 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:15:16 : 1 steps taken, and 1045 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:15:16 : 1 steps taken, and 1450 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[6 : mcmc] Progress @ 2024-12-11 11:16:09 : 26 steps taken, and 1428 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:16:11 : 25 steps taken, and 1473 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:16:15 : 29 steps taken, and 1116 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:16:15 : 20 steps taken, and 1065 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:16:16 : 19 steps taken, and 1117 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:16:17 : 18 steps taken, and 1456 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:16:18 : 24 steps taken, and 1055 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:16:19 : 21 steps taken, and 1522 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   14322.806081213570       -2.9521119726538814E-007   1.0000000000000001E-007
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   14322.994357101938       -2.9520725775000756E-007   1.0000000000000001E-007
+[6 : mcmc] Progress @ 2024-12-11 11:17:09 : 50 steps taken, and 1438 accepted.
+[node049:5061 :0:5245] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0428cbc8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:   5245) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5ef1 dtauda_()  ???:0
+ 4 0x000000000004cfcc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node049:05061] *** Process received signal ***
+[node049:05061] Signal: Segmentation fault (11)
+[node049:05061] Signal code:  (-6)
+[node049:05061] Failing at address: 0x8cfb8000013c5
+[node049:05061] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f0cdf031630]
+[node049:05061] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f0ca3d40f63]
+[node049:05061] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f0ca3d44a49]
+[node049:05061] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f0ca3dacef1]
+[node049:05061] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfcc)[0x7f0ca3d53fcc]
+[node049:05061] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f0ca3ce0f09]
+[node049:05061] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f0cdf029ea5]
+[node049:05061] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f0cde649b0d]
+[node049:05061] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 2 with PID 5061 on node node049 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

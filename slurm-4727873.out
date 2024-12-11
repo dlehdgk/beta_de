@@ -1,0 +1,174 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'noHalo'
+[0 : output] Found existing info files with the requested output prefix: 'chains/noHalo'
+[0 : output] Let's try to resume/load.
+[0 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[0 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[4 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[4 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[2 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[2 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[6 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[6 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[1 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[3 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[5 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[7 : input] is_equal_info: different content of [params:wa] -- (re-run with `debug: True` for more info)
+[1 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[3 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[5 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[7 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[0 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[0 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[2 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[6 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[4 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[2 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[4 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[6 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[1 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[7 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[3 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[5 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[1 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[7 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[3 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[5 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 490, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[49075,1],2]
+  Exit code:    1
+--------------------------------------------------------------------------
