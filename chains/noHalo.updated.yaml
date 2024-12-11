@@ -233,7 +233,7 @@ params:
     latex: w_{0,\mathrm{DE}}
   wa:
     prior:
-      min: -2
+      min: -3
       max: 2
     ref:
       dist: norm
@@ -248,8 +248,8 @@ params:
     ref:
       dist: norm
       loc: 1
-      scale: 0.01
-    proposal: 0.01
+      scale: 0.005
+    proposal: 0.005
     latex: \beta_{\mathrm{DE}}
   YHe:
     latex: Y_\mathrm{P}
@@ -656,9 +656,9 @@ sampler:
     - - 1
       - - logA
         - ns
-    - - 6
+    - - 4
       - - A_planck
-    - - 6
+    - - 4
       - - calib_100T
         - calib_217T
         - A_cib_217
