@@ -106,7 +106,7 @@ params:
     latex: w_{a,\mathrm{DE}}
   beta_DE:
     prior:
-      min: 0
+      min: -3
       max: 3
     ref:
       dist: norm
@@ -163,4 +163,4 @@ sampler:
     Rminus1_stop: 0.1 # usually have this to 0.1 for a typical run. 0.01 is publication quality
     Rminus1_cl_stop: 0.2
 resume: true
-output: chains/nolinear
+output: chains/noHalo
