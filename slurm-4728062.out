@@ -1,0 +1,306 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'noHalo'
+[0 : output] Found existing info files with the requested output prefix: 'chains/noHalo'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : planck_2018_lensing.clik] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : mcmc] Resuming from previous sample!
+[1 : samplecollection] Loaded 1094 sample points from 'chains/noHalo.2.txt'
+[5 : samplecollection] Loaded 1143 sample points from 'chains/noHalo.6.txt'
+[3 : samplecollection] Loaded 1080 sample points from 'chains/noHalo.4.txt'
+[7 : samplecollection] Loaded 1125 sample points from 'chains/noHalo.8.txt'
+[4 : samplecollection] Loaded 1550 sample points from 'chains/noHalo.5.txt'
+[0 : samplecollection] Loaded 1484 sample points from 'chains/noHalo.1.txt'
+[6 : samplecollection] Loaded 1466 sample points from 'chains/noHalo.7.txt'
+[2 : samplecollection] Loaded 1493 sample points from 'chains/noHalo.3.txt'
+[0 : mcmc] Initial point: logA:3.0287, ns:0.9691394, theta_MC_100:1.041138, ombh2:0.02236913, omch2:0.1187467, w:-1.550603, wa:0.7050796, beta_DE:0.5811247, tau:0.04674815, A_planck:1.001227, calib_100T:1.000218, calib_217T:0.9979595, A_cib_217:48.54235, xi_sz_cib:0.5349107, A_sz:8.908668, ksz_norm:0.9738373, gal545_A_100:5.487822, gal545_A_143:8.884022, gal545_A_143_217:22.43518, gal545_A_217:95.82669, ps_A_100_100:268.4472, ps_A_143_143:50.23314, ps_A_143_217:52.05647, ps_A_217_217:116.2234, galf_TE_A_100:0.1126563, galf_TE_A_100_143:0.1289418, galf_TE_A_100_217:0.6028516, galf_TE_A_143:0.1855996, galf_TE_A_143_217:0.7020897, galf_TE_A_217:2.080777
+[6 : mcmc] Initial point: logA:3.042362, ns:0.9705225, theta_MC_100:1.041274, ombh2:0.02251302, omch2:0.1180323, w:-2.059785, wa:1.3472, beta_DE:2.836243, tau:0.05269551, A_planck:1.00334, calib_100T:0.9994424, calib_217T:0.9981158, A_cib_217:53.50538, xi_sz_cib:0.335757, A_sz:2.336246, ksz_norm:1.69369, gal545_A_100:9.719669, gal545_A_143:9.243352, gal545_A_143_217:13.68981, gal545_A_217:85.25451, ps_A_100_100:304.2021, ps_A_143_143:59.71878, ps_A_143_217:42.47563, ps_A_217_217:112.9133, galf_TE_A_100:0.1004437, galf_TE_A_100_143:0.122192, galf_TE_A_100_217:0.4899022, galf_TE_A_143:0.2120435, galf_TE_A_143_217:0.7717249, galf_TE_A_217:2.147133
+[4 : mcmc] Initial point: logA:3.061723, ns:0.9705244, theta_MC_100:1.040914, ombh2:0.02243778, omch2:0.1188728, w:-1.176052, wa:-0.2814662, beta_DE:2.8873, tau:0.06372667, A_planck:1.002509, calib_100T:0.9982382, calib_217T:0.9986905, A_cib_217:40.9766, xi_sz_cib:0.2659473, A_sz:4.010438, ksz_norm:2.088802, gal545_A_100:7.921991, gal545_A_143:11.16864, gal545_A_143_217:18.78872, gal545_A_217:101.8769, ps_A_100_100:276.1288, ps_A_143_143:53.02415, ps_A_143_217:42.90178, ps_A_217_217:120.5009, galf_TE_A_100:0.04878578, galf_TE_A_100_143:0.1617674, galf_TE_A_100_217:0.4387374, galf_TE_A_143:0.2457388, galf_TE_A_143_217:0.6487039, galf_TE_A_217:1.887225
+[2 : mcmc] Initial point: logA:3.025279, ns:0.9700393, theta_MC_100:1.041339, ombh2:0.02261164, omch2:0.1174919, w:-1.354013, wa:-1.004656, beta_DE:-0.120382, tau:0.05128131, A_planck:0.99692, calib_100T:0.9994055, calib_217T:0.9978107, A_cib_217:47.77257, xi_sz_cib:0.1588446, A_sz:8.699229, ksz_norm:4.24214, gal545_A_100:8.304327, gal545_A_143:11.13398, gal545_A_143_217:18.75542, gal545_A_217:96.35243, ps_A_100_100:217.7091, ps_A_143_143:29.54865, ps_A_143_217:31.33077, ps_A_217_217:100.6522, galf_TE_A_100:0.1648577, galf_TE_A_100_143:0.1510199, galf_TE_A_100_217:0.541875, galf_TE_A_143:0.2548795, galf_TE_A_143_217:0.6487284, galf_TE_A_217:2.014327
+[5 : mcmc] Initial point: logA:3.024904, ns:0.9692657, theta_MC_100:1.041039, ombh2:0.02260886, omch2:0.1185686, w:-1.562746, wa:-1.12843, beta_DE:0.3132914, tau:0.04499669, A_planck:1.000791, calib_100T:1.000067, calib_217T:0.9984635, A_cib_217:39.43965, xi_sz_cib:0.8226044, A_sz:4.949604, ksz_norm:1.085487, gal545_A_100:9.7645, gal545_A_143:9.865171, gal545_A_143_217:16.79629, gal545_A_217:96.93211, ps_A_100_100:297.7631, ps_A_143_143:61.28679, ps_A_143_217:57.26054, ps_A_217_217:130.512, galf_TE_A_100:0.1409057, galf_TE_A_100_143:0.1386842, galf_TE_A_100_217:0.4757332, galf_TE_A_143:0.1429753, galf_TE_A_143_217:0.5540708, galf_TE_A_217:1.871063
+[7 : mcmc] Initial point: logA:3.029547, ns:0.9664485, theta_MC_100:1.040908, ombh2:0.02246854, omch2:0.119525, w:-0.7223013, wa:-0.8732193, beta_DE:0.4489248, tau:0.04822869, A_planck:0.9989917, calib_100T:1.000235, calib_217T:0.9984782, A_cib_217:46.03259, xi_sz_cib:0.9241587, A_sz:3.874089, ksz_norm:1.012404, gal545_A_100:7.112729, gal545_A_143:8.095158, gal545_A_143_217:18.08911, gal545_A_217:91.90649, ps_A_100_100:271.1148, ps_A_143_143:66.49997, ps_A_143_217:51.12549, ps_A_217_217:121.7613, galf_TE_A_100:0.1093089, galf_TE_A_100_143:0.1763843, galf_TE_A_100_217:0.5742922, galf_TE_A_143:0.2981982, galf_TE_A_143_217:0.6491299, galf_TE_A_217:1.932109
+[1 : mcmc] Initial point: logA:3.034632, ns:0.9645177, theta_MC_100:1.041015, ombh2:0.02252063, omch2:0.1206389, w:-0.7435365, wa:-1.494121, beta_DE:0.6378518, tau:0.04615038, A_planck:1.00161, calib_100T:0.9996476, calib_217T:0.9964464, A_cib_217:28.36473, xi_sz_cib:0.6229953, A_sz:4.304991, ksz_norm:1.42359, gal545_A_100:10.536, gal545_A_143:11.3671, gal545_A_143_217:17.32818, gal545_A_217:96.82689, ps_A_100_100:242.6605, ps_A_143_143:48.00495, ps_A_143_217:50.45322, ps_A_217_217:147.7121, galf_TE_A_100:0.1213915, galf_TE_A_100_143:0.1798602, galf_TE_A_100_217:0.3778727, galf_TE_A_143:0.2737447, galf_TE_A_143_217:0.6383009, galf_TE_A_217:1.557359
+[3 : mcmc] Initial point: logA:3.02177, ns:0.9599551, theta_MC_100:1.040707, ombh2:0.02253947, omch2:0.1202539, w:-1.975706, wa:0.3215441, beta_DE:1.800421, tau:0.04333604, A_planck:0.9987785, calib_100T:1.000119, calib_217T:0.997872, A_cib_217:47.36438, xi_sz_cib:0.7183471, A_sz:2.090897, ksz_norm:7.879391, gal545_A_100:6.857458, gal545_A_143:8.456198, gal545_A_143_217:12.5291, gal545_A_217:82.87018, ps_A_100_100:294.8672, ps_A_143_143:46.68165, ps_A_143_217:36.24626, ps_A_217_217:108.3291, galf_TE_A_100:0.1406794, galf_TE_A_100_143:0.1720921, galf_TE_A_100_217:0.4285406, galf_TE_A_143:0.2007064, galf_TE_A_143_217:0.6980747, galf_TE_A_217:2.362723
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 14 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[7 : mcmc] Progress @ 2024-12-11 11:50:41 : 1 steps taken, and 1125 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:50:41 : 1 steps taken, and 1466 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:50:46 : 1 steps taken, and 1550 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:50:46 : 1 steps taken, and 1143 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:50:47 : 1 steps taken, and 1484 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:50:48 : 1 steps taken, and 1493 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:50:48 : 1 steps taken, and 1094 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:50:48 : 1 steps taken, and 1080 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:51:42 : 26 steps taken, and 1129 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:51:42 : 34 steps taken, and 1476 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:51:46 : 23 steps taken, and 1149 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:51:47 : 26 steps taken, and 1562 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:51:48 : 27 steps taken, and 1500 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:51:50 : 27 steps taken, and 1092 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:51:50 : 20 steps taken, and 1491 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:51:51 : 41 steps taken, and 1106 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:52:42 : 45 steps taken, and 1136 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:52:43 : 76 steps taken, and 1489 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:52:49 : 50 steps taken, and 1508 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:52:48 : 53 steps taken, and 1571 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:52:51 : 63 steps taken, and 1104 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:52:53 : 57 steps taken, and 1502 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:52:53 : 39 steps taken, and 1153 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:52:55 : 81 steps taken, and 1114 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:53:43 : 62 steps taken, and 1144 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:53:48 : 82 steps taken, and 1581 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:53:43 : 117 steps taken, and 1498 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:53:53 : 61 steps taken, and 1510 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:53:54 : 65 steps taken, and 1161 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:53:54 : 96 steps taken, and 1114 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:53:56 : 81 steps taken, and 1512 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:53:58 : 114 steps taken, and 1125 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:54:44 : 143 steps taken, and 1510 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:54:44 : 84 steps taken, and 1154 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:54:55 : 120 steps taken, and 1123 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:54:55 : 88 steps taken, and 1167 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:54:51 : 118 steps taken, and 1591 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:54:55 : 86 steps taken, and 1520 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:55:00 : 140 steps taken, and 1135 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:55:00 : 108 steps taken, and 1518 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   14180.941803293634       -2.7454916429192622E-007   1.0000000000000001E-007
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   14180.993929313039       -2.7454725248787781E-007   1.0000000000000001E-007
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   15012.683912198097       -2.3701566087552806E-007   1.0000000000000001E-007
+[6 : mcmc] Progress @ 2024-12-11 11:55:45 : 174 steps taken, and 1523 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:55:48 : 108 steps taken, and 1160 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:55:51 : 142 steps taken, and 1598 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:55:57 : 110 steps taken, and 1528 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:55:57 : 148 steps taken, and 1134 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:56:00 : 117 steps taken, and 1173 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:56:02 : 176 steps taken, and 1147 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:56:05 : 126 steps taken, and 1522 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:56:46 : 206 steps taken, and 1531 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:56:51 : 128 steps taken, and 1167 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:56:52 : 167 steps taken, and 1604 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:56:57 : 137 steps taken, and 1541 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:56:58 : 170 steps taken, and 1142 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:57:02 : 197 steps taken, and 1152 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:57:01 : 143 steps taken, and 1179 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:57:14 : 136 steps taken, and 1523 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:57:48 : 242 steps taken, and 1545 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:57:52 : 196 steps taken, and 1615 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:57:54 : 148 steps taken, and 1175 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:57:58 : 164 steps taken, and 1551 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:57:59 : 190 steps taken, and 1147 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:58:02 : 170 steps taken, and 1183 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:58:03 : 222 steps taken, and 1157 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:58:15 : 149 steps taken, and 1525 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:58:49 : 274 steps taken, and 1557 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:58:52 : 224 steps taken, and 1624 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:58:58 : 168 steps taken, and 1187 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:59:00 : 194 steps taken, and 1563 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:59:02 : 209 steps taken, and 1156 accepted.
+[5 : mcmc] Progress @ 2024-12-11 11:59:03 : 194 steps taken, and 1190 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:59:06 : 243 steps taken, and 1163 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:59:19 : 182 steps taken, and 1533 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:59:52 : 313 steps taken, and 1567 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:59:54 : 245 steps taken, and 1633 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:00:00 : 197 steps taken, and 1199 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:00:01 : 223 steps taken, and 1571 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:00:03 : 222 steps taken, and 1199 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:00:05 : 234 steps taken, and 1166 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:00:07 : 271 steps taken, and 1176 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:00:20 : 209 steps taken, and 1543 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:00:52 : 334 steps taken, and 1574 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:00:56 : 270 steps taken, and 1640 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:01:01 : 221 steps taken, and 1207 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:01:04 : 245 steps taken, and 1577 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:01:05 : 272 steps taken, and 1173 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:01:07 : 303 steps taken, and 1189 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:01:07 : 266 steps taken, and 1209 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:01:22 : 230 steps taken, and 1555 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:01:56 : 366 steps taken, and 1583 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:01:58 : 297 steps taken, and 1650 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:02:04 : 242 steps taken, and 1216 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:02:06 : 276 steps taken, and 1589 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:02:07 : 293 steps taken, and 1219 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:02:08 : 292 steps taken, and 1182 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:02:09 : 325 steps taken, and 1196 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:02:23 : 253 steps taken, and 1563 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:03:00 : 393 steps taken, and 1591 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:03:01 : 317 steps taken, and 1661 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:03:04 : 262 steps taken, and 1226 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:03:07 : 291 steps taken, and 1598 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:03:11 : 319 steps taken, and 1228 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:03:11 : 310 steps taken, and 1191 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:03:12 : 347 steps taken, and 1203 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:03:24 : 278 steps taken, and 1574 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:04:01 : 426 steps taken, and 1602 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:04:03 : 344 steps taken, and 1672 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:04:05 : 284 steps taken, and 1232 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:04:08 : 315 steps taken, and 1610 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:04:11 : 351 steps taken, and 1198 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:04:11 : 345 steps taken, and 1237 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:04:13 : 369 steps taken, and 1210 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:04:26 : 299 steps taken, and 1587 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:05:04 : 453 steps taken, and 1609 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:05:04 : 361 steps taken, and 1679 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:05:07 : 311 steps taken, and 1245 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:05:08 : 335 steps taken, and 1618 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:05:12 : 364 steps taken, and 1248 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:05:14 : 372 steps taken, and 1206 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:05:17 : 386 steps taken, and 1218 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:05:28 : 321 steps taken, and 1596 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:06:06 : 475 steps taken, and 1620 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:06:07 : 386 steps taken, and 1689 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:06:08 : 331 steps taken, and 1253 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:06:10 : 357 steps taken, and 1627 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:06:13 : 392 steps taken, and 1258 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:06:17 : 401 steps taken, and 1218 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:06:19 : 412 steps taken, and 1227 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:06:29 : 348 steps taken, and 1604 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:07:07 : 421 steps taken, and 1700 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:07:07 : 506 steps taken, and 1631 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:07:11 : 384 steps taken, and 1636 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:07:12 : 358 steps taken, and 1265 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:07:13 : 412 steps taken, and 1264 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:07:20 : 429 steps taken, and 1234 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:07:20 : 425 steps taken, and 1222 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:07:33 : 368 steps taken, and 1612 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:08:07 : 527 steps taken, and 1637 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:08:07 : 461 steps taken, and 1709 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:08:13 : 382 steps taken, and 1272 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:08:14 : 409 steps taken, and 1647 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:08:17 : 440 steps taken, and 1269 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:08:21 : 450 steps taken, and 1239 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:08:22 : 445 steps taken, and 1231 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:08:34 : 392 steps taken, and 1623 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:09:09 : 484 steps taken, and 1719 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:09:09 : 549 steps taken, and 1643 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:09:14 : 404 steps taken, and 1281 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:09:15 : 431 steps taken, and 1655 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:09:19 : 458 steps taken, and 1277 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:09:23 : 473 steps taken, and 1246 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:09:24 : 477 steps taken, and 1244 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:09:36 : 417 steps taken, and 1632 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:10:11 : 503 steps taken, and 1731 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:10:11 : 569 steps taken, and 1651 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:10:14 : 425 steps taken, and 1291 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:10:16 : 459 steps taken, and 1666 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:10:21 : 481 steps taken, and 1286 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:10:25 : 498 steps taken, and 1253 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:10:25 : 495 steps taken, and 1253 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:10:40 : 438 steps taken, and 1639 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:11:13 : 522 steps taken, and 1742 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:11:14 : 592 steps taken, and 1656 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:11:17 : 454 steps taken, and 1300 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:11:18 : 476 steps taken, and 1674 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:11:23 : 505 steps taken, and 1292 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:11:25 : 519 steps taken, and 1261 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:11:26 : 519 steps taken, and 1259 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:11:44 : 465 steps taken, and 1650 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:12:16 : 556 steps taken, and 1754 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:12:16 : 623 steps taken, and 1666 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:12:20 : 483 steps taken, and 1307 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:12:22 : 498 steps taken, and 1683 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:12:26 : 535 steps taken, and 1302 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:12:28 : 539 steps taken, and 1270 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:12:28 : 534 steps taken, and 1265 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:12:47 : 485 steps taken, and 1656 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:13:16 : 656 steps taken, and 1672 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:13:16 : 578 steps taken, and 1761 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:13:21 : 504 steps taken, and 1314 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:13:23 : 523 steps taken, and 1697 accepted.
+[5 : mcmc] Progress @ 2024-12-11 12:13:27 : 572 steps taken, and 1310 accepted.
+[3 : mcmc] Progress @ 2024-12-11 12:13:29 : 573 steps taken, and 1279 accepted.
+[1 : mcmc] Progress @ 2024-12-11 12:13:41 : 554 steps taken, and 1269 accepted.
+[0 : mcmc] Progress @ 2024-12-11 12:13:51 : 515 steps taken, and 1666 accepted.
+[6 : mcmc] Progress @ 2024-12-11 12:14:16 : 676 steps taken, and 1682 accepted.
+[4 : mcmc] Progress @ 2024-12-11 12:14:16 : 604 steps taken, and 1769 accepted.
+[7 : mcmc] Progress @ 2024-12-11 12:14:21 : 536 steps taken, and 1318 accepted.
+[2 : mcmc] Progress @ 2024-12-11 12:14:24 : 552 steps taken, and 1708 accepted.
+[node089:32789:0:32999] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc05111408)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  32999) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5ef1 dtauda_()  ???:0
+ 4 0x000000000004cfcc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node089:32789] *** Process received signal ***
+[node089:32789] Signal: Segmentation fault (11)
+[node089:32789] Signal code:  (-6)
+[node089:32789] Failing at address: 0x8cfb800008015
+[node089:32789] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f374a773630]
+[node089:32789] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f370fcbff63]
+[node089:32789] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f370fcc3a49]
+[node089:32789] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f370fd2bef1]
+[node089:32789] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfcc)[0x7f370fcd2fcc]
+[node089:32789] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f370fc5ff09]
+[node089:32789] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f374a76bea5]
+[node089:32789] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f3749d8bb0d]
+[node089:32789] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 7 with PID 32789 on node node089 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
