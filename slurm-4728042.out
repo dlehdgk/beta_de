@@ -1,0 +1,290 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'noHalo'
+[0 : output] Found existing info files with the requested output prefix: 'chains/noHalo'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : planck_2018_lensing.clik] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : mcmc] Resuming from previous sample!
+[1 : samplecollection] Loaded 1065 sample points from 'chains/noHalo.2.txt'
+[7 : samplecollection] Loaded 1117 sample points from 'chains/noHalo.8.txt'
+[5 : samplecollection] Loaded 1116 sample points from 'chains/noHalo.6.txt'
+[3 : samplecollection] Loaded 1055 sample points from 'chains/noHalo.4.txt'
+[0 : samplecollection] Loaded 1456 sample points from 'chains/noHalo.1.txt'
+[6 : samplecollection] Loaded 1438 sample points from 'chains/noHalo.7.txt'
+[2 : samplecollection] Loaded 1473 sample points from 'chains/noHalo.3.txt'
+[4 : samplecollection] Loaded 1522 sample points from 'chains/noHalo.5.txt'
+[0 : mcmc] Initial point: logA:3.043238, ns:0.9533665, theta_MC_100:1.040466, ombh2:0.02216079, omch2:0.1228635, w:-0.4507767, wa:-0.8789375, beta_DE:1.110764, tau:0.04457419, A_planck:1.006463, calib_100T:0.9992077, calib_217T:0.9981579, A_cib_217:59.39166, xi_sz_cib:0.1653482, A_sz:2.51656, ksz_norm:4.497451, gal545_A_100:6.929072, gal545_A_143:13.06935, gal545_A_143_217:16.39662, gal545_A_217:85.84266, ps_A_100_100:304.7139, ps_A_143_143:46.21486, ps_A_143_217:31.10159, ps_A_217_217:97.90897, galf_TE_A_100:0.0734921, galf_TE_A_100_143:0.08151126, galf_TE_A_100_217:0.4299561, galf_TE_A_143:0.1574012, galf_TE_A_143_217:0.5753678, galf_TE_A_217:2.028408
+[7 : mcmc] Initial point: logA:3.064319, ns:0.9723074, theta_MC_100:1.041639, ombh2:0.02251674, omch2:0.1182321, w:-1.371805, wa:-0.6354662, beta_DE:0.6678273, tau:0.06731927, A_planck:0.9986846, calib_100T:1.000454, calib_217T:0.9966378, A_cib_217:46.4147, xi_sz_cib:0.9102762, A_sz:4.876381, ksz_norm:5.472606, gal545_A_100:9.650034, gal545_A_143:11.13907, gal545_A_143_217:15.35722, gal545_A_217:86.72892, ps_A_100_100:229.4864, ps_A_143_143:36.96307, ps_A_143_217:40.21393, ps_A_217_217:106.6964, galf_TE_A_100:0.1214383, galf_TE_A_100_143:0.1588367, galf_TE_A_100_217:0.5538373, galf_TE_A_143:0.2076442, galf_TE_A_143_217:0.5850154, galf_TE_A_217:1.658178
+[5 : mcmc] Initial point: logA:3.048384, ns:0.9601146, theta_MC_100:1.041099, ombh2:0.02228575, omch2:0.1204416, w:-1.640319, wa:-1.482252, beta_DE:0.6241363, tau:0.0570197, A_planck:0.998776, calib_100T:1.00061, calib_217T:0.9974316, A_cib_217:45.09103, xi_sz_cib:0.2035108, A_sz:1.734558, ksz_norm:7.531625, gal545_A_100:9.082889, gal545_A_143:10.1581, gal545_A_143_217:16.67455, gal545_A_217:90.9067, ps_A_100_100:311.1455, ps_A_143_143:47.88246, ps_A_143_217:26.13288, ps_A_217_217:107.5216, galf_TE_A_100:0.1277173, galf_TE_A_100_143:0.1388367, galf_TE_A_100_217:0.4191751, galf_TE_A_143:0.2243932, galf_TE_A_143_217:0.5873184, galf_TE_A_217:2.055185
+[3 : mcmc] Initial point: logA:3.047584, ns:0.9672791, theta_MC_100:1.041012, ombh2:0.02240268, omch2:0.1202455, w:-1.232096, wa:-0.7393012, beta_DE:2.257232, tau:0.05753696, A_planck:0.9990829, calib_100T:0.9997021, calib_217T:0.998859, A_cib_217:40.97315, xi_sz_cib:0.453778, A_sz:5.211983, ksz_norm:1.652863, gal545_A_100:6.335756, gal545_A_143:10.93244, gal545_A_143_217:20.05598, gal545_A_217:102.5338, ps_A_100_100:288.5016, ps_A_143_143:43.69487, ps_A_143_217:41.78753, ps_A_217_217:124.216, galf_TE_A_100:0.08074678, galf_TE_A_100_143:0.1506323, galf_TE_A_100_217:0.3962972, galf_TE_A_143:0.2817267, galf_TE_A_143_217:0.5440642, galf_TE_A_217:1.805906
+[1 : mcmc] Initial point: logA:3.024923, ns:0.9635814, theta_MC_100:1.041198, ombh2:0.02239371, omch2:0.1207979, w:-0.9965049, wa:-1.216123, beta_DE:0.2360683, tau:0.04691959, A_planck:0.9962589, calib_100T:1.000026, calib_217T:0.9983744, A_cib_217:50.61624, xi_sz_cib:0.2418756, A_sz:7.192681, ksz_norm:3.602872, gal545_A_100:10.37763, gal545_A_143:10.48686, gal545_A_143_217:17.08322, gal545_A_217:89.97819, ps_A_100_100:216.0484, ps_A_143_143:26.03638, ps_A_143_217:31.11984, ps_A_217_217:101.7256, galf_TE_A_100:0.10854, galf_TE_A_100_143:0.07183674, galf_TE_A_100_217:0.4824513, galf_TE_A_143:0.1649275, galf_TE_A_143_217:0.5661615, galf_TE_A_217:2.107958
+[4 : mcmc] Initial point: logA:3.038106, ns:0.9696054, theta_MC_100:1.040936, ombh2:0.02261803, omch2:0.118848, w:-1.708369, wa:-0.6795904, beta_DE:2.770442, tau:0.05436574, A_planck:0.9992119, calib_100T:0.999572, calib_217T:0.9984104, A_cib_217:63.0865, xi_sz_cib:0.4499832, A_sz:8.562235, ksz_norm:1.340445, gal545_A_100:7.551483, gal545_A_143:12.44859, gal545_A_143_217:17.29561, gal545_A_217:79.25362, ps_A_100_100:250.6079, ps_A_143_143:34.60131, ps_A_143_217:41.45292, ps_A_217_217:96.25035, galf_TE_A_100:0.1256557, galf_TE_A_100_143:0.1400887, galf_TE_A_100_217:0.4031957, galf_TE_A_143:0.1588695, galf_TE_A_143_217:0.5620334, galf_TE_A_217:1.801813
+[6 : mcmc] Initial point: logA:3.029168, ns:0.9646486, theta_MC_100:1.040945, ombh2:0.02233915, omch2:0.1198371, w:-1.632076, wa:0.8938595, beta_DE:2.892733, tau:0.04701311, A_planck:1.000219, calib_100T:1.000484, calib_217T:0.9981966, A_cib_217:45.89071, xi_sz_cib:0.8978073, A_sz:8.286954, ksz_norm:2.284385, gal545_A_100:9.466171, gal545_A_143:9.59596, gal545_A_143_217:20.06688, gal545_A_217:94.31078, ps_A_100_100:208.3151, ps_A_143_143:48.34826, ps_A_143_217:57.99973, ps_A_217_217:120.4872, galf_TE_A_100:0.1430362, galf_TE_A_100_143:0.152082, galf_TE_A_100_217:0.4567062, galf_TE_A_143:0.2376307, galf_TE_A_143_217:0.7081233, galf_TE_A_217:2.270296
+[2 : mcmc] Initial point: logA:3.04654, ns:0.9718366, theta_MC_100:1.041041, ombh2:0.02252843, omch2:0.1184359, w:-1.53496, wa:0.4251733, beta_DE:0.2261575, tau:0.06006043, A_planck:0.9987611, calib_100T:0.9997114, calib_217T:0.9981106, A_cib_217:42.84713, xi_sz_cib:0.1848224, A_sz:4.639143, ksz_norm:2.211447, gal545_A_100:10.01126, gal545_A_143:8.62223, gal545_A_143_217:12.51925, gal545_A_217:89.9021, ps_A_100_100:265.438, ps_A_143_143:46.97069, ps_A_143_217:43.83951, ps_A_217_217:120.734, galf_TE_A_100:0.1465695, galf_TE_A_100_143:0.1714021, galf_TE_A_100_217:0.4714478, galf_TE_A_143:0.2251326, galf_TE_A_143_217:0.7612422, galf_TE_A_217:2.28759
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 14 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[5 : mcmc] Progress @ 2024-12-11 11:39:38 : 1 steps taken, and 1116 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:39:38 : 1 steps taken, and 1055 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:39:43 : 1 steps taken, and 1522 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:39:43 : 1 steps taken, and 1473 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:39:45 : 1 steps taken, and 1438 accepted.
+[7 : mcmc] Progress @ 2024-12-11 11:39:45 : 1 steps taken, and 1117 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:39:45 : 1 steps taken, and 1456 accepted.
+[1 : mcmc] Progress @ 2024-12-11 11:39:45 : 1 steps taken, and 1065 accepted.
+[6 : mcmc] Learn + convergence test @ 1440 samples accepted.
+[6 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[5 : mcmc] Progress @ 2024-12-11 11:40:39 : 43 steps taken, and 1123 accepted.
+[3 : mcmc] Progress @ 2024-12-11 11:40:40 : 18 steps taken, and 1058 accepted.
+[2 : mcmc] Progress @ 2024-12-11 11:40:43 : 28 steps taken, and 1482 accepted.
+[4 : mcmc] Progress @ 2024-12-11 11:40:44 : 39 steps taken, and 1531 accepted.
+[0 : mcmc] Progress @ 2024-12-11 11:40:45 : 22 steps taken, and 1463 accepted.
+[node089:31091:0:31091] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0413f318)
+[7 : mcmc] Progress @ 2024-12-11 11:40:45 : 21 steps taken, and 1125 accepted.
+[6 : mcmc] Progress @ 2024-12-11 11:40:47 : 24 steps taken, and 1447 accepted.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+[1 : mcmc] Progress @ 2024-12-11 11:40:55 : 35 steps taken, and 1070 accepted.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  31091) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5ef1 dtauda_()  ???:0
+ 4 0x000000000004cfcc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7b2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f30f3 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f93cf __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105016 __camb_MOD_camb_getresults()  ???:0
+10 0x000000000010fcaf __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node089:31091] *** Process received signal ***
+[node089:31091] Signal: Segmentation fault (11)
+[node089:31091] Signal code:  (-6)
+[node089:31091] Failing at address: 0x8cfb800007973
+[node089:31091] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f9110e77630]
+[node089:31091] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f90d5b7bf63]
+[node089:31091] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f90d5b7fa49]
+[node089:31091] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f90d5be7ef1]
+[node089:31091] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfcc)[0x7f90d5b8efcc]
+[node089:31091] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f90d5b17295]
+[node089:31091] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f90d5b917b2]
+[node089:31091] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f90d5c350f3]
+[node089:31091] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f90d5c3b3cf]
+[node089:31091] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f90d5c47016]
+[node089:31091] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f90d5c51caf]
+[node089:31091] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f9111132a4a]
+[node089:31091] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f9111131fea]
+[node089:31091] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f90ed62e1e0]
+[node089:31091] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f90ed6376ee]
+[node089:31091] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node089:31091] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node089:31091] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node089:31091] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node089:31091] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node089:31091] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node089:31091] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node089:31091] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node089:31091] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node089:31091] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node089:31091] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node089:31091] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node089:31091] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node089:31091] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node089:31091] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node089:31091] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 2 with PID 31091 on node node089 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
