@@ -1,0 +1,111 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'noHalo'
+[0 : output] Found existing info files with the requested output prefix: 'chains/noHalo'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[0 : planck_2018_lensing.clik] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+Checking lensing likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/lensing/smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8.clik_lensing' on test data. got -4.42102
+[0 : mcmc] Resuming from previous sample!
+[3 : samplecollection] Loaded 3412 sample points from 'chains/noHalo.4.txt'
+[1 : samplecollection] Loaded 3453 sample points from 'chains/noHalo.2.txt'
+[0 : samplecollection] Loaded 4210 sample points from 'chains/noHalo.1.txt'
+[2 : samplecollection] Loaded 4300 sample points from 'chains/noHalo.3.txt'
+[3 : mcmc] Initial point: logA:2.998554, ns:0.9623601, theta_MC_100:1.040448, ombh2:0.02224798, omch2:0.1205849, w:-0.9559205, wa:-0.5588295, beta_DE:1.371224, tau:0.02758462, A_planck:1.00378, calib_100T:0.999479, calib_217T:0.9974087, A_cib_217:51.18037, xi_sz_cib:0.7571444, A_sz:7.515252, ksz_norm:0.5738679, gal545_A_100:7.272033, gal545_A_143:11.03196, gal545_A_143_217:16.63345, gal545_A_217:85.18471, ps_A_100_100:250.4713, ps_A_143_143:54.76488, ps_A_143_217:59.33555, ps_A_217_217:119.47, galf_TE_A_100:0.1565252, galf_TE_A_100_143:0.1691989, galf_TE_A_100_217:0.4223218, galf_TE_A_143:0.3205955, galf_TE_A_143_217:0.692553, galf_TE_A_217:2.131373
+[1 : mcmc] Initial point: logA:3.03911, ns:0.9738451, theta_MC_100:1.041293, ombh2:0.02274925, omch2:0.1162965, w:0.37087, wa:-2.533212, beta_DE:-1.650011, tau:0.05794148, A_planck:0.9978971, calib_100T:0.9993876, calib_217T:0.9983901, A_cib_217:46.0923, xi_sz_cib:0.8225181, A_sz:5.78289, ksz_norm:1.989609, gal545_A_100:10.74329, gal545_A_143:12.06195, gal545_A_143_217:17.42184, gal545_A_217:90.23138, ps_A_100_100:220.3261, ps_A_143_143:41.36557, ps_A_143_217:48.18881, ps_A_217_217:115.974, galf_TE_A_100:0.08429371, galf_TE_A_100_143:0.1406573, galf_TE_A_100_217:0.5037317, galf_TE_A_143:0.2424185, galf_TE_A_143_217:0.6622149, galf_TE_A_217:1.98838
+[2 : mcmc] Initial point: logA:3.062814, ns:0.9640647, theta_MC_100:1.041183, ombh2:0.02256458, omch2:0.1194931, w:-1.210538, wa:-2.201438, beta_DE:2.236025, tau:0.05951431, A_planck:1.004553, calib_100T:0.9999516, calib_217T:0.9985486, A_cib_217:47.0881, xi_sz_cib:0.62981, A_sz:5.822608, ksz_norm:5.048147, gal545_A_100:6.667213, gal545_A_143:7.851944, gal545_A_143_217:14.28268, gal545_A_217:85.10516, ps_A_100_100:255.8228, ps_A_143_143:44.27846, ps_A_143_217:44.19607, ps_A_217_217:117.0001, galf_TE_A_100:0.1071958, galf_TE_A_100_143:0.140381, galf_TE_A_100_217:0.6235929, galf_TE_A_143:0.1947045, galf_TE_A_143_217:0.7548678, galf_TE_A_217:2.326265
+[0 : mcmc] Initial point: logA:3.035969, ns:0.969749, theta_MC_100:1.041073, ombh2:0.0225099, omch2:0.1180618, w:-1.264724, wa:-1.539951, beta_DE:0.8638408, tau:0.04968172, A_planck:1.001372, calib_100T:1.000659, calib_217T:0.9976282, A_cib_217:43.50346, xi_sz_cib:0.1957715, A_sz:5.713743, ksz_norm:0.333483, gal545_A_100:10.46127, gal545_A_143:9.326012, gal545_A_143_217:12.78284, gal545_A_217:90.62358, ps_A_100_100:251.5793, ps_A_143_143:49.06683, ps_A_143_217:44.9001, ps_A_217_217:121.199, galf_TE_A_100:0.065374, galf_TE_A_100_143:0.1163018, galf_TE_A_100_217:0.5999641, galf_TE_A_143:0.1980011, galf_TE_A_143_217:0.7611942, galf_TE_A_217:2.093797
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 9 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2024-12-13 00:22:39 : 1 steps taken, and 3412 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:22:39 : 1 steps taken, and 3453 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:22:50 : 1 steps taken, and 4300 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:22:50 : 1 steps taken, and 4210 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:23:39 : 53 steps taken, and 3429 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:23:40 : 48 steps taken, and 3463 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:23:50 : 12 steps taken, and 4213 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:23:51 : 10 steps taken, and 4305 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:24:41 : 118 steps taken, and 3475 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:24:48 : 100 steps taken, and 3441 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:24:53 : 27 steps taken, and 4217 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:24:58 : 24 steps taken, and 4309 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:25:41 : 174 steps taken, and 3502 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:25:49 : 173 steps taken, and 3464 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:25:58 : 37 steps taken, and 4224 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:25:58 : 41 steps taken, and 4313 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:26:46 : 231 steps taken, and 3514 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:26:49 : 228 steps taken, and 3484 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:26:58 : 47 steps taken, and 4226 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:26:59 : 57 steps taken, and 4317 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:27:50 : 279 steps taken, and 3498 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:27:50 : 264 steps taken, and 3523 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:28:02 : 66 steps taken, and 4233 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:28:05 : 73 steps taken, and 4320 accepted.
+[2 : mcmc] Learn + convergence test @ 4320 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2024-12-13 00:28:52 : 341 steps taken, and 3540 accepted.
+[0 : mcmc] Progress @ 2024-12-13 00:29:05 : 76 steps taken, and 4237 accepted.
+[2 : mcmc] Progress @ 2024-12-13 00:29:08 : 83 steps taken, and 4324 accepted.
+[3 : mcmc] Progress @ 2024-12-13 00:29:08 : 324 steps taken, and 3512 accepted.
+[1 : mcmc] Progress @ 2024-12-13 00:29:52 : 396 steps taken, and 3555 accepted.
+[node073:21337:0:21416] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0522e518)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  21416) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5ef1 dtauda_()  ???:0
+ 4 0x000000000004cfcc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node073:21337] *** Process received signal ***
+[node073:21337] Signal: Segmentation fault (11)
+[node073:21337] Signal code:  (-6)
+[node073:21337] Failing at address: 0x8cfb800005359
+[node073:21337] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f41c6746630]
+[node073:21337] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f416984bf63]
+[node073:21337] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f416984fa49]
+[node073:21337] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f41698b7ef1]
+[node073:21337] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfcc)[0x7f416985efcc]
+[node073:21337] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f41697ebf09]
+[node073:21337] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f41c673eea5]
+[node073:21337] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f41c5d5eb0d]
+[node073:21337] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 21337 on node node073 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
