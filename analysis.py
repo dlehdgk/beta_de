@@ -6,7 +6,7 @@ import numpy as np
 from getdist import plots
 
 # specify chain file root
-chain_root = "./chains/noHalo"
+chain_root = "./chains/full"
 
 # directory and base name
 chain_dir = os.path.dirname(chain_root)
