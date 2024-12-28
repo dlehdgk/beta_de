@@ -1,0 +1,134 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'act-full'
+[0 : output] Found existing info files with the requested output prefix: 'chains/act-full'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[2 : bao.desi_2024_bao_all] Initialized.
+[3 : bao.desi_2024_bao_all] Initialized.
+[1 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : samplecollection] Loaded 2666 sample points from 'chains/act-full.3.txt'
+[0 : samplecollection] Loaded 2543 sample points from 'chains/act-full.1.txt'
+[3 : samplecollection] Loaded 1818 sample points from 'chains/act-full.4.txt'
+[1 : samplecollection] Loaded 1864 sample points from 'chains/act-full.2.txt'
+[0 : mcmc] Initial point: logA:3.102141, ns:1.012082, theta_MC_100:1.05046, ombh2:0.03381042, omch2:0.1324223, w:-0.8333799, wa:-0.7976768, beta_DE:2.207442, tau:0.06595703
+[2 : mcmc] Initial point: logA:3.09096, ns:1.024432, theta_MC_100:1.024679, ombh2:0.02660137, omch2:0.1030245, w:-0.8351101, wa:-0.1852094, beta_DE:1.468651, tau:0.05888404
+[1 : mcmc] Initial point: logA:3.079615, ns:1.016554, theta_MC_100:1.041146, ombh2:0.03091241, omch2:0.1252545, w:-0.8235042, wa:-0.4031759, beta_DE:-0.5034424, tau:0.07357277
+[3 : mcmc] Initial point: logA:3.04952, ns:1.009902, theta_MC_100:1.032264, ombh2:0.02082591, omch2:0.1088255, w:-0.8549074, wa:-0.2629512, beta_DE:-0.6258952, tau:0.05915707
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] *WARNING* Dragging disabled: speed ratios < 2.
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2024-12-28 18:29:00 : 1 steps taken, and 2543 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:29:00 : 1 steps taken, and 2666 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:29:05 : 1 steps taken, and 1864 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:29:06 : 1 steps taken, and 1818 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:30:01 : 31 steps taken, and 2672 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:30:02 : 34 steps taken, and 2547 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:30:09 : 11 steps taken, and 1866 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:30:12 : 12 steps taken, and 1818 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:31:02 : 63 steps taken, and 2550 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:31:03 : 63 steps taken, and 2679 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:31:14 : 22 steps taken, and 1819 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:31:16 : 23 steps taken, and 1870 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:32:03 : 94 steps taken, and 2558 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:32:04 : 95 steps taken, and 2689 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:32:19 : 34 steps taken, and 1821 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:32:22 : 33 steps taken, and 1872 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:33:04 : 127 steps taken, and 2563 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:33:05 : 123 steps taken, and 2696 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:33:22 : 47 steps taken, and 1826 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:33:23 : 45 steps taken, and 1875 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:34:06 : 158 steps taken, and 2570 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:34:07 : 155 steps taken, and 2710 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:34:26 : 60 steps taken, and 1831 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:34:29 : 58 steps taken, and 1878 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:35:06 : 188 steps taken, and 2578 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:35:07 : 180 steps taken, and 2717 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:35:33 : 73 steps taken, and 1837 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:35:35 : 71 steps taken, and 1880 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:36:07 : 218 steps taken, and 2582 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:36:08 : 208 steps taken, and 2725 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:36:37 : 88 steps taken, and 1841 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:36:37 : 87 steps taken, and 1882 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:37:08 : 249 steps taken, and 2591 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:37:09 : 239 steps taken, and 2732 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:37:38 : 105 steps taken, and 1846 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:37:41 : 100 steps taken, and 1886 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:38:09 : 271 steps taken, and 2736 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:38:10 : 283 steps taken, and 2600 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:38:39 : 120 steps taken, and 1850 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:38:42 : 112 steps taken, and 1891 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   11855.940280807956       -1.9033353937381037E-007   1.0000000000000001E-007
+[2 : mcmc] Progress @ 2024-12-28 18:39:10 : 297 steps taken, and 2739 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:39:11 : 314 steps taken, and 2608 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:39:40 : 138 steps taken, and 1855 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:39:42 : 126 steps taken, and 1895 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:40:12 : 327 steps taken, and 2744 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:40:12 : 344 steps taken, and 2617 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   12488.376929678294       -3.3703746438185078E-007   1.0000000000000001E-007
+[3 : mcmc] Progress @ 2024-12-28 18:40:42 : 159 steps taken, and 1861 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:40:47 : 142 steps taken, and 1899 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:41:12 : 358 steps taken, and 2752 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:41:13 : 375 steps taken, and 2622 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:41:49 : 178 steps taken, and 1865 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:41:53 : 155 steps taken, and 1900 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:42:13 : 390 steps taken, and 2767 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:42:13 : 405 steps taken, and 2628 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:42:50 : 191 steps taken, and 1868 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:43:00 : 166 steps taken, and 1903 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:43:13 : 421 steps taken, and 2781 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:43:14 : 436 steps taken, and 2634 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:43:50 : 203 steps taken, and 1873 accepted.
+[1 : mcmc] Progress @ 2024-12-28 18:44:02 : 179 steps taken, and 1905 accepted.
+[2 : mcmc] Progress @ 2024-12-28 18:44:14 : 464 steps taken, and 2794 accepted.
+[0 : mcmc] Progress @ 2024-12-28 18:44:16 : 468 steps taken, and 2642 accepted.
+[3 : mcmc] Progress @ 2024-12-28 18:44:52 : 216 steps taken, and 1878 accepted.
+[node024:12882:0:13489] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0420e4d8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  13489) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node024:12882] *** Process received signal ***
+[node024:12882] Signal: Segmentation fault (11)
+[node024:12882] Signal code:  (-6)
+[node024:12882] Failing at address: 0x8cfb800003252
+[node024:12882] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7fad76b8a630]
+[node024:12882] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7fad3bcfef63]
+[node024:12882] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7fad3bd02a49]
+[node024:12882] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7fad3bd6af01]
+[node024:12882] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7fad3bd11fdc]
+[node024:12882] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7fad3bc9ef09]
+[node024:12882] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7fad76b82ea5]
+[node024:12882] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7fad761a2b0d]
+[node024:12882] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 12882 on node node024 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
