@@ -1,0 +1,79 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'act-full'
+[0 : output] Found existing info files with the requested output prefix: 'chains/act-full'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.desi_2024_bao_all] Initialized.
+[1 : bao.desi_2024_bao_all] Initialized.
+[2 : bao.desi_2024_bao_all] Initialized.
+[0 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[3 : samplecollection] Loaded 2463 sample points from 'chains/act-full.4.txt'
+[1 : samplecollection] Loaded 2416 sample points from 'chains/act-full.2.txt'
+[2 : samplecollection] Loaded 3337 sample points from 'chains/act-full.3.txt'
+[0 : samplecollection] Loaded 3218 sample points from 'chains/act-full.1.txt'
+[3 : mcmc] Initial point: logA:3.043697, ns:1.016934, theta_MC_100:1.029907, ombh2:0.01942573, omch2:0.1039637, w:-1.044215, wa:0.3859581, beta_DE:2.863024, tau:0.04116928
+[1 : mcmc] Initial point: logA:3.09846, ns:1.031221, theta_MC_100:1.017305, ombh2:0.02070975, omch2:0.09542224, w:-0.8828507, wa:-0.005160487, beta_DE:-0.8921326, tau:0.05035254
+[0 : mcmc] Initial point: logA:3.076348, ns:0.9904352, theta_MC_100:1.0444, ombh2:0.02650794, omch2:0.1218977, w:-0.7893507, wa:-0.8472182, beta_DE:2.69508, tau:0.06087976
+[2 : mcmc] Initial point: logA:3.061134, ns:1.008643, theta_MC_100:1.035276, ombh2:0.02487088, omch2:0.1085928, w:-0.8739988, wa:-0.07890957, beta_DE:0.1063875, tau:0.05296217
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] *WARNING* Dragging disabled: speed ratios < 2.
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[1 : mcmc] Progress @ 2025-01-02 14:31:32 : 1 steps taken, and 2416 accepted.
+[3 : mcmc] Progress @ 2025-01-02 14:31:32 : 1 steps taken, and 2463 accepted.
+[2 : mcmc] Progress @ 2025-01-02 14:31:32 : 1 steps taken, and 3337 accepted.
+[0 : mcmc] Progress @ 2025-01-02 14:31:32 : 1 steps taken, and 3218 accepted.
+[2 : mcmc] Progress @ 2025-01-02 14:32:33 : 30 steps taken, and 3344 accepted.
+[1 : mcmc] Progress @ 2025-01-02 14:32:34 : 51 steps taken, and 2419 accepted.
+[0 : mcmc] Progress @ 2025-01-02 14:32:34 : 39 steps taken, and 3227 accepted.
+[3 : mcmc] Progress @ 2025-01-02 14:32:34 : 42 steps taken, and 2471 accepted.
+[0 : mcmc] Progress @ 2025-01-02 14:33:34 : 76 steps taken, and 3232 accepted.
+[2 : mcmc] Progress @ 2025-01-02 14:33:35 : 75 steps taken, and 3356 accepted.
+[1 : mcmc] Progress @ 2025-01-02 14:33:36 : 82 steps taken, and 2424 accepted.
+[3 : mcmc] Progress @ 2025-01-02 14:33:36 : 79 steps taken, and 2479 accepted.
+[node091:28694:0:28793] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc031cfcd8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  28793) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node091:28694] *** Process received signal ***
+[node091:28694] Signal: Segmentation fault (11)
+[node091:28694] Signal code:  (-6)
+[node091:28694] Failing at address: 0x8cfb800007016
+[node091:28694] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f7f7ff99630]
+[node091:28694] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f7f230d8f63]
+[node091:28694] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f7f230dca49]
+[node091:28694] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f7f23144f01]
+[node091:28694] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f7f230ebfdc]
+[node091:28694] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f7f23078f09]
+[node091:28694] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f7f7ff91ea5]
+[node091:28694] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f7f7f5b1b0d]
+[node091:28694] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 28694 on node node091 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
