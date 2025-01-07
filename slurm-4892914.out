@@ -1,0 +1,99 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'act-full'
+[0 : output] Found existing info files with the requested output prefix: 'chains/act-full'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.desi_2024_bao_all] Initialized.
+[3 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[2 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[1 : samplecollection] Loaded 3445 sample points from 'chains/act-full.2.txt'
+[3 : samplecollection] Loaded 3494 sample points from 'chains/act-full.4.txt'
+[2 : samplecollection] Loaded 4369 sample points from 'chains/act-full.3.txt'
+[0 : samplecollection] Loaded 4251 sample points from 'chains/act-full.1.txt'
+[1 : mcmc] Initial point: logA:3.108694, ns:1.003985, theta_MC_100:1.021358, ombh2:0.02422209, omch2:0.09969919, w:-0.7996734, wa:-0.414936, beta_DE:2.804999, tau:0.07325731
+[3 : mcmc] Initial point: logA:3.057345, ns:1.0143, theta_MC_100:1.02779, ombh2:0.02025284, omch2:0.1049469, w:-0.9059581, wa:-0.07247063, beta_DE:0.1103022, tau:0.05992961
+[2 : mcmc] Initial point: logA:3.164212, ns:1.057313, theta_MC_100:1.048488, ombh2:0.04559008, omch2:0.1384339, w:-0.9723141, wa:0.3584595, beta_DE:1.999853, tau:0.07969966
+[0 : mcmc] Initial point: logA:3.067687, ns:0.9782792, theta_MC_100:1.051925, ombh2:0.0279659, omch2:0.1282779, w:-0.8613127, wa:-0.2240419, beta_DE:2.420781, tau:0.04439138
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] *WARNING* Dragging disabled: speed ratios < 2.
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-01-03 15:47:18 : 1 steps taken, and 3494 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:47:20 : 1 steps taken, and 4369 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:47:20 : 1 steps taken, and 3445 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:47:20 : 1 steps taken, and 4251 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:48:19 : 40 steps taken, and 3502 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:48:22 : 35 steps taken, and 3449 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:48:22 : 41 steps taken, and 4376 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:48:23 : 35 steps taken, and 4254 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:49:20 : 90 steps taken, and 3509 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:49:23 : 68 steps taken, and 4257 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:49:23 : 70 steps taken, and 3454 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:49:24 : 82 steps taken, and 4380 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:50:21 : 132 steps taken, and 3512 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:50:24 : 103 steps taken, and 3462 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:50:25 : 101 steps taken, and 4261 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:50:25 : 124 steps taken, and 4384 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:51:22 : 177 steps taken, and 3518 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:51:25 : 140 steps taken, and 3468 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:51:25 : 139 steps taken, and 4266 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:51:26 : 161 steps taken, and 4389 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:52:23 : 204 steps taken, and 3523 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:52:27 : 174 steps taken, and 4271 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:52:27 : 183 steps taken, and 3478 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:52:27 : 202 steps taken, and 4397 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:53:23 : 239 steps taken, and 3528 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:53:27 : 221 steps taken, and 3489 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:53:27 : 241 steps taken, and 4403 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:53:29 : 211 steps taken, and 4279 accepted.
+[3 : mcmc] Progress @ 2025-01-03 15:54:24 : 269 steps taken, and 3537 accepted.
+[2 : mcmc] Progress @ 2025-01-03 15:54:28 : 278 steps taken, and 4404 accepted.
+[1 : mcmc] Progress @ 2025-01-03 15:54:28 : 255 steps taken, and 3493 accepted.
+[0 : mcmc] Progress @ 2025-01-03 15:54:30 : 254 steps taken, and 4285 accepted.
+[node128:60073:0:60162] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc02e0d578)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  60162) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node128:60073] *** Process received signal ***
+[node128:60073] Signal: Segmentation fault (11)
+[node128:60073] Signal code:  (-6)
+[node128:60073] Failing at address: 0x8cfb80000eaa9
+[node128:60073] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7ff4d6123630]
+[node128:60073] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7ff4796b1f63]
+[node128:60073] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7ff4796b5a49]
+[node128:60073] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7ff47971df01]
+[node128:60073] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7ff4796c4fdc]
+[node128:60073] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7ff479651f09]
+[node128:60073] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7ff4d611bea5]
+[node128:60073] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7ff4d573bb0d]
+[node128:60073] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 2 with PID 60073 on node node128 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

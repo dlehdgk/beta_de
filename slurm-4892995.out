@@ -1,0 +1,139 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'act-full'
+[0 : output] Found existing info files with the requested output prefix: 'chains/act-full'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[2 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[3 : samplecollection] Loaded 3567 sample points from 'chains/act-full.4.txt'
+[1 : samplecollection] Loaded 3527 sample points from 'chains/act-full.2.txt'
+[0 : samplecollection] Loaded 4315 sample points from 'chains/act-full.1.txt'
+[2 : samplecollection] Loaded 4423 sample points from 'chains/act-full.3.txt'
+[3 : mcmc] Initial point: logA:3.107405, ns:1.054944, theta_MC_100:1.019806, ombh2:0.02429075, omch2:0.09644694, w:-0.864011, wa:0.03937276, beta_DE:2.407161, tau:0.0616126
+[1 : mcmc] Initial point: logA:3.054995, ns:1.015518, theta_MC_100:1.040396, ombh2:0.02627044, omch2:0.1172484, w:-0.9004495, wa:-0.1361537, beta_DE:2.664789, tau:0.05757498
+[0 : mcmc] Initial point: logA:3.053319, ns:0.9650068, theta_MC_100:1.047307, ombh2:0.02049693, omch2:0.1218614, w:-0.8842086, wa:-0.2570179, beta_DE:0.4777935, tau:0.05035385
+[2 : mcmc] Initial point: logA:3.204442, ns:1.076922, theta_MC_100:1.055298, ombh2:0.05210428, omch2:0.1472687, w:-0.9939725, wa:0.5569935, beta_DE:2.177003, tau:0.06596672
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] *WARNING* Dragging disabled: speed ratios < 2.
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-01-03 16:04:59 : 1 steps taken, and 3567 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:05:02 : 1 steps taken, and 3527 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:05:02 : 1 steps taken, and 4423 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:05:02 : 1 steps taken, and 4315 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:06:02 : 37 steps taken, and 3573 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:06:03 : 49 steps taken, and 4427 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:06:04 : 43 steps taken, and 3534 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:06:04 : 32 steps taken, and 4319 accepted.
+[0 : mcmc] Learn + convergence test @ 4320 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Progress @ 2025-01-03 16:07:03 : 89 steps taken, and 4430 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:07:04 : 71 steps taken, and 3580 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:07:04 : 77 steps taken, and 3544 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:07:04 : 61 steps taken, and 4324 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:08:04 : 104 steps taken, and 3588 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:08:04 : 131 steps taken, and 4435 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:08:06 : 113 steps taken, and 3550 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:08:06 : 88 steps taken, and 4328 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:09:05 : 165 steps taken, and 4439 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:09:06 : 139 steps taken, and 3597 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:09:07 : 153 steps taken, and 3555 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:09:07 : 121 steps taken, and 4337 accepted.
+[3 : mcmc] Learn + convergence test @ 3600 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-01-03 16:10:06 : 175 steps taken, and 3604 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:10:08 : 156 steps taken, and 4343 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:10:09 : 199 steps taken, and 3562 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:10:10 : 214 steps taken, and 4451 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:11:08 : 211 steps taken, and 3610 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:11:08 : 188 steps taken, and 4351 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:11:10 : 238 steps taken, and 3568 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:11:11 : 268 steps taken, and 4455 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   11419.603648009483       -3.6965153293877506E-007   1.0000000000000001E-007
+[3 : mcmc] Progress @ 2025-01-03 16:12:08 : 250 steps taken, and 3617 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:12:08 : 228 steps taken, and 4361 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:12:11 : 282 steps taken, and 3572 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:12:13 : 302 steps taken, and 4459 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:13:08 : 286 steps taken, and 3619 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:13:09 : 273 steps taken, and 4372 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:13:12 : 315 steps taken, and 3582 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:13:15 : 338 steps taken, and 4465 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:14:08 : 319 steps taken, and 3628 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:14:09 : 314 steps taken, and 4378 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:14:13 : 346 steps taken, and 3583 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:14:16 : 374 steps taken, and 4472 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:15:09 : 345 steps taken, and 3634 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:15:09 : 351 steps taken, and 4385 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:15:13 : 383 steps taken, and 3591 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:15:16 : 413 steps taken, and 4478 accepted.
+[1 : mcmc] Learn + convergence test @ 3600 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[3 : mcmc] Progress @ 2025-01-03 16:16:10 : 378 steps taken, and 3640 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:16:12 : 386 steps taken, and 4392 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:16:14 : 427 steps taken, and 3602 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:16:18 : 461 steps taken, and 4490 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:17:12 : 414 steps taken, and 3651 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:17:14 : 410 steps taken, and 4395 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:17:16 : 460 steps taken, and 3609 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:17:20 : 498 steps taken, and 4491 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:18:12 : 445 steps taken, and 3656 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:18:15 : 444 steps taken, and 4402 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:18:17 : 488 steps taken, and 3612 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:18:21 : 549 steps taken, and 4496 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:19:14 : 479 steps taken, and 3661 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:19:17 : 478 steps taken, and 4411 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:19:18 : 516 steps taken, and 3617 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:19:22 : 589 steps taken, and 4500 accepted.
+[3 : mcmc] Progress @ 2025-01-03 16:20:15 : 522 steps taken, and 3667 accepted.
+[1 : mcmc] Progress @ 2025-01-03 16:20:18 : 549 steps taken, and 3623 accepted.
+[0 : mcmc] Progress @ 2025-01-03 16:20:19 : 511 steps taken, and 4417 accepted.
+[2 : mcmc] Progress @ 2025-01-03 16:20:23 : 632 steps taken, and 4505 accepted.
+[node128:11197:0:11291] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc036b02e8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  11291) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node128:11197] *** Process received signal ***
+[node128:11197] Signal: Segmentation fault (11)
+[node128:11197] Signal code:  (-6)
+[node128:11197] Failing at address: 0x8cfb800002bbd
+[node128:11197] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f692ad80630]
+[node128:11197] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f68cdef2f63]
+[node128:11197] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f68cdef6a49]
+[node128:11197] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f68cdf5ef01]
+[node128:11197] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f68cdf05fdc]
+[node128:11197] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f68cde92f09]
+[node128:11197] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f692ad78ea5]
+[node128:11197] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f692a398b0d]
+[node128:11197] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 11197 on node node128 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
