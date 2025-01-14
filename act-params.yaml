@@ -18,6 +18,7 @@ theory:
 likelihood:
   planck_2018_lowl.TT: null
   planck_2018_lowl.EE: null
+  planck_2018_highl_plik.TTTEEE: null
   act_dr6_lenslike.ACTDR6LensLike:
     stop_at_error: True
     lmax: 4000
@@ -172,5 +173,5 @@ sampler:
     covmat: auto
     Rminus1_stop: 0.01
     Rminus1_cl_stop: 0.2
-resume: true
+force: true
 output: chains/act-full
