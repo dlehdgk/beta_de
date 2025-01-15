@@ -1,0 +1,348 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'act-full'
+[0 : output] Found existing info files with the requested output prefix: 'chains/act-full'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34056e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[1 : bao.desi_2024_bao_all] Initialized.
+[2 : bao.desi_2024_bao_all] Initialized.
+[3 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[1 : samplecollection] Loaded 1103 sample points from 'chains/act-full.2.txt'
+[0 : samplecollection] Loaded 1083 sample points from 'chains/act-full.1.txt'
+[3 : samplecollection] Loaded 1199 sample points from 'chains/act-full.4.txt'
+[2 : samplecollection] Loaded 1089 sample points from 'chains/act-full.3.txt'
+[2 : mcmc] Initial point: logA:3.047355, ns:0.9698727, theta_MC_100:1.041266, ombh2:0.02248435, omch2:0.1176256, w:-0.8435696, wa:-0.5579967, beta_DE:0.3849667, tau:0.05820453, A_planck:1.000752, calib_100T:1.000428, calib_217T:0.9974978, A_cib_217:38.78835, xi_sz_cib:0.3659594, A_sz:3.904503, ksz_norm:7.671216, gal545_A_100:6.747077, gal545_A_143:10.26487, gal545_A_143_217:15.24749, gal545_A_217:94.06208, ps_A_100_100:281.2862, ps_A_143_143:39.10315, ps_A_143_217:34.87198, ps_A_217_217:120.0816, galf_TE_A_100:0.1580315, galf_TE_A_100_143:0.155936, galf_TE_A_100_217:0.5742997, galf_TE_A_143:0.2206275, galf_TE_A_143_217:0.6962857, galf_TE_A_217:1.852305
+[0 : mcmc] Initial point: logA:3.070631, ns:0.9648083, theta_MC_100:1.041422, ombh2:0.02247157, omch2:0.1194857, w:-0.8756173, wa:-0.7757603, beta_DE:2.514946, tau:0.06766847, A_planck:1.001249, calib_100T:1.000454, calib_217T:0.9986993, A_cib_217:48.72963, xi_sz_cib:0.4746888, A_sz:4.549777, ksz_norm:5.837192, gal545_A_100:10.42819, gal545_A_143:12.28477, gal545_A_143_217:20.62161, gal545_A_217:94.39152, ps_A_100_100:253.1808, ps_A_143_143:47.5327, ps_A_143_217:34.91229, ps_A_217_217:108.6372, galf_TE_A_100:0.09426522, galf_TE_A_100_143:0.148661, galf_TE_A_100_217:0.5580165, galf_TE_A_143:0.2386592, galf_TE_A_143_217:0.6857007, galf_TE_A_217:1.919942
+[1 : mcmc] Initial point: logA:3.040738, ns:0.963933, theta_MC_100:1.040547, ombh2:0.02230881, omch2:0.1198157, w:-0.9627953, wa:-0.139428, beta_DE:0.5615218, tau:0.05590316, A_planck:0.9986631, calib_100T:0.9998797, calib_217T:0.9984412, A_cib_217:50.64914, xi_sz_cib:0.9764374, A_sz:4.383792, ksz_norm:9.437898, gal545_A_100:11.92052, gal545_A_143:14.20839, gal545_A_143_217:18.3409, gal545_A_217:87.92192, ps_A_100_100:265.3044, ps_A_143_143:38.51209, ps_A_143_217:34.95558, ps_A_217_217:98.22337, galf_TE_A_100:0.08390341, galf_TE_A_100_143:0.1790943, galf_TE_A_100_217:0.5130009, galf_TE_A_143:0.2417634, galf_TE_A_143_217:0.5499064, galf_TE_A_217:2.321656
+[3 : mcmc] Initial point: logA:3.056373, ns:0.9732692, theta_MC_100:1.041508, ombh2:0.02272956, omch2:0.1169463, w:-0.9310263, wa:-0.01381965, beta_DE:0.3943633, tau:0.05977952, A_planck:1.003067, calib_100T:0.9994788, calib_217T:0.9985451, A_cib_217:42.23022, xi_sz_cib:0.8346488, A_sz:5.885159, ksz_norm:0.4583463, gal545_A_100:8.351379, gal545_A_143:11.64193, gal545_A_143_217:20.12648, gal545_A_217:97.57485, ps_A_100_100:269.0643, ps_A_143_143:52.47698, ps_A_143_217:54.97352, ps_A_217_217:125.057, galf_TE_A_100:0.1007984, galf_TE_A_100_143:0.112825, galf_TE_A_100_217:0.5289313, galf_TE_A_143:0.2082971, galf_TE_A_143_217:0.7588099, galf_TE_A_217:1.788649
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-01-15 14:55:52 : 1 steps taken, and 1199 accepted.
+[2 : mcmc] Progress @ 2025-01-15 14:55:55 : 1 steps taken, and 1089 accepted.
+[1 : mcmc] Progress @ 2025-01-15 14:56:03 : 1 steps taken, and 1103 accepted.
+[0 : mcmc] Progress @ 2025-01-15 14:56:03 : 1 steps taken, and 1083 accepted.
+[2 : mcmc] Progress @ 2025-01-15 14:57:01 : 5 steps taken, and 1091 accepted.
+[3 : mcmc] Progress @ 2025-01-15 14:57:05 : 4 steps taken, and 1199 accepted.
+[0 : mcmc] Progress @ 2025-01-15 14:57:13 : 5 steps taken, and 1083 accepted.
+[1 : mcmc] Progress @ 2025-01-15 14:57:17 : 4 steps taken, and 1103 accepted.
+[2 : mcmc] Progress @ 2025-01-15 14:58:06 : 9 steps taken, and 1091 accepted.
+[3 : mcmc] Progress @ 2025-01-15 14:58:13 : 7 steps taken, and 1201 accepted.
+[1 : mcmc] Progress @ 2025-01-15 14:58:21 : 7 steps taken, and 1105 accepted.
+[0 : mcmc] Progress @ 2025-01-15 14:58:24 : 9 steps taken, and 1083 accepted.
+[2 : mcmc] Progress @ 2025-01-15 14:59:06 : 12 steps taken, and 1092 accepted.
+[0 : mcmc] Progress @ 2025-01-15 14:59:28 : 12 steps taken, and 1086 accepted.
+[3 : mcmc] Progress @ 2025-01-15 14:59:32 : 10 steps taken, and 1202 accepted.
+[1 : mcmc] Progress @ 2025-01-15 14:59:35 : 10 steps taken, and 1106 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:00:08 : 16 steps taken, and 1093 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:00:29 : 16 steps taken, and 1089 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:00:46 : 13 steps taken, and 1107 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:00:57 : 14 steps taken, and 1205 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:01:16 : 20 steps taken, and 1095 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:01:37 : 19 steps taken, and 1091 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:01:57 : 16 steps taken, and 1109 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:02:19 : 17 steps taken, and 1207 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:02:37 : 23 steps taken, and 1095 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:02:43 : 22 steps taken, and 1093 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:03:11 : 19 steps taken, and 1111 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:03:25 : 20 steps taken, and 1207 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:03:43 : 26 steps taken, and 1096 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:03:55 : 29 steps taken, and 1096 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:04:25 : 22 steps taken, and 1111 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:04:36 : 23 steps taken, and 1209 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:04:51 : 29 steps taken, and 1097 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:04:56 : 32 steps taken, and 1097 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:05:37 : 25 steps taken, and 1112 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:05:52 : 32 steps taken, and 1098 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:05:52 : 26 steps taken, and 1211 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:06:05 : 35 steps taken, and 1097 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:06:43 : 29 steps taken, and 1114 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:07:04 : 29 steps taken, and 1212 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:07:04 : 36 steps taken, and 1098 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:07:11 : 39 steps taken, and 1097 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:08:06 : 32 steps taken, and 1116 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:08:15 : 43 steps taken, and 1097 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:08:16 : 39 steps taken, and 1100 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:08:24 : 32 steps taken, and 1213 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:09:10 : 36 steps taken, and 1117 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:09:27 : 35 steps taken, and 1215 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:09:28 : 46 steps taken, and 1098 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:09:29 : 43 steps taken, and 1102 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:10:29 : 39 steps taken, and 1217 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:10:29 : 40 steps taken, and 1118 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:10:39 : 49 steps taken, and 1100 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:10:53 : 46 steps taken, and 1103 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:11:37 : 43 steps taken, and 1218 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:11:39 : 43 steps taken, and 1119 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:11:55 : 49 steps taken, and 1105 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:11:55 : 53 steps taken, and 1101 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:12:42 : 46 steps taken, and 1219 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:12:42 : 46 steps taken, and 1121 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:13:00 : 57 steps taken, and 1104 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:13:02 : 52 steps taken, and 1105 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:13:48 : 49 steps taken, and 1219 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:13:56 : 50 steps taken, and 1123 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:14:12 : 55 steps taken, and 1106 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:14:14 : 60 steps taken, and 1107 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:15:02 : 53 steps taken, and 1221 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:15:09 : 53 steps taken, and 1126 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:15:22 : 58 steps taken, and 1107 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:15:38 : 63 steps taken, and 1108 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:16:08 : 58 steps taken, and 1221 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:16:21 : 57 steps taken, and 1129 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:16:25 : 61 steps taken, and 1107 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:16:54 : 71 steps taken, and 1110 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:17:21 : 61 steps taken, and 1224 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:17:37 : 60 steps taken, and 1132 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:17:47 : 65 steps taken, and 1109 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:18:10 : 76 steps taken, and 1112 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:18:43 : 64 steps taken, and 1226 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:18:51 : 63 steps taken, and 1135 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:18:52 : 68 steps taken, and 1112 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:19:24 : 80 steps taken, and 1112 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:19:55 : 66 steps taken, and 1137 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:19:58 : 68 steps taken, and 1229 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:20:16 : 74 steps taken, and 1115 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:20:31 : 84 steps taken, and 1113 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:21:02 : 70 steps taken, and 1139 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:21:07 : 71 steps taken, and 1230 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:21:27 : 77 steps taken, and 1118 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:21:32 : 87 steps taken, and 1115 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:22:08 : 74 steps taken, and 1139 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:22:10 : 74 steps taken, and 1231 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:22:39 : 90 steps taken, and 1117 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:22:48 : 80 steps taken, and 1120 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:23:19 : 79 steps taken, and 1232 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:23:19 : 77 steps taken, and 1140 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:23:49 : 94 steps taken, and 1119 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:24:10 : 83 steps taken, and 1123 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:24:40 : 82 steps taken, and 1234 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:24:43 : 81 steps taken, and 1143 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:24:58 : 97 steps taken, and 1121 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:25:15 : 88 steps taken, and 1124 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:25:47 : 85 steps taken, and 1234 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:25:56 : 85 steps taken, and 1144 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:26:24 : 100 steps taken, and 1122 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:26:35 : 92 steps taken, and 1126 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:27:02 : 88 steps taken, and 1146 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:27:10 : 88 steps taken, and 1234 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:27:39 : 103 steps taken, and 1122 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:27:56 : 96 steps taken, and 1127 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:28:05 : 91 steps taken, and 1149 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:28:26 : 92 steps taken, and 1236 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:28:56 : 106 steps taken, and 1123 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:29:01 : 99 steps taken, and 1128 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:29:17 : 94 steps taken, and 1150 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:29:29 : 95 steps taken, and 1237 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:30:08 : 110 steps taken, and 1126 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:30:19 : 102 steps taken, and 1128 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:30:43 : 97 steps taken, and 1150 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:30:46 : 100 steps taken, and 1239 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:31:15 : 114 steps taken, and 1127 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:31:27 : 105 steps taken, and 1130 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:32:04 : 104 steps taken, and 1240 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:32:06 : 100 steps taken, and 1152 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:32:24 : 118 steps taken, and 1128 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:32:33 : 112 steps taken, and 1132 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:33:13 : 108 steps taken, and 1241 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:33:15 : 103 steps taken, and 1152 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:33:42 : 123 steps taken, and 1130 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:33:53 : 115 steps taken, and 1133 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:34:32 : 111 steps taken, and 1243 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:34:36 : 106 steps taken, and 1152 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:34:57 : 118 steps taken, and 1134 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:35:03 : 130 steps taken, and 1131 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:35:44 : 115 steps taken, and 1245 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:36:01 : 110 steps taken, and 1154 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:36:12 : 122 steps taken, and 1136 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:36:26 : 133 steps taken, and 1132 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:36:54 : 118 steps taken, and 1245 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:37:15 : 114 steps taken, and 1155 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:37:29 : 125 steps taken, and 1136 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:37:44 : 137 steps taken, and 1133 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:38:16 : 122 steps taken, and 1247 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:38:39 : 118 steps taken, and 1156 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:38:48 : 141 steps taken, and 1134 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:38:50 : 128 steps taken, and 1137 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:39:36 : 125 steps taken, and 1249 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:39:44 : 121 steps taken, and 1159 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:39:52 : 131 steps taken, and 1138 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:39:52 : 144 steps taken, and 1136 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:40:55 : 129 steps taken, and 1251 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:40:57 : 124 steps taken, and 1161 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:41:05 : 149 steps taken, and 1139 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:41:11 : 134 steps taken, and 1140 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:42:15 : 128 steps taken, and 1163 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:42:17 : 133 steps taken, and 1252 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:42:18 : 152 steps taken, and 1139 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:42:33 : 137 steps taken, and 1140 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:43:18 : 132 steps taken, and 1165 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:43:38 : 136 steps taken, and 1253 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:43:40 : 155 steps taken, and 1140 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:43:52 : 140 steps taken, and 1143 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:44:43 : 135 steps taken, and 1165 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:44:56 : 140 steps taken, and 1255 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:44:57 : 143 steps taken, and 1143 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:45:04 : 158 steps taken, and 1142 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:45:46 : 138 steps taken, and 1166 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:46:06 : 161 steps taken, and 1144 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:46:06 : 147 steps taken, and 1144 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:46:21 : 144 steps taken, and 1255 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:47:00 : 141 steps taken, and 1168 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:47:18 : 164 steps taken, and 1145 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:47:33 : 150 steps taken, and 1145 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:47:38 : 147 steps taken, and 1255 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:48:20 : 147 steps taken, and 1169 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:48:27 : 167 steps taken, and 1146 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:48:37 : 154 steps taken, and 1147 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:48:48 : 150 steps taken, and 1256 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:49:29 : 150 steps taken, and 1171 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:49:42 : 170 steps taken, and 1146 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:49:48 : 157 steps taken, and 1149 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:50:06 : 154 steps taken, and 1257 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:50:45 : 154 steps taken, and 1172 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:50:47 : 173 steps taken, and 1147 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:51:02 : 160 steps taken, and 1150 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:51:18 : 158 steps taken, and 1258 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:51:51 : 176 steps taken, and 1148 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:51:54 : 158 steps taken, and 1172 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:52:20 : 165 steps taken, and 1152 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:52:40 : 161 steps taken, and 1259 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:53:00 : 162 steps taken, and 1174 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:53:18 : 179 steps taken, and 1150 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:53:37 : 170 steps taken, and 1154 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:53:55 : 164 steps taken, and 1260 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:54:12 : 165 steps taken, and 1174 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:54:37 : 183 steps taken, and 1151 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:54:46 : 175 steps taken, and 1155 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:55:07 : 167 steps taken, and 1262 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:55:31 : 168 steps taken, and 1174 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:55:51 : 178 steps taken, and 1157 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:55:55 : 186 steps taken, and 1153 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:56:08 : 170 steps taken, and 1262 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:56:36 : 171 steps taken, and 1175 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:57:09 : 183 steps taken, and 1157 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:57:19 : 189 steps taken, and 1155 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:57:33 : 173 steps taken, and 1263 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:57:44 : 174 steps taken, and 1175 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:58:12 : 187 steps taken, and 1158 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:58:36 : 192 steps taken, and 1157 accepted.
+[1 : mcmc] Progress @ 2025-01-15 15:58:46 : 177 steps taken, and 1178 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:58:48 : 177 steps taken, and 1265 accepted.
+[2 : mcmc] Progress @ 2025-01-15 15:59:38 : 191 steps taken, and 1158 accepted.
+[0 : mcmc] Progress @ 2025-01-15 15:59:46 : 196 steps taken, and 1160 accepted.
+[3 : mcmc] Progress @ 2025-01-15 15:59:58 : 180 steps taken, and 1266 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:00:04 : 180 steps taken, and 1180 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:00:42 : 195 steps taken, and 1159 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:00:51 : 199 steps taken, and 1161 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:01:12 : 184 steps taken, and 1270 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:01:18 : 183 steps taken, and 1181 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:02:00 : 202 steps taken, and 1164 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:02:07 : 199 steps taken, and 1162 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:02:34 : 188 steps taken, and 1270 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:02:40 : 186 steps taken, and 1182 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:03:07 : 206 steps taken, and 1167 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:03:15 : 205 steps taken, and 1163 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:03:47 : 191 steps taken, and 1273 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:03:55 : 190 steps taken, and 1184 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:04:08 : 209 steps taken, and 1167 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:04:22 : 209 steps taken, and 1165 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:05:15 : 195 steps taken, and 1275 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:05:16 : 194 steps taken, and 1187 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:05:19 : 212 steps taken, and 1167 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:05:33 : 212 steps taken, and 1168 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:06:23 : 197 steps taken, and 1187 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:06:26 : 215 steps taken, and 1168 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:06:34 : 199 steps taken, and 1276 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:06:52 : 215 steps taken, and 1171 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:07:35 : 200 steps taken, and 1188 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:07:36 : 227 steps taken, and 1171 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:07:37 : 202 steps taken, and 1277 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:07:56 : 218 steps taken, and 1171 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:08:45 : 230 steps taken, and 1172 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:08:47 : 206 steps taken, and 1280 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:08:56 : 204 steps taken, and 1188 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:09:22 : 222 steps taken, and 1172 accepted.
+[0 : mcmc] Progress @ 2025-01-15 16:10:06 : 233 steps taken, and 1172 accepted.
+[3 : mcmc] Progress @ 2025-01-15 16:10:09 : 210 steps taken, and 1280 accepted.
+[1 : mcmc] Progress @ 2025-01-15 16:10:09 : 207 steps taken, and 1188 accepted.
+[2 : mcmc] Progress @ 2025-01-15 16:10:33 : 226 steps taken, and 1175 accepted.
+[node139:42548:0:44420] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc04ebb668)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  44420) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node139:42548] *** Process received signal ***
+[node139:42548] Signal: Segmentation fault (11)
+[node139:42548] Signal code:  (-6)
+[node139:42548] Failing at address: 0x8cfb80000a634
+[node139:42548] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f36b6ace630]
+[node139:42548] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f367be3ef63]
+[node139:42548] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f367be42a49]
+[node139:42548] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f367beaaf01]
+[node139:42548] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f367be51fdc]
+[node139:42548] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f368016ff09]
+[node139:42548] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f36b6ac6ea5]
+[node139:42548] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f36b60e6b0d]
+[node139:42548] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 3 with PID 42548 on node node139 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
