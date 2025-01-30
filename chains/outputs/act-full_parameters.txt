@@ -1,4 +1,4 @@
-R-1 = 0.12510
+R-1 = 0.12931
 
 Marginalized parameters with uncertainties:
 H0 = H_0 = 68.08\pm 0.72
