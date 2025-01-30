@@ -6,8 +6,8 @@ import numpy as np
 from getdist import plots
 
 # specify chain file root
-#chain_root = "./chains/act-full"
-chain_root = "./chains/large"
+chain_root = "./chains/act-full"
+#chain_root = "./chains/large"
 #chain_root = "./chains/full"
 
 # directory and base name
