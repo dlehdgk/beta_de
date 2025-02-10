@@ -1,0 +1,19 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'large'
+[0 : output] Found existing info files with the requested output prefix: 'chains/large'
+[0 : output] Let's try to resume/load.
+[0 : output] *ERROR* File chains/large.input.yaml.locked is locked.
+You may be running multiple jobs with the same output when you intended to run with MPI. Check that mpi4py is correctly installed and configured (using the same mpi as mpirun/mpiexec); e.g. try the test at
+https://cobaya.readthedocs.io/en/latest/installation.html#mpi-parallelization-optional-but-encouraged
+Your current mpi4py config is:
+ {}
+If this is a lock issue you can disable this check by setting env COBAYA_USE_FILE_LOCKING=False.
+[0 : run] Aborting MPI due to error
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
