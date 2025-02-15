@@ -1,0 +1,86 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS: 
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34056e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34057e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[0 : samplecollection] Loaded 5 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[3 : samplecollection] Loaded 2 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[1 : samplecollection] Loaded 5 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[2 : samplecollection] Loaded 2 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[0 : mcmc] Initial point: logA:3.034222, ns:0.9694156, theta_MC_100:1.04076, ombh2:0.02246859, omch2:0.1199016, w:-0.8241514, wa:-0.7654112, beta_DE:0.8017375, tau:0.04493633, A_planck:1.004592, calib_100T:1.000897, calib_217T:0.9981939, A_cib_217:53.03141, xi_sz_cib:0.4436548, A_sz:8.869368, ksz_norm:5.600222, gal545_A_100:7.756692, gal545_A_143:8.444635, gal545_A_143_217:19.7577, gal545_A_217:83.77999, ps_A_100_100:254.5776, ps_A_143_143:42.29792, ps_A_143_217:44.7485, ps_A_217_217:126.3542, galf_TE_A_100:0.212182, galf_TE_A_100_143:-0.03934312, galf_TE_A_100_217:0.4766771, galf_TE_A_143:0.2562294, galf_TE_A_143_217:0.8110245, galf_TE_A_217:2.89024
+[3 : mcmc] Initial point: logA:3.049563, ns:0.9636938, theta_MC_100:1.041096, ombh2:0.02234973, omch2:0.1190875, w:-0.9679781, wa:-0.2642734, beta_DE:0.8579615, tau:0.05429636, A_planck:0.9999121, calib_100T:0.9996112, calib_217T:0.997017, A_cib_217:57.07941, xi_sz_cib:0.7377347, A_sz:5.525235, ksz_norm:8.869857, gal545_A_100:6.067747, gal545_A_143:10.14514, gal545_A_143_217:16.24802, gal545_A_217:82.10604, ps_A_100_100:214.2956, ps_A_143_143:22.72316, ps_A_143_217:47.71931, ps_A_217_217:91.21494, galf_TE_A_100:0.08867847, galf_TE_A_100_143:0.1252364, galf_TE_A_100_217:0.2983962, galf_TE_A_143:0.2196643, galf_TE_A_143_217:0.4504809, galf_TE_A_217:1.148258
+[2 : mcmc] Initial point: logA:3.042999, ns:0.9597477, theta_MC_100:1.041259, ombh2:0.02247863, omch2:0.1211042, w:-0.6225484, wa:-1.31552, beta_DE:1.311298, tau:0.04758376, A_planck:1.000604, calib_100T:1.000318, calib_217T:0.9970122, A_cib_217:56.49162, xi_sz_cib:0.1093, A_sz:6.979222, ksz_norm:3.870567, gal545_A_100:5.304238, gal545_A_143:6.234572, gal545_A_143_217:18.16884, gal545_A_217:103.2103, ps_A_100_100:271.8915, ps_A_143_143:37.11543, ps_A_143_217:30.75176, ps_A_217_217:119.9448, galf_TE_A_100:0.1614633, galf_TE_A_100_143:0.1454139, galf_TE_A_100_217:0.6278238, galf_TE_A_143:0.09875312, galf_TE_A_143_217:0.5122253, galf_TE_A_217:1.441227
+[1 : mcmc] Initial point: logA:3.052605, ns:0.968057, theta_MC_100:1.040646, ombh2:0.02234795, omch2:0.1175225, w:-0.8303662, wa:-0.5001032, beta_DE:1.256281, tau:0.06052756, A_planck:0.9981481, calib_100T:1.002221, calib_217T:0.9972222, A_cib_217:55.71275, xi_sz_cib:0.4875643, A_sz:5.053095, ksz_norm:3.742436, gal545_A_100:11.52424, gal545_A_143:4.084835, gal545_A_143_217:14.69678, gal545_A_217:73.35786, ps_A_100_100:207.2934, ps_A_143_143:52.82749, ps_A_143_217:45.60056, ps_A_217_217:113.5537, galf_TE_A_100:0.3194832, galf_TE_A_100_143:0.1299393, galf_TE_A_100_217:0.3662305, galf_TE_A_143:0.1647309, galf_TE_A_143_217:0.7887695, galf_TE_A_217:1.735092
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2025-02-15 18:43:42 : 1 steps taken, and 2 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:43:42 : 1 steps taken, and 5 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:43:43 : 1 steps taken, and 2 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:43:43 : 1 steps taken, and 5 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:44:48 : 4 steps taken, and 2 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:44:56 : 4 steps taken, and 5 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:44:58 : 4 steps taken, and 2 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:44:58 : 4 steps taken, and 5 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:45:59 : 10 steps taken, and 3 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:46:11 : 8 steps taken, and 4 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:46:13 : 8 steps taken, and 5 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:46:13 : 7 steps taken, and 6 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:47:13 : 20 steps taken, and 5 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:47:22 : 11 steps taken, and 5 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:47:23 : 11 steps taken, and 6 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:47:39 : 11 steps taken, and 7 accepted.

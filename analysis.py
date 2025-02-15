@@ -8,7 +8,11 @@ from getdist import plots
 # specify chain file root
 chain_root = "./chains/act-full"
 #chain_root = "./chains/large"
-#chain_root = "./chains/full"
+#chain_root = "./chains/PlanckLensing"
+#chain_root = "./chains/PlanckLensingDESI"
+#chain_root = "./chains/PlanckLensingPantheon"
+#chain_root = "./chains/PlanckLensingSDSSPantheon"
+#chain_root = "./chains/PlanckLensingSDSS"
 
 # directory and base name
 chain_dir = os.path.dirname(chain_root)
