@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
-#SBATCH --time=72:00:00
-#SBATCH --mem=16G
+#SBATCH --time=12:00:00
+#SBATCH --mem=12G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
 

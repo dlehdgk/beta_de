@@ -82,3 +82,58 @@ Loading ACT DR6 lensing likelihood v1.2...
 [0 : mcmc] Progress @ 2025-02-15 18:48:13 : 17 steps taken, and 89 accepted.
 [2 : mcmc] Progress @ 2025-02-15 18:48:24 : 15 steps taken, and 124 accepted.
 [1 : mcmc] Progress @ 2025-02-15 18:48:27 : 20 steps taken, and 101 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:49:27 : 17 steps taken, and 100 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:49:33 : 24 steps taken, and 91 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:49:34 : 23 steps taken, and 101 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:49:47 : 18 steps taken, and 125 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:50:34 : 27 steps taken, and 91 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:50:47 : 28 steps taken, and 101 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:50:52 : 22 steps taken, and 102 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:50:59 : 21 steps taken, and 127 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:51:54 : 32 steps taken, and 91 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:51:55 : 31 steps taken, and 102 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:52:06 : 26 steps taken, and 102 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:52:07 : 24 steps taken, and 127 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:52:57 : 35 steps taken, and 92 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:53:06 : 35 steps taken, and 102 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:53:20 : 31 steps taken, and 103 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:53:26 : 27 steps taken, and 127 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:54:08 : 40 steps taken, and 93 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:54:14 : 39 steps taken, and 104 accepted.
+[2 : mcmc] Progress @ 2025-02-15 18:54:26 : 32 steps taken, and 127 accepted.
+[3 : mcmc] Progress @ 2025-02-15 18:54:32 : 39 steps taken, and 103 accepted.
+[0 : mcmc] Progress @ 2025-02-15 18:55:11 : 43 steps taken, and 93 accepted.
+[1 : mcmc] Progress @ 2025-02-15 18:55:34 : 42 steps taken, and 104 accepted.
+[node044:25003:0:25132] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0491bd98)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  25132) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000018f09 gomp_thread_start()  team.c:0
+ 6 0x0000000000007ea5 start_thread()  pthread_create.c:0
+ 7 0x00000000000feb0d __clone()  ???:0
+=================================
+[node044:25003] *** Process received signal ***
+[node044:25003] Signal: Segmentation fault (11)
+[node044:25003] Signal code:  (-6)
+[node044:25003] Failing at address: 0x8cfb8000061ab
+[node044:25003] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f049b105630]
+[node044:25003] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f0460208f63]
+[node044:25003] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f046020ca49]
+[node044:25003] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f0460274f01]
+[node044:25003] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f046021bfdc]
+[node044:25003] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(+0x18f09)[0x7f04601a8f09]
+[node044:25003] [ 6] /lib64/libpthread.so.0(+0x7ea5)[0x7f049b0fdea5]
+[node044:25003] [ 7] /lib64/libc.so.6(clone+0x6d)[0x7f049a71db0d]
+[node044:25003] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 25003 on node node044 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
