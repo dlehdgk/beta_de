@@ -1,7 +1,7 @@
-R-1 = 4.18372
+R-1 = 4.82532
 
 Marginalized parameters with uncertainties:
-H0 = H_0 = 66.9\pm 1.4
-w = w_{0,\mathrm{DE}} = -0.93^{+0.14}_{-0.12}
-wa = w_{a,\mathrm{DE}} = -0.21^{+0.67}_{-0.81}
-beta_DE = \beta_{\mathrm{DE}} = 1.99\pm 0.80
+H0 = H_0 = 67.1^{+1.5}_{-1.3}
+w = w_{0,\mathrm{DE}} = -0.911^{+0.15}_{-0.087}
+wa = w_{a,\mathrm{DE}} = -0.33^{+0.57}_{-0.80}
+beta_DE = \beta_{\mathrm{DE}} = 2.0^{+1.5}_{-1.2}
