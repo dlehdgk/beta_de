@@ -1,23 +1,15 @@
 import os
+import sys
 
 import getdist
 import matplotlib.pyplot as plt
 from getdist import plots
 
-# specify chain file root
-chain_root = "./chains/act-full"
-chain_root = "./chains/large"  # this is PlanckLensingDESIPantheon
-chain_root = "./chains/PlanckLensing"
-chain_root = "./chains/PlanckLensingDESI"
-chain_root = "./chains/PlanckLensingPantheon"
-chain_root = "./chains/PlanckLensingSDSSPantheon"
-chain_root = "./chains/PlanckLensingSDSS"
-chain_root = "./chains/ACTWMAP"
-chain_root = "./chains/ACTWMAPDESI"
-chain_root = "./chains/ACTWMAPPantheon"
-chain_root = "./chains/ACTWMAPDESIPantheon"
-chain_root = "./chains/ACTWMAPSDSSPantheon"
-chain_root = "./chains/ACTWMAPSDSS"
+# get chain root
+if len(sys.argv) < 2:
+    sys.exit(1)
+
+chain_root = "./chains/" + sys.argv[1]
 
 # directory and base name
 chain_dir = os.path.dirname(chain_root)

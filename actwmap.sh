@@ -2,7 +2,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --cpus-per-task=1
-#SBATCH --time=24:00:00
+#SBATCH --time=72:00:00
 #SBATCH --mem=12G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
@@ -23,12 +23,13 @@ while true
 do
 	python check_convergence.py ${chain_name}
 	status=$?
+	python update_plots.py "$chain_name"
 
 	if [ $status -eq 0 ]
 	then
 		break
 	else
 		echo "chain not converged"
-		mpirun -np 4 cobaya-run ACTWMAP.yaml
+		mpirun -np 4 cobaya-run ${chain_name}.yaml
 	fi
 done

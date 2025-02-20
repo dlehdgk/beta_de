@@ -2,8 +2,8 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --cpus-per-task=1
-#SBATCH --time=48:00:00
-#SBATCH --mem=10G
+#SBATCH --time=72:00:00
+#SBATCH --mem=12G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
 
@@ -23,6 +23,7 @@ while true
 do
 	python check_convergence.py "$chain_name"
 	status=$?
+	python update_plots.py "$chain_name"
 
 	if [ $status -eq 0 ]
 	then
