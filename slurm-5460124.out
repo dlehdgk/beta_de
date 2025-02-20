@@ -1,0 +1,1318 @@
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'ACTWMAP'
+[0 : output] Found existing info files with the requested output prefix: 'chains/ACTWMAP'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] Loaded SZ.
+[2 : wmaplike.wmaplike] Loaded SZ.
+[3 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[2 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[0 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[3 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[3 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[1 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[2 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[0 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[3 : wmaplike.wmaplike] Initialized TT gibbs.
+[1 : wmaplike.wmaplike] Initialized TT gibbs.
+[2 : wmaplike.wmaplike] Initialized TT gibbs.
+[0 : wmaplike.wmaplike] Initialized TT gibbs.
+[0 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[2 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[1 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[3 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[0 : mcmc] Resuming from previous sample!
+[3 : samplecollection] Loaded 1041 sample points from 'chains/ACTWMAP.4.txt'
+[0 : samplecollection] Loaded 1022 sample points from 'chains/ACTWMAP.1.txt'
+[1 : samplecollection] Loaded 1150 sample points from 'chains/ACTWMAP.2.txt'
+[2 : samplecollection] Loaded 1021 sample points from 'chains/ACTWMAP.3.txt'
+[0 : mcmc] Initial point: yp2:1.004897, logA:3.08338, ns:0.979191, theta_MC_100:1.04156, ombh2:0.02242007, omch2:0.1164154, w:-1.380401, wa:0.666548, beta_DE:3.009576, tau:0.07584906
+[1 : mcmc] Initial point: yp2:0.9956684, logA:3.050991, ns:0.9732836, theta_MC_100:1.041638, ombh2:0.02244685, omch2:0.1186871, w:-1.552994, wa:-0.793502, beta_DE:-0.2628087, tau:0.05586059
+[2 : mcmc] Initial point: yp2:1.000227, logA:3.064651, ns:0.9757323, theta_MC_100:1.042055, ombh2:0.02245229, omch2:0.1178119, w:-1.109968, wa:-1.858862, beta_DE:2.347652, tau:0.06394996
+[3 : mcmc] Initial point: yp2:1.002755, logA:3.092125, ns:0.9759338, theta_MC_100:1.042518, ombh2:0.02245029, omch2:0.117439, w:-1.682735, wa:0.9585659, beta_DE:1.746344, tau:0.07648943
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 3 : (['yp2'],)
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 14:59:52 : 1 steps taken, and 1021 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:00:02 : 1 steps taken, and 1022 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:00:02 : 1 steps taken, and 1150 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:00:03 : 1 steps taken, and 1041 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:00:55 : 7 steps taken, and 1024 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:01:10 : 6 steps taken, and 1026 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:01:11 : 7 steps taken, and 1153 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:01:17 : 9 steps taken, and 1042 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:02:00 : 14 steps taken, and 1028 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:02:15 : 14 steps taken, and 1155 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:02:18 : 11 steps taken, and 1029 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:02:20 : 22 steps taken, and 1045 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:03:04 : 19 steps taken, and 1032 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:03:23 : 21 steps taken, and 1158 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:03:25 : 17 steps taken, and 1033 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:03:29 : 28 steps taken, and 1048 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:04:13 : 25 steps taken, and 1036 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:04:35 : 29 steps taken, and 1160 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:04:37 : 24 steps taken, and 1034 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:04:42 : 34 steps taken, and 1050 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:05:21 : 31 steps taken, and 1040 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:05:39 : 31 steps taken, and 1036 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:05:49 : 37 steps taken, and 1164 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:05:56 : 40 steps taken, and 1054 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:06:36 : 39 steps taken, and 1044 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:06:42 : 37 steps taken, and 1039 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:06:59 : 45 steps taken, and 1057 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:07:01 : 45 steps taken, and 1167 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:07:49 : 45 steps taken, and 1048 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:07:54 : 47 steps taken, and 1042 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:08:11 : 51 steps taken, and 1061 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:08:14 : 51 steps taken, and 1171 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:08:53 : 50 steps taken, and 1050 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:09:06 : 53 steps taken, and 1043 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:09:15 : 55 steps taken, and 1063 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:09:22 : 57 steps taken, and 1174 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:10:07 : 56 steps taken, and 1054 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:10:15 : 58 steps taken, and 1045 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:10:28 : 63 steps taken, and 1068 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:10:31 : 63 steps taken, and 1177 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:11:22 : 63 steps taken, and 1056 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:11:23 : 63 steps taken, and 1047 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:11:37 : 69 steps taken, and 1179 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:11:37 : 68 steps taken, and 1070 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[0 : mcmc] Progress @ 2025-02-20 15:12:31 : 68 steps taken, and 1049 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:12:37 : 69 steps taken, and 1058 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:12:39 : 75 steps taken, and 1183 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:12:40 : 75 steps taken, and 1074 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:13:40 : 77 steps taken, and 1051 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:13:44 : 79 steps taken, and 1077 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:13:49 : 80 steps taken, and 1187 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:13:52 : 78 steps taken, and 1060 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:14:47 : 84 steps taken, and 1080 accepted.
+[3 : mcmc] Learn + convergence test @ 1080 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:14:52 : 85 steps taken, and 1055 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:14:56 : 83 steps taken, and 1061 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:15:01 : 89 steps taken, and 1190 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:15:58 : 95 steps taken, and 1059 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:16:00 : 91 steps taken, and 1082 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:16:10 : 95 steps taken, and 1193 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:16:10 : 89 steps taken, and 1063 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:17:00 : 99 steps taken, and 1061 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:17:12 : 101 steps taken, and 1196 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:17:13 : 99 steps taken, and 1084 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:17:24 : 96 steps taken, and 1067 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:18:13 : 105 steps taken, and 1064 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:18:16 : 106 steps taken, and 1198 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:18:26 : 107 steps taken, and 1087 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:18:40 : 104 steps taken, and 1070 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:19:20 : 114 steps taken, and 1066 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:19:29 : 113 steps taken, and 1091 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:19:29 : 116 steps taken, and 1199 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:19:44 : 108 steps taken, and 1073 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:20:32 : 122 steps taken, and 1071 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:20:37 : 125 steps taken, and 1200 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:20:42 : 119 steps taken, and 1093 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:20:53 : 113 steps taken, and 1075 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:21:35 : 135 steps taken, and 1072 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:21:41 : 133 steps taken, and 1203 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:21:56 : 127 steps taken, and 1096 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:22:02 : 118 steps taken, and 1078 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:22:44 : 142 steps taken, and 1075 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:22:44 : 137 steps taken, and 1206 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:23:10 : 136 steps taken, and 1099 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:23:16 : 127 steps taken, and 1080 accepted.
+[2 : mcmc] Learn + convergence test @ 1080 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:23:57 : 149 steps taken, and 1078 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:23:57 : 145 steps taken, and 1209 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:24:23 : 143 steps taken, and 1101 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:24:24 : 132 steps taken, and 1084 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:25:04 : 154 steps taken, and 1079 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:25:05 : 152 steps taken, and 1213 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:25:32 : 138 steps taken, and 1087 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:25:35 : 153 steps taken, and 1103 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:26:06 : 161 steps taken, and 1216 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:26:07 : 159 steps taken, and 1079 accepted.
+[0 : mcmc] Learn + convergence test @ 1080 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:26:43 : 161 steps taken, and 1107 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:26:46 : 146 steps taken, and 1090 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:27:09 : 166 steps taken, and 1219 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:27:10 : 169 steps taken, and 1082 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:27:45 : 170 steps taken, and 1110 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:27:53 : 163 steps taken, and 1093 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:28:12 : 173 steps taken, and 1223 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:28:14 : 176 steps taken, and 1084 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:28:52 : 176 steps taken, and 1113 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:29:07 : 173 steps taken, and 1097 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:29:15 : 178 steps taken, and 1224 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:29:16 : 180 steps taken, and 1087 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:30:04 : 185 steps taken, and 1116 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:30:15 : 178 steps taken, and 1102 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:30:21 : 197 steps taken, and 1089 accepted.
+[1 : mcmc] Progress @ 2025-02-20 15:30:26 : 185 steps taken, and 1226 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:31:17 : 195 steps taken, and 1120 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:31:17 : 188 steps taken, and 1105 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:31:24 : 201 steps taken, and 1092 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:31:39 : 193 steps taken, and 1230 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:32:25 : 210 steps taken, and 1094 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:32:25 : 202 steps taken, and 1123 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:32:26 : 194 steps taken, and 1107 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:32:48 : 200 steps taken, and 1231 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:33:29 : 203 steps taken, and 1109 accepted.
+[0 : mcmc] Progress @ 2025-02-20 15:33:32 : 218 steps taken, and 1096 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:33:38 : 209 steps taken, and 1126 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:34:00 : 207 steps taken, and 1237 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:34:37 : 212 steps taken, and 1112 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:34:40 : 223 steps taken, and 1127 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:34:43 : 225 steps taken, and 1100 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:35:03 : 212 steps taken, and 1239 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[2 : mcmc] Progress @ 2025-02-20 15:35:50 : 220 steps taken, and 1115 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:35:53 : 229 steps taken, and 1131 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:35:55 : 232 steps taken, and 1104 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:36:09 : 224 steps taken, and 1241 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:37:02 : 240 steps taken, and 1108 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:37:03 : 230 steps taken, and 1117 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:37:04 : 239 steps taken, and 1132 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:37:16 : 231 steps taken, and 1244 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:38:10 : 245 steps taken, and 1111 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:38:13 : 236 steps taken, and 1120 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[3 : mcmc] Progress @ 2025-02-20 15:38:18 : 251 steps taken, and 1137 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:38:29 : 239 steps taken, and 1248 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:39:11 : 253 steps taken, and 1114 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:39:20 : 258 steps taken, and 1137 accepted.
+[2 : mcmc] Progress @ 2025-02-20 15:39:22 : 241 steps taken, and 1125 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[1 : mcmc] Progress @ 2025-02-20 15:39:42 : 248 steps taken, and 1250 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])
+[0 : mcmc] Progress @ 2025-02-20 15:40:19 : 260 steps taken, and 1117 accepted.
+[3 : mcmc] Progress @ 2025-02-20 15:40:22 : 262 steps taken, and 1139 accepted.
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:654: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tttt / np.sqrt(TTTT * TTTT[..., np.newaxis]) + \
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:655: RuntimeWarning: invalid value encountered in divide
+  self.epsilon / (TTTT * TTTT[..., np.newaxis])
+/users/smp24dhl/cosmo/code/pyWMAP/wmaplike/wmap.py:749: RuntimeWarning: invalid value encountered in divide
+  fisher = -self.r_off_tete / np.sqrt(TETE * TETE[..., np.newaxis])

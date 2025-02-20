@@ -31,3 +31,4 @@ do
 		echo "chain not converged"
 		mpirun -np 4 cobaya-run ACTWMAP.yaml
 	fi
+done
