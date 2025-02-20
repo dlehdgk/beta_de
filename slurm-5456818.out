@@ -1,0 +1,411 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSSPantheon'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSSPantheon'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[3 : samplecollection] Loaded 148 sample points from 'chains/PlanckLensingSDSSPantheon.4.txt'
+[0 : samplecollection] Loaded 150 sample points from 'chains/PlanckLensingSDSSPantheon.1.txt'
+[1 : samplecollection] Loaded 152 sample points from 'chains/PlanckLensingSDSSPantheon.2.txt'
+[2 : samplecollection] Loaded 135 sample points from 'chains/PlanckLensingSDSSPantheon.3.txt'
+[2 : mcmc] Initial point: logA:3.052389, ns:0.9650673, theta_MC_100:1.04086, ombh2:0.02246785, omch2:0.1205797, w:-0.9416066, wa:-0.2178161, beta_DE:1.428823, tau:0.05975856, A_planck:0.9979492, calib_100T:0.999457, calib_217T:0.9980782, A_cib_217:41.32979, xi_sz_cib:0.8840472, A_sz:4.331478, ksz_norm:6.642907, gal545_A_100:7.908944, gal545_A_143:13.36122, gal545_A_143_217:16.15118, gal545_A_217:90.48037, ps_A_100_100:245.6656, ps_A_143_143:47.12079, ps_A_143_217:46.37161, ps_A_217_217:118.6086, galf_TE_A_100:0.06047291, galf_TE_A_100_143:0.08737699, galf_TE_A_100_217:0.4445879, galf_TE_A_143:0.178262, galf_TE_A_143_217:0.622726, galf_TE_A_217:1.630822
+[0 : mcmc] Initial point: logA:3.04688, ns:0.9634776, theta_MC_100:1.040946, ombh2:0.02245828, omch2:0.119386, w:-0.8848897, wa:-0.6576006, beta_DE:2.124141, tau:0.06079601, A_planck:0.9954294, calib_100T:0.9993102, calib_217T:0.9980851, A_cib_217:40.55453, xi_sz_cib:0.5432578, A_sz:3.082756, ksz_norm:5.721403, gal545_A_100:6.272665, gal545_A_143:12.73523, gal545_A_143_217:19.86675, gal545_A_217:98.55327, ps_A_100_100:273.1599, ps_A_143_143:37.94163, ps_A_143_217:33.64307, ps_A_217_217:116.5276, galf_TE_A_100:0.1367812, galf_TE_A_100_143:0.1489518, galf_TE_A_100_217:0.5154868, galf_TE_A_143:0.2455803, galf_TE_A_143_217:0.5029537, galf_TE_A_217:1.514821
+[3 : mcmc] Initial point: logA:3.042133, ns:0.9674248, theta_MC_100:1.040733, ombh2:0.02255097, omch2:0.1181409, w:-0.8595722, wa:-0.8771276, beta_DE:2.950305, tau:0.05502564, A_planck:1.000114, calib_100T:0.9989361, calib_217T:0.9996512, A_cib_217:60.84125, xi_sz_cib:0.5460057, A_sz:2.325392, ksz_norm:0.9514301, gal545_A_100:9.500502, gal545_A_143:7.365255, gal545_A_143_217:18.50788, gal545_A_217:90.85998, ps_A_100_100:292.6412, ps_A_143_143:60.67778, ps_A_143_217:35.98273, ps_A_217_217:92.10092, galf_TE_A_100:0.1009411, galf_TE_A_100_143:0.1348749, galf_TE_A_100_217:0.4841175, galf_TE_A_143:0.2108455, galf_TE_A_143_217:0.7788434, galf_TE_A_217:2.065455
+[1 : mcmc] Initial point: logA:3.038893, ns:0.9616974, theta_MC_100:1.040982, ombh2:0.02221682, omch2:0.1197077, w:-0.9090616, wa:-0.2403679, beta_DE:-0.3127847, tau:0.05355053, A_planck:0.999422, calib_100T:0.9997101, calib_217T:0.9975402, A_cib_217:50.95057, xi_sz_cib:0.3195645, A_sz:2.880401, ksz_norm:9.257297, gal545_A_100:11.6386, gal545_A_143:14.60328, gal545_A_143_217:13.14524, gal545_A_217:80.0714, ps_A_100_100:275.544, ps_A_143_143:31.16088, ps_A_143_217:28.86037, ps_A_217_217:105.6231, galf_TE_A_100:0.1321064, galf_TE_A_100_143:0.1733035, galf_TE_A_100_217:0.4498425, galf_TE_A_143:0.2567493, galf_TE_A_143_217:0.6419149, galf_TE_A_217:2.19376
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-02-19 17:14:42 : 1 steps taken, and 150 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:14:42 : 1 steps taken, and 148 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:14:42 : 1 steps taken, and 152 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:14:42 : 1 steps taken, and 135 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:15:43 : 8 steps taken, and 148 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:15:44 : 6 steps taken, and 150 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:15:48 : 8 steps taken, and 135 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:15:48 : 13 steps taken, and 152 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:16:44 : 16 steps taken, and 149 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:16:51 : 13 steps taken, and 135 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:16:53 : 14 steps taken, and 151 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:16:55 : 24 steps taken, and 153 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:17:52 : 18 steps taken, and 135 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:17:56 : 21 steps taken, and 150 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:17:57 : 32 steps taken, and 154 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:18:05 : 23 steps taken, and 153 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:18:54 : 23 steps taken, and 135 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:19:01 : 27 steps taken, and 151 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:19:07 : 31 steps taken, and 155 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:19:11 : 43 steps taken, and 154 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:19:56 : 30 steps taken, and 136 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:20:05 : 34 steps taken, and 152 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:20:08 : 38 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:20:13 : 48 steps taken, and 155 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:21:01 : 37 steps taken, and 137 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:21:13 : 45 steps taken, and 156 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:21:17 : 39 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:21:19 : 56 steps taken, and 156 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:22:02 : 43 steps taken, and 138 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:22:13 : 51 steps taken, and 156 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:22:22 : 45 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:22:32 : 67 steps taken, and 156 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:23:07 : 49 steps taken, and 138 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:23:14 : 57 steps taken, and 156 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:23:23 : 52 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:23:40 : 76 steps taken, and 157 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:24:08 : 54 steps taken, and 139 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:24:19 : 65 steps taken, and 157 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:24:31 : 61 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:24:42 : 84 steps taken, and 159 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:25:10 : 60 steps taken, and 139 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:25:19 : 71 steps taken, and 157 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:25:43 : 66 steps taken, and 156 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:25:50 : 97 steps taken, and 160 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:26:14 : 67 steps taken, and 141 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:26:24 : 78 steps taken, and 159 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:26:47 : 73 steps taken, and 157 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:26:58 : 105 steps taken, and 160 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:27:24 : 75 steps taken, and 142 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:27:27 : 84 steps taken, and 160 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:27:51 : 80 steps taken, and 158 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:27:59 : 112 steps taken, and 161 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:28:29 : 91 steps taken, and 161 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:28:32 : 84 steps taken, and 142 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:28:52 : 85 steps taken, and 159 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:29:01 : 121 steps taken, and 162 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:29:34 : 89 steps taken, and 142 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:29:41 : 96 steps taken, and 162 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:29:53 : 93 steps taken, and 161 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:30:07 : 130 steps taken, and 162 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:30:36 : 94 steps taken, and 142 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:30:47 : 102 steps taken, and 163 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:30:54 : 99 steps taken, and 161 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:31:17 : 138 steps taken, and 164 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:31:37 : 100 steps taken, and 143 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:31:59 : 107 steps taken, and 165 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:32:06 : 105 steps taken, and 162 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:32:19 : 144 steps taken, and 164 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:32:39 : 106 steps taken, and 144 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:33:01 : 113 steps taken, and 166 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:33:07 : 110 steps taken, and 162 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:33:31 : 150 steps taken, and 164 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:33:40 : 111 steps taken, and 145 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:34:03 : 118 steps taken, and 166 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:34:08 : 116 steps taken, and 163 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:34:37 : 157 steps taken, and 166 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:34:43 : 117 steps taken, and 146 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:35:05 : 124 steps taken, and 167 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:35:17 : 124 steps taken, and 165 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:35:48 : 123 steps taken, and 148 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:35:50 : 167 steps taken, and 168 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:36:09 : 130 steps taken, and 168 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:36:28 : 130 steps taken, and 166 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:36:52 : 175 steps taken, and 169 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:37:00 : 129 steps taken, and 148 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:37:11 : 135 steps taken, and 168 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:37:40 : 143 steps taken, and 169 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:37:53 : 182 steps taken, and 170 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:38:05 : 135 steps taken, and 148 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:38:16 : 142 steps taken, and 168 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:38:40 : 149 steps taken, and 169 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:38:55 : 191 steps taken, and 171 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:39:17 : 147 steps taken, and 168 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:39:17 : 140 steps taken, and 148 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:39:48 : 157 steps taken, and 171 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:40:00 : 198 steps taken, and 172 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:40:17 : 152 steps taken, and 169 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:40:25 : 147 steps taken, and 149 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:40:59 : 164 steps taken, and 173 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:41:12 : 208 steps taken, and 173 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:41:17 : 157 steps taken, and 170 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:41:26 : 152 steps taken, and 150 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:42:01 : 171 steps taken, and 173 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:42:16 : 216 steps taken, and 173 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:42:17 : 163 steps taken, and 171 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:42:35 : 160 steps taken, and 152 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:43:04 : 178 steps taken, and 173 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:43:19 : 223 steps taken, and 174 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:43:21 : 169 steps taken, and 171 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:43:37 : 169 steps taken, and 154 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:44:17 : 190 steps taken, and 174 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:44:21 : 175 steps taken, and 172 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:44:23 : 232 steps taken, and 176 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:44:51 : 177 steps taken, and 155 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:45:26 : 241 steps taken, and 180 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:45:30 : 198 steps taken, and 175 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:45:35 : 181 steps taken, and 173 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:45:55 : 183 steps taken, and 155 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:46:31 : 248 steps taken, and 180 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:46:38 : 187 steps taken, and 173 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:46:44 : 204 steps taken, and 176 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:47:09 : 189 steps taken, and 155 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:47:44 : 255 steps taken, and 183 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:47:48 : 193 steps taken, and 173 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:47:57 : 210 steps taken, and 177 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:48:22 : 195 steps taken, and 158 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:48:45 : 264 steps taken, and 184 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:48:55 : 202 steps taken, and 173 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:49:01 : 217 steps taken, and 178 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:49:26 : 201 steps taken, and 159 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:49:58 : 271 steps taken, and 187 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:50:04 : 208 steps taken, and 173 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:50:11 : 222 steps taken, and 179 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:50:29 : 208 steps taken, and 160 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:50:58 : 277 steps taken, and 188 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:51:08 : 214 steps taken, and 173 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:51:20 : 230 steps taken, and 182 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:51:29 : 216 steps taken, and 161 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:52:06 : 285 steps taken, and 190 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:52:18 : 219 steps taken, and 173 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:52:30 : 222 steps taken, and 163 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:52:31 : 235 steps taken, and 184 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:53:09 : 290 steps taken, and 191 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:53:22 : 225 steps taken, and 173 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:53:31 : 227 steps taken, and 163 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:53:32 : 241 steps taken, and 185 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:54:19 : 297 steps taken, and 193 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:54:23 : 231 steps taken, and 173 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:54:35 : 237 steps taken, and 166 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:54:41 : 250 steps taken, and 186 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:55:26 : 306 steps taken, and 193 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:55:26 : 239 steps taken, and 174 accepted.
+[2 : mcmc] Progress @ 2025-02-19 17:55:42 : 245 steps taken, and 167 accepted.
+[3 : mcmc] Progress @ 2025-02-19 17:55:55 : 257 steps taken, and 186 accepted.
+[0 : mcmc] Progress @ 2025-02-19 17:56:29 : 247 steps taken, and 175 accepted.
+[1 : mcmc] Progress @ 2025-02-19 17:56:30 : 312 steps taken, and 193 accepted.
+[node062:21499:0:21499] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc05895638)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  21499) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node062:21499] *** Process received signal ***
+[node062:21499] Signal: Segmentation fault (11)
+[node062:21499] Signal code:  (-6)
+[node062:21499] Failing at address: 0x8cfb8000053fb
+[node062:21499] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f1c60b0f630]
+[node062:21499] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f1c3f407f63]
+[node062:21499] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f1c3f40ba49]
+[node062:21499] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f1c3f473f01]
+[node062:21499] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f1c3f41afdc]
+[node062:21499] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f1c3f3a3295]
+[node062:21499] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f1c3f41d7c2]
+[node062:21499] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f1c3f4c1923]
+[node062:21499] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f1c3f4c7bff]
+[node062:21499] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f1c3f4d3846]
+[node062:21499] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f1c3f4de4df]
+[node062:21499] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f1c60dcaa4a]
+[node062:21499] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f1c60dc9fea]
+[node062:21499] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f1c56ac91e0]
+[node062:21499] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f1c56ad26ee]
+[node062:21499] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node062:21499] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node062:21499] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node062:21499] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node062:21499] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node062:21499] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node062:21499] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node062:21499] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node062:21499] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node062:21499] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node062:21499] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node062:21499] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node062:21499] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node062:21499] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node062:21499] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node062:21499] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 21499 on node node062 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

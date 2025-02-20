@@ -17,4 +17,6 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
+file_root="./chains/act-full"
+
 mpirun -np 4 cobaya-run act-params.yaml
