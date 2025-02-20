@@ -17,4 +17,17 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-mpirun -np 4 cobaya-run ACTWMAP.yaml
+chain_name="ACTWMAP"
+
+while true
+do
+	python check_convergence.py ${chain_name}
+	status=$?
+
+	if [ $status -eq 0 ]
+	then
+		break
+	else
+		echo "chain not converged"
+		mpirun -np 4 cobaya-run ACTWMAP.yaml
+	fi
