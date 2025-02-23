@@ -65,3 +65,1630 @@ Loading ACT DR6 lensing likelihood v1.2...
 [0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
 [0 : mcmc] Covariance matrix from previous sample.
 [0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2025-02-21 11:59:36 : 1 steps taken, and 1279 accepted.
+[3 : mcmc] Progress @ 2025-02-21 11:59:46 : 1 steps taken, and 1288 accepted.
+[1 : mcmc] Progress @ 2025-02-21 11:59:46 : 1 steps taken, and 1308 accepted.
+[0 : mcmc] Progress @ 2025-02-21 11:59:46 : 1 steps taken, and 1292 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:00:44 : 6 steps taken, and 1279 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:00:47 : 7 steps taken, and 1308 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:00:48 : 10 steps taken, and 1293 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:00:57 : 8 steps taken, and 1288 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:01:45 : 15 steps taken, and 1279 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:01:55 : 12 steps taken, and 1310 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:01:58 : 15 steps taken, and 1288 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:02:01 : 18 steps taken, and 1295 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:02:57 : 22 steps taken, and 1313 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:02:57 : 22 steps taken, and 1281 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:02:59 : 22 steps taken, and 1288 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:03:02 : 36 steps taken, and 1296 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:03:58 : 28 steps taken, and 1313 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:04:04 : 47 steps taken, and 1297 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:04:08 : 30 steps taken, and 1282 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:04:09 : 29 steps taken, and 1290 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:04:58 : 35 steps taken, and 1316 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:05:05 : 54 steps taken, and 1298 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:05:09 : 36 steps taken, and 1283 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:05:21 : 38 steps taken, and 1292 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:06:06 : 40 steps taken, and 1318 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:06:07 : 61 steps taken, and 1300 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:06:10 : 43 steps taken, and 1284 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:06:22 : 45 steps taken, and 1293 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:07:07 : 51 steps taken, and 1320 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:07:18 : 67 steps taken, and 1302 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:07:22 : 49 steps taken, and 1284 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:07:33 : 53 steps taken, and 1293 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:08:09 : 64 steps taken, and 1320 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:08:30 : 74 steps taken, and 1304 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:08:33 : 55 steps taken, and 1285 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:08:37 : 60 steps taken, and 1294 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:09:20 : 80 steps taken, and 1321 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:09:32 : 82 steps taken, and 1307 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:09:34 : 61 steps taken, and 1286 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:09:48 : 67 steps taken, and 1295 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:10:31 : 89 steps taken, and 1323 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:10:35 : 68 steps taken, and 1290 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:10:44 : 88 steps taken, and 1308 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:10:49 : 74 steps taken, and 1298 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:11:31 : 98 steps taken, and 1326 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:11:44 : 74 steps taken, and 1290 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:11:56 : 95 steps taken, and 1310 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:12:00 : 86 steps taken, and 1298 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:12:43 : 107 steps taken, and 1326 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:12:48 : 83 steps taken, and 1293 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:12:58 : 101 steps taken, and 1311 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:13:11 : 97 steps taken, and 1302 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:13:45 : 114 steps taken, and 1326 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:13:59 : 90 steps taken, and 1294 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:14:10 : 109 steps taken, and 1312 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:14:13 : 104 steps taken, and 1305 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:14:50 : 125 steps taken, and 1326 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:15:06 : 95 steps taken, and 1295 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:15:12 : 116 steps taken, and 1314 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:15:22 : 109 steps taken, and 1306 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:16:02 : 131 steps taken, and 1327 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:16:07 : 105 steps taken, and 1296 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:16:24 : 122 steps taken, and 1315 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:16:33 : 117 steps taken, and 1306 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:17:08 : 112 steps taken, and 1297 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:17:13 : 138 steps taken, and 1329 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:17:26 : 129 steps taken, and 1316 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:17:35 : 126 steps taken, and 1310 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:18:15 : 145 steps taken, and 1332 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:18:20 : 120 steps taken, and 1298 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:18:34 : 135 steps taken, and 1316 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:18:40 : 140 steps taken, and 1311 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:19:23 : 151 steps taken, and 1334 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:19:28 : 134 steps taken, and 1299 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:19:36 : 141 steps taken, and 1318 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:19:42 : 152 steps taken, and 1313 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:20:31 : 158 steps taken, and 1336 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:20:39 : 140 steps taken, and 1301 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:20:44 : 146 steps taken, and 1319 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:20:50 : 159 steps taken, and 1316 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:21:36 : 165 steps taken, and 1337 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:21:41 : 147 steps taken, and 1302 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:21:56 : 171 steps taken, and 1319 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:21:56 : 152 steps taken, and 1320 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:22:38 : 175 steps taken, and 1338 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:22:51 : 154 steps taken, and 1303 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:22:58 : 158 steps taken, and 1323 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:23:09 : 177 steps taken, and 1320 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:23:50 : 183 steps taken, and 1340 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:23:53 : 164 steps taken, and 1305 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:24:04 : 166 steps taken, and 1324 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:24:21 : 183 steps taken, and 1323 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:24:51 : 190 steps taken, and 1342 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:24:54 : 172 steps taken, and 1305 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:25:17 : 174 steps taken, and 1326 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:25:23 : 193 steps taken, and 1325 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:25:53 : 200 steps taken, and 1343 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:25:56 : 180 steps taken, and 1305 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:26:19 : 181 steps taken, and 1328 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:26:25 : 199 steps taken, and 1327 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:26:57 : 187 steps taken, and 1307 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:26:58 : 211 steps taken, and 1344 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:27:27 : 208 steps taken, and 1329 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:27:28 : 186 steps taken, and 1330 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:27:58 : 193 steps taken, and 1308 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:28:00 : 220 steps taken, and 1345 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:28:36 : 193 steps taken, and 1331 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:28:39 : 214 steps taken, and 1330 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:29:05 : 230 steps taken, and 1348 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:29:06 : 198 steps taken, and 1309 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:29:37 : 201 steps taken, and 1331 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:29:41 : 221 steps taken, and 1332 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:30:07 : 205 steps taken, and 1311 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:30:13 : 236 steps taken, and 1348 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:30:46 : 206 steps taken, and 1333 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:30:53 : 228 steps taken, and 1333 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:31:09 : 212 steps taken, and 1314 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:31:24 : 243 steps taken, and 1349 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:31:54 : 234 steps taken, and 1336 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:31:58 : 212 steps taken, and 1333 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:32:17 : 217 steps taken, and 1315 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:32:37 : 249 steps taken, and 1352 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:33:00 : 219 steps taken, and 1336 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:33:06 : 240 steps taken, and 1339 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:33:29 : 223 steps taken, and 1318 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:33:38 : 256 steps taken, and 1353 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:34:02 : 225 steps taken, and 1336 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:34:07 : 248 steps taken, and 1342 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[2 : mcmc] Progress @ 2025-02-21 12:34:30 : 229 steps taken, and 1319 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[1 : mcmc] Progress @ 2025-02-21 12:34:48 : 263 steps taken, and 1353 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:35:04 : 233 steps taken, and 1337 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:35:17 : 256 steps taken, and 1344 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:35:42 : 235 steps taken, and 1319 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:35:59 : 273 steps taken, and 1355 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:36:06 : 239 steps taken, and 1338 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:36:29 : 266 steps taken, and 1346 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:36:42 : 241 steps taken, and 1320 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:37:09 : 282 steps taken, and 1359 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:37:15 : 244 steps taken, and 1339 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:37:40 : 274 steps taken, and 1348 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:37:50 : 246 steps taken, and 1321 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:38:17 : 252 steps taken, and 1342 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:38:20 : 290 steps taken, and 1359 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:38:51 : 253 steps taken, and 1322 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:38:51 : 284 steps taken, and 1350 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:39:20 : 302 steps taken, and 1362 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:39:30 : 258 steps taken, and 1343 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:40:01 : 290 steps taken, and 1352 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:40:02 : 259 steps taken, and 1324 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:40:32 : 310 steps taken, and 1365 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:40:37 : 264 steps taken, and 1345 accepted.
+[node144:62096:0:62096] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc048fe3e8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  62096) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node144:62096] *** Process received signal ***
+[node144:62096] Signal: Segmentation fault (11)
+[node144:62096] Signal code:  (-6)
+[node144:62096] Failing at address: 0x8cfb80000f290
+[node144:62096] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7faf5b929630]
+[node144:62096] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7faf3a215f63]
+[node144:62096] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7faf3a219a49]
+[node144:62096] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7faf3a281f01]
+[node144:62096] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7faf3a228fdc]
+[node144:62096] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7faf3a1b1295]
+[node144:62096] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7faf3a22b7c2]
+[node144:62096] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7faf3a2cf923]
+[node144:62096] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7faf3a2d5bff]
+[node144:62096] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7faf3a2e1846]
+[node144:62096] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7faf3a2ec4df]
+[node144:62096] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7faf5bbe4a4a]
+[node144:62096] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7faf5bbe3fea]
+[node144:62096] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7faf518e31e0]
+[node144:62096] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7faf518ec6ee]
+[node144:62096] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node144:62096] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node144:62096] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:62096] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:62096] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:62096] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:62096] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node144:62096] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:62096] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:62096] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:62096] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node144:62096] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node144:62096] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:62096] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:62096] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:62096] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 62096 on node node144 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+WARNING:root:outlier fraction 0.0002653223666755107 
+./chains/PlanckLensingDESI.1.txt
+./chains/PlanckLensingDESI.4.txt
+./chains/PlanckLensingDESI.2.txt
+./chains/PlanckLensingDESI.3.txt
+Removed 0.3 as burn in
+R-1 = 2.3592256124088555
+H_0 = 66.4^{+2.9}_{-3.5}
+w_{0,\mathrm{DE}} = -0.60^{+0.33}_{-0.27}
+w_{a,\mathrm{DE}} < -1.38
+\beta_{\mathrm{DE}} = 2.63^{+0.85}_{-2.4}
+triangle plot saved at ./chains/outputs/PlanckLensingDESI_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingDESI_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingDESI'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingDESI'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.desi_2024_bao_all] Initialized.
+[2 : bao.desi_2024_bao_all] Initialized.
+[1 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[0 : samplecollection] Loaded 1345 sample points from 'chains/PlanckLensingDESI.1.txt'
+[3 : samplecollection] Loaded 1352 sample points from 'chains/PlanckLensingDESI.4.txt'
+[2 : samplecollection] Loaded 1324 sample points from 'chains/PlanckLensingDESI.3.txt'
+[1 : samplecollection] Loaded 1365 sample points from 'chains/PlanckLensingDESI.2.txt'
+[0 : mcmc] Initial point: logA:3.02913, ns:0.9698648, theta_MC_100:1.04155, ombh2:0.0222495, omch2:0.1205934, w:-0.5408005, wa:-1.236336, beta_DE:0.08778998, tau:0.04820346, A_planck:0.9978791, calib_100T:1.000088, calib_217T:0.9989039, A_cib_217:39.59977, xi_sz_cib:0.8027631, A_sz:4.151056, ksz_norm:5.672587, gal545_A_100:7.374325, gal545_A_143:12.71777, gal545_A_143_217:22.83828, gal545_A_217:102.5506, ps_A_100_100:274.3629, ps_A_143_143:38.26163, ps_A_143_217:37.19606, ps_A_217_217:115.7417, galf_TE_A_100:0.1073177, galf_TE_A_100_143:0.1098149, galf_TE_A_100_217:0.532595, galf_TE_A_143:0.1814774, galf_TE_A_143_217:0.731484, galf_TE_A_217:2.224061
+[1 : mcmc] Initial point: logA:3.032866, ns:0.9643301, theta_MC_100:1.040375, ombh2:0.02218538, omch2:0.1209663, w:-0.6104725, wa:-2.867823, beta_DE:3.35697, tau:0.04910122, A_planck:0.999879, calib_100T:1.000004, calib_217T:0.9977517, A_cib_217:48.69218, xi_sz_cib:0.01312436, A_sz:9.297029, ksz_norm:1.060987, gal545_A_100:11.58648, gal545_A_143:11.49398, gal545_A_143_217:17.60086, gal545_A_217:90.03812, ps_A_100_100:224.9861, ps_A_143_143:30.55956, ps_A_143_217:36.18323, ps_A_217_217:122.3842, galf_TE_A_100:0.1823504, galf_TE_A_100_143:0.1754871, galf_TE_A_100_217:0.4279486, galf_TE_A_143:0.2582594, galf_TE_A_143_217:0.7272582, galf_TE_A_217:2.185525
+[2 : mcmc] Initial point: logA:3.044322, ns:0.9663393, theta_MC_100:1.041311, ombh2:0.02231124, omch2:0.118907, w:-0.9509242, wa:-0.4059997, beta_DE:2.689296, tau:0.0515561, A_planck:1.005125, calib_100T:0.9994899, calib_217T:0.9982484, A_cib_217:66.1403, xi_sz_cib:0.1406206, A_sz:4.851439, ksz_norm:4.26485, gal545_A_100:9.06756, gal545_A_143:10.90581, gal545_A_143_217:16.95157, gal545_A_217:82.39973, ps_A_100_100:266.0454, ps_A_143_143:43.51914, ps_A_143_217:27.14585, ps_A_217_217:85.42735, galf_TE_A_100:0.0765788, galf_TE_A_100_143:0.1118577, galf_TE_A_100_217:0.5188725, galf_TE_A_143:0.1987815, galf_TE_A_143_217:0.6474647, galf_TE_A_217:2.216699
+[3 : mcmc] Initial point: logA:3.025524, ns:0.9689071, theta_MC_100:1.041417, ombh2:0.02246509, omch2:0.1202834, w:-0.9960824, wa:-0.680089, beta_DE:1.119081, tau:0.04478887, A_planck:1.000814, calib_100T:0.9997697, calib_217T:0.9995065, A_cib_217:53.02739, xi_sz_cib:0.1198125, A_sz:9.375662, ksz_norm:0.4566039, gal545_A_100:5.316826, gal545_A_143:11.5549, gal545_A_143_217:22.90815, gal545_A_217:101.538, ps_A_100_100:271.6182, ps_A_143_143:34.22736, ps_A_143_217:33.35428, ps_A_217_217:104.3446, galf_TE_A_100:0.005809789, galf_TE_A_100_143:0.08847222, galf_TE_A_100_217:0.4403348, galf_TE_A_143:0.2562242, galf_TE_A_143_217:0.736783, galf_TE_A_217:1.784782
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-02-21 12:41:23 : 1 steps taken, and 1352 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:41:23 : 1 steps taken, and 1345 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:41:23 : 1 steps taken, and 1365 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:41:23 : 1 steps taken, and 1324 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:42:24 : 9 steps taken, and 1324 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:42:26 : 7 steps taken, and 1346 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:42:30 : 11 steps taken, and 1353 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:42:35 : 12 steps taken, and 1367 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:43:28 : 14 steps taken, and 1348 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:43:36 : 15 steps taken, and 1324 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:43:40 : 23 steps taken, and 1367 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:43:41 : 18 steps taken, and 1356 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:44:29 : 18 steps taken, and 1348 accepted.
+[node144:38699:0:38699] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0542efb8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  38699) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node144:38699] *** Process received signal ***
+[node144:38699] Signal: Segmentation fault (11)
+[node144:38699] Signal code:  (-6)
+[node144:38699] Failing at address: 0x8cfb80000972b
+[node144:38699] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f9a3d956630]
+[node144:38699] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f9a1c258f63]
+[node144:38699] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f9a1c25ca49]
+[node144:38699] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f9a1c2c4f01]
+[node144:38699] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f9a1c26bfdc]
+[node144:38699] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f9a1c1f4295]
+[node144:38699] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f9a1c26e7c2]
+[node144:38699] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f9a1c312923]
+[node144:38699] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f9a1c318bff]
+[node144:38699] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f9a1c324846]
+[node144:38699] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f9a1c32f4df]
+[node144:38699] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f9a3dc11a4a]
+[node144:38699] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f9a3dc10fea]
+[node144:38699] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f9a339101e0]
+[node144:38699] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f9a339196ee]
+[node144:38699] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node144:38699] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node144:38699] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:38699] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:38699] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:38699] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:38699] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node144:38699] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:38699] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:38699] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:38699] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node144:38699] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node144:38699] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:38699] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:38699] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:38699] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 38699 on node node144 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+WARNING:root:outlier fraction 0.00026476039184537993 
+./chains/PlanckLensingDESI.1.txt
+./chains/PlanckLensingDESI.4.txt
+./chains/PlanckLensingDESI.2.txt
+./chains/PlanckLensingDESI.3.txt
+Removed 0.3 as burn in
+R-1 = 2.3616468509256325
+H_0 = 66.4^{+2.9}_{-3.5}
+w_{0,\mathrm{DE}} = -0.60^{+0.33}_{-0.27}
+w_{a,\mathrm{DE}} < -1.38
+\beta_{\mathrm{DE}} = 2.64^{+0.84}_{-2.4}
+triangle plot saved at ./chains/outputs/PlanckLensingDESI_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingDESI_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingDESI'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingDESI'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[2 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[0 : samplecollection] Loaded 1348 sample points from 'chains/PlanckLensingDESI.1.txt'
+[2 : samplecollection] Loaded 1324 sample points from 'chains/PlanckLensingDESI.3.txt'
+[1 : samplecollection] Loaded 1367 sample points from 'chains/PlanckLensingDESI.2.txt'
+[3 : samplecollection] Loaded 1356 sample points from 'chains/PlanckLensingDESI.4.txt'
+[1 : mcmc] Initial point: logA:3.032851, ns:0.9648332, theta_MC_100:1.040433, ombh2:0.02232072, omch2:0.1202911, w:-0.5383557, wa:-2.628189, beta_DE:3.305375, tau:0.04816011, A_planck:1.001096, calib_100T:0.9996432, calib_217T:0.9984813, A_cib_217:51.26821, xi_sz_cib:0.06422499, A_sz:7.503399, ksz_norm:1.927366, gal545_A_100:11.47377, gal545_A_143:9.708694, gal545_A_143_217:15.13468, gal545_A_217:87.77407, ps_A_100_100:233.3484, ps_A_143_143:32.11743, ps_A_143_217:33.58287, ps_A_217_217:116.7802, galf_TE_A_100:0.187713, galf_TE_A_100_143:0.1861903, galf_TE_A_100_217:0.4336255, galf_TE_A_143:0.2399572, galf_TE_A_143_217:0.7141206, galf_TE_A_217:2.07337
+[2 : mcmc] Initial point: logA:3.044322, ns:0.9663393, theta_MC_100:1.041311, ombh2:0.02231124, omch2:0.118907, w:-0.9509242, wa:-0.4059997, beta_DE:2.689296, tau:0.0515561, A_planck:1.005125, calib_100T:0.9994899, calib_217T:0.9982484, A_cib_217:66.1403, xi_sz_cib:0.1406206, A_sz:4.851439, ksz_norm:4.26485, gal545_A_100:9.06756, gal545_A_143:10.90581, gal545_A_143_217:16.95157, gal545_A_217:82.39973, ps_A_100_100:266.0454, ps_A_143_143:43.51914, ps_A_143_217:27.14585, ps_A_217_217:85.42735, galf_TE_A_100:0.0765788, galf_TE_A_100_143:0.1118577, galf_TE_A_100_217:0.5188725, galf_TE_A_143:0.1987815, galf_TE_A_143_217:0.6474647, galf_TE_A_217:2.216699
+[0 : mcmc] Initial point: logA:3.038643, ns:0.9669174, theta_MC_100:1.041554, ombh2:0.02225676, omch2:0.120591, w:-0.5200123, wa:-1.277907, beta_DE:0.09322315, tau:0.0478836, A_planck:1.003106, calib_100T:0.9996678, calib_217T:0.9988215, A_cib_217:51.9272, xi_sz_cib:0.7726699, A_sz:3.966429, ksz_norm:3.522361, gal545_A_100:7.730454, gal545_A_143:8.90655, gal545_A_143_217:17.22863, gal545_A_217:88.03507, ps_A_100_100:263.411, ps_A_143_143:54.91846, ps_A_143_217:45.96636, ps_A_217_217:111.964, galf_TE_A_100:0.0816957, galf_TE_A_100_143:0.1204619, galf_TE_A_100_217:0.3701684, galf_TE_A_143:0.2286088, galf_TE_A_143_217:0.7148017, galf_TE_A_217:1.740113
+[3 : mcmc] Initial point: logA:3.032924, ns:0.9690842, theta_MC_100:1.041268, ombh2:0.02248411, omch2:0.1202408, w:-0.7345096, wa:-1.182796, beta_DE:1.11737, tau:0.0488108, A_planck:1.000611, calib_100T:0.9992681, calib_217T:0.9992607, A_cib_217:51.38884, xi_sz_cib:0.2618001, A_sz:8.709489, ksz_norm:0.1298901, gal545_A_100:4.705821, gal545_A_143:12.79624, gal545_A_143_217:23.0236, gal545_A_217:100.4699, ps_A_100_100:286.6041, ps_A_143_143:41.35515, ps_A_143_217:39.17479, ps_A_217_217:110.8004, galf_TE_A_100:0.09681092, galf_TE_A_100_143:0.126567, galf_TE_A_100_217:0.4434525, galf_TE_A_143:0.2954834, galf_TE_A_143_217:0.7290955, galf_TE_A_217:1.878042
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-02-21 12:44:46 : 1 steps taken, and 1356 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:45:15 : 1 steps taken, and 1367 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:45:15 : 1 steps taken, and 1324 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:45:15 : 1 steps taken, and 1348 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:45:57 : 5 steps taken, and 1356 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:46:15 : 8 steps taken, and 1369 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:46:16 : 8 steps taken, and 1325 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:46:24 : 10 steps taken, and 1348 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:47:09 : 11 steps taken, and 1358 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:47:16 : 16 steps taken, and 1370 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:47:25 : 13 steps taken, and 1328 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:47:30 : 16 steps taken, and 1348 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:48:11 : 20 steps taken, and 1358 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:48:17 : 23 steps taken, and 1371 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:48:26 : 21 steps taken, and 1329 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:48:35 : 22 steps taken, and 1349 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:49:19 : 35 steps taken, and 1360 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:49:25 : 28 steps taken, and 1371 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:49:27 : 27 steps taken, and 1329 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:49:43 : 28 steps taken, and 1350 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:50:28 : 40 steps taken, and 1362 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:50:28 : 34 steps taken, and 1331 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:50:37 : 35 steps taken, and 1371 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:50:55 : 35 steps taken, and 1350 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:51:30 : 48 steps taken, and 1363 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:51:37 : 39 steps taken, and 1333 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:51:39 : 42 steps taken, and 1372 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:52:04 : 43 steps taken, and 1352 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:52:31 : 55 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:52:38 : 45 steps taken, and 1335 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:52:40 : 48 steps taken, and 1373 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:53:17 : 53 steps taken, and 1355 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:53:39 : 61 steps taken, and 1367 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:53:41 : 53 steps taken, and 1336 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:53:52 : 55 steps taken, and 1374 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:54:19 : 60 steps taken, and 1357 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:54:41 : 70 steps taken, and 1367 accepted.
+[node144:42505:0:42505] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc04daf108)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  42505) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node144:42505] *** Process received signal ***
+[node144:42505] Signal: Segmentation fault (11)
+[node144:42505] Signal code:  (-6)
+[node144:42505] Failing at address: 0x8cfb80000a609
+[node144:42505] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f3e49935630]
+[node144:42505] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f3e28224f63]
+[node144:42505] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f3e28228a49]
+[node144:42505] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f3e28290f01]
+[node144:42505] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f3e28237fdc]
+[node144:42505] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f3e281c0295]
+[node144:42505] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f3e2823a7c2]
+[node144:42505] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f3e282de923]
+[node144:42505] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f3e282e4bff]
+[node144:42505] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f3e282f0846]
+[node144:42505] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f3e282fb4df]
+[node144:42505] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f3e49bf0a4a]
+[node144:42505] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f3e49beffea]
+[node144:42505] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f3e3f8ef1e0]
+[node144:42505] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f3e3f8f86ee]
+[node144:42505] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node144:42505] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node144:42505] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:42505] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:42505] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:42505] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:42505] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node144:42505] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:42505] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:42505] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:42505] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node144:42505] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node144:42505] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node144:42505] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node144:42505] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node144:42505] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 42505 on node node144 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------
+WARNING:root:outlier fraction 0.0002628811777076761 
+./chains/PlanckLensingDESI.1.txt
+./chains/PlanckLensingDESI.4.txt
+./chains/PlanckLensingDESI.2.txt
+./chains/PlanckLensingDESI.3.txt
+Removed 0.3 as burn in
+R-1 = 2.322269156904252
+H_0 = 66.4^{+3.0}_{-3.5}
+w_{0,\mathrm{DE}} = -0.60^{+0.33}_{-0.27}
+w_{a,\mathrm{DE}} < -1.37
+\beta_{\mathrm{DE}} = 2.63^{+0.85}_{-2.4}
+triangle plot saved at ./chains/outputs/PlanckLensingDESI_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingDESI_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingDESI'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingDESI'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[2 : bao.desi_2024_bao_all] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : bao.desi_2024_bao_all] Initialized.
+[0 : mcmc] Resuming from previous sample!
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.desi_2024_bao_all] Initialized.
+[3 : bao.desi_2024_bao_all] Initialized.
+[0 : samplecollection] Loaded 1357 sample points from 'chains/PlanckLensingDESI.1.txt'
+[1 : samplecollection] Loaded 1374 sample points from 'chains/PlanckLensingDESI.2.txt'
+[2 : samplecollection] Loaded 1336 sample points from 'chains/PlanckLensingDESI.3.txt'
+[3 : samplecollection] Loaded 1367 sample points from 'chains/PlanckLensingDESI.4.txt'
+[2 : mcmc] Initial point: logA:3.032558, ns:0.9687282, theta_MC_100:1.04075, ombh2:0.02206573, omch2:0.1198731, w:-0.7390798, wa:-1.424557, beta_DE:2.400068, tau:0.04710288, A_planck:1.003669, calib_100T:1.000195, calib_217T:0.9981858, A_cib_217:49.09916, xi_sz_cib:0.5530784, A_sz:3.565816, ksz_norm:3.373284, gal545_A_100:8.94835, gal545_A_143:10.5217, gal545_A_143_217:16.84721, gal545_A_217:91.1807, ps_A_100_100:265.7962, ps_A_143_143:53.91094, ps_A_143_217:40.0512, ps_A_217_217:111.6599, galf_TE_A_100:0.1224854, galf_TE_A_100_143:0.1309275, galf_TE_A_100_217:0.5087764, galf_TE_A_143:0.1949098, galf_TE_A_143_217:0.7056123, galf_TE_A_217:2.17293
+[0 : mcmc] Initial point: logA:3.032128, ns:0.9665585, theta_MC_100:1.041503, ombh2:0.02228566, omch2:0.1206747, w:-0.4878393, wa:-1.364598, beta_DE:0.08379814, tau:0.0471945, A_planck:1.001155, calib_100T:0.9997849, calib_217T:0.9982872, A_cib_217:43.90019, xi_sz_cib:0.004699652, A_sz:8.028928, ksz_norm:4.288781, gal545_A_100:7.457335, gal545_A_143:12.29808, gal545_A_143_217:18.22992, gal545_A_217:94.74482, ps_A_100_100:248.9264, ps_A_143_143:32.01325, ps_A_143_217:33.2014, ps_A_217_217:117.4148, galf_TE_A_100:0.05491217, galf_TE_A_100_143:0.118638, galf_TE_A_100_217:0.4070316, galf_TE_A_143:0.2584512, galf_TE_A_143_217:0.8814135, galf_TE_A_217:2.186455
+[1 : mcmc] Initial point: logA:3.03413, ns:0.9651014, theta_MC_100:1.040639, ombh2:0.02246079, omch2:0.1191094, w:-0.6401238, wa:-2.439207, beta_DE:3.424037, tau:0.04798389, A_planck:1.002644, calib_100T:0.999657, calib_217T:0.997741, A_cib_217:51.86917, xi_sz_cib:0.3660077, A_sz:3.219254, ksz_norm:7.589575, gal545_A_100:11.64971, gal545_A_143:7.775432, gal545_A_143_217:9.107906, gal545_A_217:77.73597, ps_A_100_100:219.3821, ps_A_143_143:40.25724, ps_A_143_217:34.22593, ps_A_217_217:108.2779, galf_TE_A_100:0.099268, galf_TE_A_100_143:0.1906112, galf_TE_A_100_217:0.4429893, galf_TE_A_143:0.2682628, galf_TE_A_143_217:0.6495897, galf_TE_A_217:1.738675
+[3 : mcmc] Initial point: logA:3.046988, ns:0.971676, theta_MC_100:1.041123, ombh2:0.0224739, omch2:0.1196333, w:-0.9016003, wa:-0.6425854, beta_DE:1.03383, tau:0.05811713, A_planck:0.9995088, calib_100T:0.9999356, calib_217T:0.9988394, A_cib_217:51.33089, xi_sz_cib:0.2719978, A_sz:5.772809, ksz_norm:0.4623441, gal545_A_100:6.796538, gal545_A_143:12.00722, gal545_A_143_217:21.47616, gal545_A_217:96.41479, ps_A_100_100:304.6351, ps_A_143_143:44.02945, ps_A_143_217:30.70266, ps_A_217_217:107.1169, galf_TE_A_100:0.08413778, galf_TE_A_100_143:0.1265164, galf_TE_A_100_217:0.426006, galf_TE_A_143:0.3125091, galf_TE_A_143_217:0.8121084, galf_TE_A_217:2.402483
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-02-21 12:55:04 : 1 steps taken, and 1357 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:55:33 : 1 steps taken, and 1374 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:55:33 : 1 steps taken, and 1336 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:55:33 : 1 steps taken, and 1367 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:56:07 : 5 steps taken, and 1357 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:56:33 : 8 steps taken, and 1375 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:56:36 : 8 steps taken, and 1367 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:56:45 : 7 steps taken, and 1336 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:57:08 : 13 steps taken, and 1360 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:57:38 : 20 steps taken, and 1377 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:57:47 : 16 steps taken, and 1369 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:57:57 : 13 steps taken, and 1338 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:58:13 : 19 steps taken, and 1361 accepted.
+[1 : mcmc] Progress @ 2025-02-21 12:58:49 : 27 steps taken, and 1379 accepted.
+[2 : mcmc] Progress @ 2025-02-21 12:58:58 : 19 steps taken, and 1340 accepted.
+[3 : mcmc] Progress @ 2025-02-21 12:58:59 : 22 steps taken, and 1369 accepted.
+[0 : mcmc] Progress @ 2025-02-21 12:59:25 : 28 steps taken, and 1363 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:00:00 : 37 steps taken, and 1383 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:00:01 : 28 steps taken, and 1370 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:00:06 : 26 steps taken, and 1341 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:00:26 : 34 steps taken, and 1364 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:01:07 : 32 steps taken, and 1342 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:01:09 : 35 steps taken, and 1372 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:01:12 : 48 steps taken, and 1385 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:01:35 : 43 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:02:19 : 39 steps taken, and 1344 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:02:20 : 60 steps taken, and 1388 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:02:21 : 41 steps taken, and 1373 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:02:44 : 52 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:03:20 : 46 steps taken, and 1346 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:03:22 : 71 steps taken, and 1389 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[3 : mcmc] Progress @ 2025-02-21 13:03:34 : 48 steps taken, and 1374 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[0 : mcmc] Progress @ 2025-02-21 13:03:45 : 57 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:04:22 : 52 steps taken, and 1349 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:04:24 : 79 steps taken, and 1389 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:04:36 : 54 steps taken, and 1374 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:04:47 : 64 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:05:23 : 61 steps taken, and 1349 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:05:25 : 92 steps taken, and 1391 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:05:48 : 60 steps taken, and 1374 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:05:49 : 71 steps taken, and 1366 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:06:24 : 69 steps taken, and 1349 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:06:26 : 100 steps taken, and 1392 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:06:51 : 66 steps taken, and 1375 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:06:53 : 76 steps taken, and 1366 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:07:28 : 108 steps taken, and 1395 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:07:32 : 75 steps taken, and 1349 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:07:52 : 73 steps taken, and 1375 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:08:05 : 85 steps taken, and 1367 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:08:29 : 117 steps taken, and 1397 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:08:33 : 81 steps taken, and 1350 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:09:05 : 80 steps taken, and 1376 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:09:08 : 92 steps taken, and 1368 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:09:31 : 127 steps taken, and 1400 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:09:35 : 87 steps taken, and 1352 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:10:18 : 87 steps taken, and 1376 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:10:19 : 98 steps taken, and 1369 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:10:33 : 135 steps taken, and 1400 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:10:42 : 92 steps taken, and 1353 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:11:20 : 105 steps taken, and 1369 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:11:20 : 94 steps taken, and 1379 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:11:43 : 98 steps taken, and 1355 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:11:46 : 142 steps taken, and 1402 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:12:25 : 116 steps taken, and 1370 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:12:32 : 102 steps taken, and 1380 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:12:47 : 151 steps taken, and 1402 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:12:55 : 106 steps taken, and 1355 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:13:27 : 124 steps taken, and 1371 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:13:35 : 111 steps taken, and 1380 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:13:51 : 162 steps taken, and 1405 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:14:06 : 114 steps taken, and 1357 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:14:38 : 121 steps taken, and 1382 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:14:38 : 132 steps taken, and 1371 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:14:56 : 174 steps taken, and 1407 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:15:17 : 120 steps taken, and 1358 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:15:39 : 143 steps taken, and 1374 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:15:43 : 131 steps taken, and 1387 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:16:08 : 183 steps taken, and 1409 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:16:19 : 126 steps taken, and 1359 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:16:40 : 148 steps taken, and 1374 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:16:54 : 141 steps taken, and 1388 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:17:09 : 189 steps taken, and 1410 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:17:20 : 132 steps taken, and 1360 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:17:40 : 157 steps taken, and 1374 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:17:57 : 153 steps taken, and 1392 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:18:11 : 199 steps taken, and 1410 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:18:28 : 138 steps taken, and 1363 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:18:51 : 169 steps taken, and 1378 accepted.
+[3 : mcmc] Progress @ 2025-02-21 13:19:09 : 161 steps taken, and 1394 accepted.
+[1 : mcmc] Progress @ 2025-02-21 13:19:23 : 208 steps taken, and 1410 accepted.
+[2 : mcmc] Progress @ 2025-02-21 13:19:29 : 146 steps taken, and 1365 accepted.
+[0 : mcmc] Progress @ 2025-02-21 13:19:55 : 176 steps taken, and 1378 accepted.
