@@ -6,9 +6,9 @@ from getdist import plots
 
 # specify chain file root
 chain_root = "./chains/act-full"
-chain_root = "./chains/large"  # this is PlanckLensingDESIPantheon
 #chain_root = "./chains/PlanckLensing"
 #chain_root = "./chains/PlanckLensingDESI"
+#chain_root = "./chains/PlanckLensingDESIPantheon"
 #chain_root = "./chains/PlanckLensingPantheon"
 #chain_root = "./chains/PlanckLensingSDSSPantheon"
 #chain_root = "./chains/PlanckLensingSDSS"

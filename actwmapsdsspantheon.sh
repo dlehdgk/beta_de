@@ -3,7 +3,7 @@
 #SBATCH --ntasks-per-node=4
 #SBATCH --cpus-per-task=1
 #SBATCH --time=72:00:00
-#SBATCH --mem=12G
+#SBATCH --mem=16G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
 
