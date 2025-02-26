@@ -1,0 +1,2067 @@
+./chains/PlanckLensing.2.txt
+./chains/PlanckLensing.1.txt
+./chains/PlanckLensing.4.txt
+./chains/PlanckLensing.3.txt
+Removed 0.3 as burn in
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01484] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01479] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01479] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[warn] Epoll MOD(1) on fd 24 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01512] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01505] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01505] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01547] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01539] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01544] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01540] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01534] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01534] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01567] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01568] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01563] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01563] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01589] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01584] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01584] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01628] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01632] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01631] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01612] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01612] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01662] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01681] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01705] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01724] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01765] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01766] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01761] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01761] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:01787] [[36785,0],0] ORTE_ERROR_LOG: Data unpack would read past end of buffer in file util/show_help.c at line 501
+[node142.pri.stanage.alces.network:01792] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01817] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01812] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01812] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01837] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01834] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01835] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01836] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01830] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01830] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01857] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01858] PML cm cannot be selected
+[node142.pri.stanage.alces.network:01849] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:01849] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01883] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:01912] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02195] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02244] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02242] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02243] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02245] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02236] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02236] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02279] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02319] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02358] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02359] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02361] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02360] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02353] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02353] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02588] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02589] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02586] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02587] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02580] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02580] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02627] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02622] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02622] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02679] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:02727] [[33773,0],0] ORTE_ERROR_LOG: Data unpack would read past end of buffer in file util/show_help.c at line 513
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02732] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02727] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02727] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:02777] [[33683,0],0] ORTE_ERROR_LOG: Data unpack would read past end of buffer in file util/show_help.c at line 501
+[node142.pri.stanage.alces.network:02782] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02822] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02860] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02900] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02902] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02901] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02899] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02895] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02895] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02942] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02937] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02937] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:02982] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02979] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02983] PML cm cannot be selected
+[node142.pri.stanage.alces.network:02975] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:02975] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03026] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03021] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03021] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03064] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03059] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03059] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03135] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03130] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03130] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:03178] [[34080,0],0] ORTE_ERROR_LOG: Out of resource in file util/show_help.c at line 507
+[node142.pri.stanage.alces.network:03183] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03230] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03228] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03231] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03229] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03219] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03219] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03272] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03319] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03317] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03318] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03320] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03313] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03313] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03354] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03394] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03389] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03389] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03441] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03439] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03440] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03433] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03433] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03492] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03537] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+./chains/PlanckLensing.2.txt
+./chains/PlanckLensing.1.txt
+./chains/PlanckLensing.4.txt
+./chains/PlanckLensing.3.txt
+Removed 0.3 as burn in
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03607] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03608] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03604] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03606] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03591] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03591] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03667] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03669] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03670] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03668] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03662] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03662] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03730] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03724] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03724] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03772] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03819] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03825] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03824] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03813] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03813] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03868] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03863] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03863] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:03920] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03925] PML cm cannot be selected
+[node142.pri.stanage.alces.network:03916] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:03916] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:03965] [[34359,0],0] ORTE_ERROR_LOG: Out of resource in file util/show_help.c at line 501
+[node142.pri.stanage.alces.network:03970] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04013] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04009] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04010] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04001] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04001] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04051] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04094] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04141] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:04177] [[39195,0],0] ORTE_ERROR_LOG: Data unpack would read past end of buffer in file util/show_help.c at line 513
+[node142.pri.stanage.alces.network:04192] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04260] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04261] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04259] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04258] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04254] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04254] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04297] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04365] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04359] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04359] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04408] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04406] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04409] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04407] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04402] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04402] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04446] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04488] PML cm cannot be selected
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:04527] [[39141,0],0] ORTE_ERROR_LOG: Out of resource in file util/show_help.c at line 507
+[node142.pri.stanage.alces.network:04533] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04578] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04577] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04580] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04572] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04572] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04625] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04626] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04624] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04627] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04617] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04617] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04668] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04669] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04667] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04666] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04662] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04662] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04710] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04750] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04745] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04745] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[warn] Epoll MOD(1) on fd 22 failed. Old events were 6; read change was 0 (none); write change was 2 (del); close change was 0 (none): Bad file descriptor
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04816] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04819] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04818] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04817] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04812] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04812] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04853] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04855] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04852] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04854] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04848] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04848] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04889] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04891] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04892] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04890] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04885] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04885] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04930] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04932] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04931] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04933] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04926] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04926] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:04971] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04969] PML cm cannot be selected
+[node142.pri.stanage.alces.network:04964] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:04964] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05021] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05074] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05073] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05060] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05060] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05121] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05159] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05160] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05155] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05155] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05200] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05199] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05195] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05195] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+[node142.pri.stanage.alces.network:05232] [[40250,0],0] ORTE_ERROR_LOG: Data unpack would read past end of buffer in file util/show_help.c at line 513
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05237] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05239] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05232] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05232] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05280] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05279] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05282] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05281] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05273] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05273] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05343] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05345] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05342] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05338] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05338] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05383] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05384] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05385] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05379] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05379] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05421] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05467] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05463] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05463] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05518] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05512] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05512] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05557] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05559] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05560] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05558] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05553] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05553] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05599] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05639] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05638] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05634] 1 more process has sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05634] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05674] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05714] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05711] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05712] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05713] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05707] 3 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05707] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05749] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05744] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05744] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05789] PML cm cannot be selected
+[node142.pri.stanage.alces.network:05784] 2 more processes have sent help message help-mca-base.txt / find-available:none found
+[node142.pri.stanage.alces.network:05784] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05851] PML cm cannot be selected
+R-1 = 0.022954786959019275
+H_0 > 76.2
+w_{0,\mathrm{DE}} = -0.79^{+0.57}_{-1.0}
+w_{a,\mathrm{DE}} < -0.839
+\beta_{\mathrm{DE}} = ---
+triangle plot saved at ./chains/outputs/PlanckLensing_triangle.png
+parameters saved at ./chains/outputs/PlanckLensing_parameters.txt
+chain not converged
+--------------------------------------------------------------------------
+No components were able to be opened in the pml framework.
+
+This typically means that either no components of this type were
+installed, or none of the installed components can be loaded.
+Sometimes this means that shared libraries required by these
+components are unable to be found/loaded.
+
+  Host:      node142
+  Framework: pml
+--------------------------------------------------------------------------
+[node142.pri.stanage.alces.network:05903] PML cm cannot be selected
