@@ -1,0 +1,160 @@
+R-1 = 0.04684967198880876
+H_0 = 67.9\pm 1.8
+w_{0,\mathrm{DE}} = -0.87\pm 0.19
+w_{a,\mathrm{DE}} = -0.8\pm 1.0
+\beta_{\mathrm{DE}} > 1.18
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : samplecollection] Loaded 8977 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[1 : samplecollection] Loaded 8881 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[3 : samplecollection] Loaded 9241 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[0 : samplecollection] Loaded 9051 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[0 : mcmc] Initial point: logA:3.05051, ns:0.9674279, theta_MC_100:1.041311, ombh2:0.02260791, omch2:0.1192583, w:-0.6561699, wa:-1.3227, beta_DE:1.958234, tau:0.05493431, A_planck:1.001657, calib_100T:0.9994213, calib_217T:0.9993011, A_cib_217:38.08107, xi_sz_cib:0.2790499, A_sz:0.6055667, ksz_norm:8.118748, gal545_A_100:10.89071, gal545_A_143:10.93601, gal545_A_143_217:16.95336, gal545_A_217:102.5942, ps_A_100_100:287.0084, ps_A_143_143:32.90445, ps_A_143_217:19.18394, ps_A_217_217:109.2089, galf_TE_A_100:0.1666895, galf_TE_A_100_143:0.1482076, galf_TE_A_100_217:0.3969948, galf_TE_A_143:0.2599682, galf_TE_A_143_217:0.7587778, galf_TE_A_217:1.93631
+[1 : mcmc] Initial point: logA:3.041759, ns:0.9658313, theta_MC_100:1.041122, ombh2:0.0224535, omch2:0.1204853, w:-0.663817, wa:-1.195604, beta_DE:0.3234245, tau:0.05699711, A_planck:0.9956312, calib_100T:0.9990997, calib_217T:0.9983299, A_cib_217:41.72431, xi_sz_cib:0.06826822, A_sz:6.003573, ksz_norm:4.273025, gal545_A_100:8.796705, gal545_A_143:11.22362, gal545_A_143_217:19.8288, gal545_A_217:100.6577, ps_A_100_100:228.0883, ps_A_143_143:28.41776, ps_A_143_217:29.76063, ps_A_217_217:113.3246, galf_TE_A_100:0.1151838, galf_TE_A_100_143:0.09870654, galf_TE_A_100_217:0.3696503, galf_TE_A_143:0.2232758, galf_TE_A_143_217:0.5296435, galf_TE_A_217:1.643261
+[3 : mcmc] Initial point: logA:3.02136, ns:0.9606416, theta_MC_100:1.040573, ombh2:0.02238965, omch2:0.1211148, w:-0.9882864, wa:-0.7877323, beta_DE:3.559689, tau:0.04133201, A_planck:0.999438, calib_100T:0.9986579, calib_217T:0.9984699, A_cib_217:39.78685, xi_sz_cib:0.7765972, A_sz:5.2058, ksz_norm:2.182827, gal545_A_100:6.853236, gal545_A_143:11.45081, gal545_A_143_217:23.31266, gal545_A_217:105.4457, ps_A_100_100:233.8727, ps_A_143_143:52.96665, ps_A_143_217:50.6949, ps_A_217_217:129.4724, galf_TE_A_100:0.1172496, galf_TE_A_100_143:0.1684556, galf_TE_A_100_217:0.3327651, galf_TE_A_143:0.2475038, galf_TE_A_143_217:0.7170625, galf_TE_A_217:2.136577
+[2 : mcmc] Initial point: logA:3.059254, ns:0.9657385, theta_MC_100:1.04102, ombh2:0.02232253, omch2:0.1188349, w:-1.05324, wa:0.4388574, beta_DE:8.930139, tau:0.06107471, A_planck:1.003659, calib_100T:0.9994474, calib_217T:0.9985302, A_cib_217:51.27323, xi_sz_cib:0.552918, A_sz:4.716962, ksz_norm:2.775344, gal545_A_100:9.356088, gal545_A_143:11.855, gal545_A_143_217:17.46284, gal545_A_217:88.1862, ps_A_100_100:249.9227, ps_A_143_143:53.43766, ps_A_143_217:47.058, ps_A_217_217:117.1156, galf_TE_A_100:0.1558354, galf_TE_A_100_143:0.1934061, galf_TE_A_100_217:0.3665798, galf_TE_A_143:0.2961263, galf_TE_A_143_217:0.5137354, galf_TE_A_217:2.133978
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-03-03 12:57:33 : 1 steps taken, and 9051 accepted.
+[1 : mcmc] Progress @ 2025-03-03 12:57:52 : 1 steps taken, and 8881 accepted.
+[2 : mcmc] Progress @ 2025-03-03 12:57:52 : 1 steps taken, and 8977 accepted.
+[3 : mcmc] Progress @ 2025-03-03 12:58:02 : 1 steps taken, and 9241 accepted.
+[0 : mcmc] Progress @ 2025-03-03 12:58:47 : 6 steps taken, and 9051 accepted.
+[3 : mcmc] Progress @ 2025-03-03 12:59:04 : 9 steps taken, and 9242 accepted.
+[1 : mcmc] Progress @ 2025-03-03 12:59:04 : 9 steps taken, and 8882 accepted.
+[2 : mcmc] Progress @ 2025-03-03 12:59:05 : 9 steps taken, and 8979 accepted.
+[0 : mcmc] Progress @ 2025-03-03 12:59:59 : 12 steps taken, and 9053 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:00:13 : 16 steps taken, and 8980 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:00:17 : 17 steps taken, and 9244 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:00:17 : 15 steps taken, and 8884 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:01:02 : 19 steps taken, and 9055 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:01:20 : 21 steps taken, and 8884 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:01:23 : 25 steps taken, and 9248 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:01:25 : 22 steps taken, and 8982 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:02:05 : 26 steps taken, and 9056 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:02:27 : 28 steps taken, and 8984 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:02:32 : 32 steps taken, and 9249 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:02:32 : 28 steps taken, and 8884 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:03:08 : 34 steps taken, and 9056 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:03:34 : 39 steps taken, and 9250 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:03:35 : 35 steps taken, and 8885 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:03:35 : 43 steps taken, and 8986 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:04:11 : 42 steps taken, and 9058 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:04:36 : 45 steps taken, and 9251 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:04:38 : 43 steps taken, and 8887 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:04:48 : 50 steps taken, and 8989 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:05:23 : 48 steps taken, and 9060 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:05:39 : 53 steps taken, and 9252 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:05:46 : 50 steps taken, and 8889 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:05:49 : 56 steps taken, and 8991 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:06:23 : 52 steps taken, and 9060 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:06:48 : 59 steps taken, and 9253 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:06:52 : 65 steps taken, and 8995 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:06:58 : 57 steps taken, and 8889 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:07:36 : 58 steps taken, and 9061 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:07:50 : 65 steps taken, and 9255 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:07:53 : 82 steps taken, and 8997 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:08:01 : 65 steps taken, and 8891 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:08:38 : 64 steps taken, and 9061 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:08:52 : 71 steps taken, and 9257 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:09:05 : 90 steps taken, and 8998 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:09:14 : 71 steps taken, and 8895 accepted.
+[2 : mcmc] Learn + convergence test @ 9000 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[0 : mcmc] Progress @ 2025-03-03 13:09:41 : 71 steps taken, and 9062 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:10:05 : 78 steps taken, and 9258 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:10:07 : 99 steps taken, and 9001 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:10:16 : 85 steps taken, and 8900 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:10:54 : 78 steps taken, and 9064 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:11:16 : 105 steps taken, and 9002 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:11:16 : 85 steps taken, and 9259 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:11:22 : 97 steps taken, and 8901 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:12:06 : 87 steps taken, and 9065 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:12:18 : 112 steps taken, and 9003 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:12:18 : 94 steps taken, and 9262 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:12:34 : 105 steps taken, and 8903 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:13:15 : 97 steps taken, and 9068 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:13:23 : 122 steps taken, and 9004 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:13:29 : 105 steps taken, and 9264 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:13:39 : 112 steps taken, and 8903 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:14:23 : 103 steps taken, and 9068 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:14:29 : 129 steps taken, and 9005 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:14:41 : 114 steps taken, and 9266 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:14:47 : 120 steps taken, and 8904 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:15:25 : 110 steps taken, and 9069 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:15:37 : 136 steps taken, and 9008 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:15:42 : 121 steps taken, and 9267 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:15:48 : 127 steps taken, and 8906 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:16:27 : 117 steps taken, and 9070 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:16:48 : 146 steps taken, and 9009 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:16:50 : 126 steps taken, and 9267 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:17:00 : 138 steps taken, and 8907 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:17:37 : 122 steps taken, and 9073 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:17:57 : 159 steps taken, and 9014 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:18:02 : 135 steps taken, and 9267 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:18:05 : 151 steps taken, and 8909 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:18:46 : 134 steps taken, and 9075 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:18:59 : 168 steps taken, and 9015 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:19:03 : 143 steps taken, and 9269 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:19:22 : 158 steps taken, and 8912 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:19:59 : 142 steps taken, and 9077 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:20:07 : 175 steps taken, and 9016 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:20:07 : 159 steps taken, and 9270 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:20:24 : 174 steps taken, and 8913 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:21:11 : 152 steps taken, and 9079 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:21:12 : 185 steps taken, and 9019 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:21:19 : 165 steps taken, and 9272 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:21:36 : 182 steps taken, and 8914 accepted.

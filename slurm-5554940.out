@@ -1,0 +1,404 @@
+WARNING:root:2D kernel density bandwidth optimizer failed for w, wa. Using fallback width: f(a) and f(b) must have different signs
+R-1 = 4.209044408201704
+H_0 = 67.8^{+1.2}_{-1.7}
+w_{0,\mathrm{DE}} = -0.872^{+0.097}_{-0.085}
+w_{a,\mathrm{DE}} = -0.73^{+1.1}_{-0.57}
+\beta_{\mathrm{DE}} > -1.22
+triangle plot saved at ./chains/outputs/PlanckLensingPantheon_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingPantheon_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingPantheon'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingPantheon'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+Loading ACT DR6 lensing likelihood v1.2...
+----
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : mcmc] Resuming from previous sample!
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[1 : samplecollection] Loaded 6250 sample points from 'chains/PlanckLensingPantheon.2.txt'
+[0 : samplecollection] Loaded 6863 sample points from 'chains/PlanckLensingPantheon.1.txt'
+[3 : samplecollection] Loaded 6223 sample points from 'chains/PlanckLensingPantheon.4.txt'
+[2 : samplecollection] Loaded 6312 sample points from 'chains/PlanckLensingPantheon.3.txt'
+[2 : mcmc] Initial point: logA:3.064207, ns:0.9576696, theta_MC_100:1.04074, ombh2:0.02204517, omch2:0.1221213, w:-1.02346, wa:-0.1060377, beta_DE:7.010596, tau:0.06181857, A_planck:1.001063, calib_100T:1.000068, calib_217T:0.9983191, A_cib_217:42.73396, xi_sz_cib:0.4984221, A_sz:3.444809, ksz_norm:6.207268, gal545_A_100:9.076878, gal545_A_143:10.67597, gal545_A_143_217:18.35664, gal545_A_217:98.76642, ps_A_100_100:301.2042, ps_A_143_143:48.266, ps_A_143_217:35.17077, ps_A_217_217:114.8898, galf_TE_A_100:0.1729382, galf_TE_A_100_143:0.1474973, galf_TE_A_100_217:0.5097643, galf_TE_A_143:0.1995645, galf_TE_A_143_217:0.6668696, galf_TE_A_217:2.164014
+[0 : mcmc] Initial point: logA:3.026686, ns:0.9710296, theta_MC_100:1.041132, ombh2:0.0223424, omch2:0.1198413, w:-0.8754683, wa:-0.5563205, beta_DE:0.8379812, tau:0.04476825, A_planck:1.002739, calib_100T:1.00038, calib_217T:0.9986727, A_cib_217:46.47643, xi_sz_cib:0.30649, A_sz:4.715916, ksz_norm:1.638899, gal545_A_100:11.23455, gal545_A_143:11.608, gal545_A_143_217:18.23611, gal545_A_217:97.92752, ps_A_100_100:280.2238, ps_A_143_143:49.9169, ps_A_143_217:47.51313, ps_A_217_217:118.3143, galf_TE_A_100:0.06334151, galf_TE_A_100_143:0.0954139, galf_TE_A_100_217:0.4244775, galf_TE_A_143:0.2295477, galf_TE_A_143_217:0.7641316, galf_TE_A_217:2.287485
+[1 : mcmc] Initial point: logA:3.051995, ns:0.9654196, theta_MC_100:1.040711, ombh2:0.02238267, omch2:0.1190174, w:-0.7411004, wa:-2.724546, beta_DE:8.142683, tau:0.05959159, A_planck:1.000384, calib_100T:0.9994591, calib_217T:0.9980396, A_cib_217:53.60114, xi_sz_cib:0.9281451, A_sz:1.050164, ksz_norm:5.562075, gal545_A_100:7.311248, gal545_A_143:11.11507, gal545_A_143_217:15.62368, gal545_A_217:85.70399, ps_A_100_100:309.6648, ps_A_143_143:60.77282, ps_A_143_217:40.44585, ps_A_217_217:106.774, galf_TE_A_100:0.04805136, galf_TE_A_100_143:0.1019931, galf_TE_A_100_217:0.6587196, galf_TE_A_143:0.2389522, galf_TE_A_143_217:0.7917259, galf_TE_A_217:2.598981
+[3 : mcmc] Initial point: logA:3.042986, ns:0.9630121, theta_MC_100:1.040859, ombh2:0.0221409, omch2:0.1200518, w:-0.8713201, wa:-0.1239321, beta_DE:-2.091115, tau:0.05415553, A_planck:0.9995975, calib_100T:0.9991294, calib_217T:0.9976425, A_cib_217:49.53124, xi_sz_cib:0.3063437, A_sz:5.968605, ksz_norm:0.9066713, gal545_A_100:5.124613, gal545_A_143:8.740001, gal545_A_143_217:14.69927, gal545_A_217:83.10963, ps_A_100_100:289.923, ps_A_143_143:59.17757, ps_A_143_217:47.58136, ps_A_217_217:117.0954, galf_TE_A_100:-0.005276157, galf_TE_A_100_143:0.09910257, galf_TE_A_100_217:0.4458774, galf_TE_A_143:0.2971355, galf_TE_A_143_217:0.8309288, galf_TE_A_217:2.114677
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-03-03 13:02:36 : 1 steps taken, and 6223 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:02:47 : 1 steps taken, and 6863 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:02:52 : 1 steps taken, and 6312 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:03:03 : 1 steps taken, and 6250 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:03:50 : 11 steps taken, and 6865 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:03:52 : 4 steps taken, and 6223 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:03:57 : 14 steps taken, and 6315 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:04:09 : 8 steps taken, and 6251 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:04:56 : 8 steps taken, and 6223 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:04:57 : 24 steps taken, and 6866 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:04:59 : 27 steps taken, and 6318 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:05:14 : 14 steps taken, and 6251 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:06:02 : 14 steps taken, and 6224 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:06:03 : 38 steps taken, and 6867 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:06:05 : 39 steps taken, and 6319 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:06:26 : 22 steps taken, and 6254 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:07:02 : 18 steps taken, and 6225 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:07:10 : 51 steps taken, and 6320 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:07:10 : 50 steps taken, and 6869 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:07:31 : 27 steps taken, and 6254 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[2 : mcmc] Progress @ 2025-03-03 13:08:17 : 63 steps taken, and 6321 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:08:17 : 63 steps taken, and 6870 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:08:18 : 25 steps taken, and 6228 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:08:37 : 31 steps taken, and 6254 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:09:18 : 76 steps taken, and 6323 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:09:22 : 78 steps taken, and 6872 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:09:33 : 29 steps taken, and 6229 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:09:39 : 35 steps taken, and 6256 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:10:23 : 86 steps taken, and 6325 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:10:24 : 88 steps taken, and 6874 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:10:41 : 36 steps taken, and 6231 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:10:54 : 39 steps taken, and 6256 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:11:26 : 102 steps taken, and 6874 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:11:27 : 98 steps taken, and 6325 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:11:51 : 46 steps taken, and 6232 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:12:05 : 47 steps taken, and 6258 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:12:31 : 110 steps taken, and 6328 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:12:32 : 115 steps taken, and 6876 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:13:01 : 54 steps taken, and 6233 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:13:06 : 51 steps taken, and 6258 accepted.
+ Warning: Integrate_Romberg failed to converge; 
+ integral, error, tol:   12476.294253118702       -1.1374175912237661E-007   1.0000000000000001E-007
+[2 : mcmc] Progress @ 2025-03-03 13:13:33 : 121 steps taken, and 6329 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:13:37 : 132 steps taken, and 6877 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:14:18 : 57 steps taken, and 6258 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:14:19 : 63 steps taken, and 6234 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:14:33 : 129 steps taken, and 6331 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:14:38 : 144 steps taken, and 6878 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:15:27 : 63 steps taken, and 6259 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:15:35 : 141 steps taken, and 6335 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:15:35 : 68 steps taken, and 6235 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:15:40 : 156 steps taken, and 6880 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:16:37 : 76 steps taken, and 6236 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:16:41 : 165 steps taken, and 6881 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:16:41 : 155 steps taken, and 6338 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:16:42 : 67 steps taken, and 6259 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:17:39 : 79 steps taken, and 6237 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:17:43 : 178 steps taken, and 6882 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:17:44 : 74 steps taken, and 6260 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:17:45 : 169 steps taken, and 6339 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:18:46 : 186 steps taken, and 6340 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:18:49 : 189 steps taken, and 6882 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:18:49 : 86 steps taken, and 6238 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:18:56 : 78 steps taken, and 6261 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:19:48 : 202 steps taken, and 6343 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:19:49 : 203 steps taken, and 6882 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:20:02 : 92 steps taken, and 6240 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:20:09 : 84 steps taken, and 6264 accepted.
+[2 : mcmc] Progress @ 2025-03-03 13:20:55 : 218 steps taken, and 6345 accepted.
+[0 : mcmc] Progress @ 2025-03-03 13:20:56 : 215 steps taken, and 6884 accepted.
+[3 : mcmc] Progress @ 2025-03-03 13:21:06 : 98 steps taken, and 6242 accepted.
+[1 : mcmc] Progress @ 2025-03-03 13:21:15 : 91 steps taken, and 6265 accepted.
