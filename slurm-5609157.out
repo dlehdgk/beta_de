@@ -1,0 +1,18 @@
+R-1 = 0.048620623251893993
+H_0 = 67.81\pm 0.73
+w_{0,\mathrm{DE}} = -0.839\pm 0.084
+w_{a,\mathrm{DE}} = -1.08^{+1.1}_{-0.57}
+\beta_{\mathrm{DE}} > 2.67
+triangle plot saved at ./chains/outputs/ACTWMAPDESIPantheon_triangle.png
+parameters saved at ./chains/outputs/ACTWMAPDESIPantheon_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'ACTWMAPDESIPantheon'
+[0 : output] Found existing info files with the requested output prefix: 'chains/ACTWMAPDESIPantheon'
+[0 : output] Let's try to resume/load.
+[0 : output] *ERROR* File chains/ACTWMAPDESIPantheon.input.yaml.locked is locked.
+You may be running multiple jobs with the same output when you intended to run with MPI. Check that mpi4py is correctly installed and configured (using the same mpi as mpirun/mpiexec); e.g. try the test at
+https://cobaya.readthedocs.io/en/latest/installation.html#mpi-parallelization-optional-but-encouraged
+Your current mpi4py config is:
+ {}
+If this is a lock issue you can disable this check by setting env COBAYA_USE_FILE_LOCKING=False.
+slurmstepd: error: *** JOB 5609157 ON node050 CANCELLED AT 2025-03-09T17:21:04 ***
