@@ -30,6 +30,6 @@ do
 		break
 	else
 		echo "chain not converged"
-		mpirun -np 4 cobaya-run ${chain_name}.yaml
+		srun --export=ALL cobaya-run ${chain_name}.yaml
 	fi
 done

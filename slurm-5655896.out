@@ -1,0 +1,53 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'ACTWMAPPantheon'
+[0 : output] Found existing info files with the requested output prefix: 'chains/ACTWMAPPantheon'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+Loading ACT DR6 lensing likelihood v1.2...
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.9860935524652339
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+[0 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] Loaded SZ.
+[3 : wmaplike.wmaplike] Loaded SZ.
+[2 : wmaplike.wmaplike] Loaded SZ.
+[1 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[2 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[0 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[3 : wmaplike.wmaplike] First evaluation: Calculating largest term...
+[0 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[3 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[2 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[1 : wmaplike.wmaplike] Done finding largest term [-759.901].
+[0 : wmaplike.wmaplike] Initialized TT gibbs.
+[3 : wmaplike.wmaplike] Initialized TT gibbs.
+[2 : wmaplike.wmaplike] Initialized TT gibbs.
+[1 : wmaplike.wmaplike] Initialized TT gibbs.
+[3 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[1 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[0 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[2 : wmaplike.wmaplike] Initialized high-l TT/TE.
+[0 : mcmc] Resuming from previous sample!
+[0 : samplecollection] Loaded 16630 sample points from 'chains/ACTWMAPPantheon.1.txt'
+[2 : samplecollection] Loaded 16200 sample points from 'chains/ACTWMAPPantheon.3.txt'
+[1 : samplecollection] Loaded 16060 sample points from 'chains/ACTWMAPPantheon.2.txt'
+[3 : samplecollection] Loaded 16335 sample points from 'chains/ACTWMAPPantheon.4.txt'
+[0 : mcmc] Initial point: yp2:1.011335, logA:3.056408, ns:0.9725202, theta_MC_100:1.040767, ombh2:0.02248642, omch2:0.12139, w:-0.8151496, wa:-1.47603, beta_DE:7.326744, tau:0.05369146
+[3 : mcmc] Initial point: yp2:1.00476, logA:3.074981, ns:0.97487, theta_MC_100:1.042231, ombh2:0.02246414, omch2:0.1199334, w:-1.031275, wa:0.6515996, beta_DE:9.328645, tau:0.06762241
+[1 : mcmc] Initial point: yp2:1.005413, logA:3.116531, ns:0.975304, theta_MC_100:1.042481, ombh2:0.02247764, omch2:0.1182158, w:-0.9857487, wa:0.3245215, beta_DE:7.172195, tau:0.09033345
+[2 : mcmc] Initial point: yp2:1.004479, logA:3.084691, ns:0.9738614, theta_MC_100:1.042195, ombh2:0.02205452, omch2:0.1171076, w:-0.7672516, wa:-2.12845, beta_DE:5.551456, tau:0.07562406
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] * 1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 4 : (['yp2'],)
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Sampling complete after 65225 accepted steps.
