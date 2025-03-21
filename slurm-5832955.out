@@ -1,0 +1,2431 @@
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.01219198701246011
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} = 3.0^{+7.0}_{-2.1}
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : samplecollection] Loaded 33150 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[3 : samplecollection] Loaded 33375 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[0 : samplecollection] Loaded 33570 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[1 : samplecollection] Loaded 33312 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[1 : mcmc] Initial point: logA:3.043551, ns:0.9683063, theta_MC_100:1.04098, ombh2:0.02216348, omch2:0.120488, w:-0.8626212, wa:-0.2424654, beta_DE:-1.224515, tau:0.05145483, A_planck:1.002009, calib_100T:0.9991807, calib_217T:0.9977805, A_cib_217:37.50773, xi_sz_cib:0.6048636, A_sz:6.955265, ksz_norm:2.138319, gal545_A_100:8.845368, gal545_A_143:9.712425, gal545_A_143_217:16.73951, gal545_A_217:97.53696, ps_A_100_100:200.4475, ps_A_143_143:45.58242, ps_A_143_217:51.79329, ps_A_217_217:128.424, galf_TE_A_100:0.1638328, galf_TE_A_100_143:0.1041468, galf_TE_A_100_217:0.6852843, galf_TE_A_143:0.2223796, galf_TE_A_143_217:0.7402991, galf_TE_A_217:2.298776
+[2 : mcmc] Initial point: logA:3.047037, ns:0.9626374, theta_MC_100:1.040605, ombh2:0.02234241, omch2:0.1207518, w:-0.6665083, wa:-0.5997207, beta_DE:-0.8113745, tau:0.05274495, A_planck:1.002074, calib_100T:0.9995476, calib_217T:0.9982984, A_cib_217:52.98945, xi_sz_cib:0.3141471, A_sz:6.591813, ksz_norm:2.688642, gal545_A_100:10.22687, gal545_A_143:10.00504, gal545_A_143_217:16.11868, gal545_A_217:86.7539, ps_A_100_100:230.118, ps_A_143_143:40.35352, ps_A_143_217:38.77802, ps_A_217_217:105.8112, galf_TE_A_100:0.142677, galf_TE_A_100_143:0.1648138, galf_TE_A_100_217:0.466152, galf_TE_A_143:0.26696, galf_TE_A_143_217:0.599252, galf_TE_A_217:2.220285
+[3 : mcmc] Initial point: logA:3.04731, ns:0.9741207, theta_MC_100:1.040654, ombh2:0.02245612, omch2:0.1188652, w:-0.8957368, wa:-0.005640572, beta_DE:-7.827704, tau:0.05900962, A_planck:1.0008, calib_100T:1.000387, calib_217T:0.9975076, A_cib_217:40.51107, xi_sz_cib:0.5711336, A_sz:7.611637, ksz_norm:1.208477, gal545_A_100:10.99545, gal545_A_143:10.60031, gal545_A_143_217:20.04104, gal545_A_217:96.33846, ps_A_100_100:228.1543, ps_A_143_143:36.32875, ps_A_143_217:44.40571, ps_A_217_217:124.3565, galf_TE_A_100:0.194104, galf_TE_A_100_143:0.1396805, galf_TE_A_100_217:0.5761883, galf_TE_A_143:0.1857888, galf_TE_A_143_217:0.5586882, galf_TE_A_217:2.433968
+[0 : mcmc] Initial point: logA:3.034782, ns:0.9638899, theta_MC_100:1.040399, ombh2:0.02222274, omch2:0.1206783, w:-0.7897976, wa:-1.023052, beta_DE:1.13303, tau:0.04697183, A_planck:1.001713, calib_100T:1.000384, calib_217T:0.9982532, A_cib_217:50.9805, xi_sz_cib:0.4099218, A_sz:4.771095, ksz_norm:2.313659, gal545_A_100:10.23234, gal545_A_143:8.91015, gal545_A_143_217:15.24011, gal545_A_217:86.55976, ps_A_100_100:284.2662, ps_A_143_143:40.39377, ps_A_143_217:41.69618, ps_A_217_217:112.9328, galf_TE_A_100:0.1318689, galf_TE_A_100_143:0.1443459, galf_TE_A_100_217:0.5997784, galf_TE_A_143:0.2447227, galf_TE_A_143_217:0.7404485, galf_TE_A_217:2.60585
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-03-21 15:14:59 : 1 steps taken, and 33570 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:14:59 : 1 steps taken, and 33375 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:15:29 : 1 steps taken, and 33312 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:15:29 : 1 steps taken, and 33150 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:16:01 : 8 steps taken, and 33375 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:16:02 : 5 steps taken, and 33570 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:16:30 : 7 steps taken, and 33151 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:16:33 : 8 steps taken, and 33312 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:17:14 : 32 steps taken, and 33375 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:17:16 : 11 steps taken, and 33571 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:17:37 : 15 steps taken, and 33312 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:17:38 : 16 steps taken, and 33153 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:18:17 : 47 steps taken, and 33376 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:18:23 : 20 steps taken, and 33574 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:18:51 : 21 steps taken, and 33313 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:18:51 : 23 steps taken, and 33155 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:19:20 : 68 steps taken, and 33379 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:19:25 : 33 steps taken, and 33577 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:19:51 : 27 steps taken, and 33314 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:20:05 : 30 steps taken, and 33157 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:20:30 : 89 steps taken, and 33380 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:20:32 : 43 steps taken, and 33578 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:21:02 : 34 steps taken, and 33316 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:21:18 : 37 steps taken, and 33159 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:21:37 : 102 steps taken, and 33380 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:21:46 : 51 steps taken, and 33581 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:22:09 : 45 steps taken, and 33319 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:22:22 : 45 steps taken, and 33165 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:22:50 : 115 steps taken, and 33381 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:22:59 : 62 steps taken, and 33583 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:23:21 : 50 steps taken, and 33321 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:23:36 : 51 steps taken, and 33166 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:23:56 : 127 steps taken, and 33384 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:24:13 : 69 steps taken, and 33584 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:24:29 : 58 steps taken, and 33323 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:24:40 : 57 steps taken, and 33172 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:24:58 : 140 steps taken, and 33385 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:25:27 : 78 steps taken, and 33584 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:25:29 : 66 steps taken, and 33326 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:25:54 : 63 steps taken, and 33173 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:26:00 : 153 steps taken, and 33386 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:26:30 : 84 steps taken, and 33585 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:26:33 : 73 steps taken, and 33328 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:26:58 : 69 steps taken, and 33174 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:27:13 : 163 steps taken, and 33387 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:27:37 : 80 steps taken, and 33330 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:27:39 : 91 steps taken, and 33586 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:28:08 : 74 steps taken, and 33176 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:28:19 : 174 steps taken, and 33388 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:28:47 : 87 steps taken, and 33332 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:28:53 : 97 steps taken, and 33590 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:29:21 : 184 steps taken, and 33388 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:29:22 : 82 steps taken, and 33178 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:29:56 : 104 steps taken, and 33592 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:29:58 : 101 steps taken, and 33336 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:30:34 : 202 steps taken, and 33389 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:30:36 : 88 steps taken, and 33178 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:30:59 : 114 steps taken, and 33595 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:31:06 : 113 steps taken, and 33339 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:31:36 : 223 steps taken, and 33390 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:31:43 : 97 steps taken, and 33179 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:32:09 : 125 steps taken, and 33343 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:32:13 : 120 steps taken, and 33599 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:32:39 : 234 steps taken, and 33392 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node032:60435:0:60435] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc044dbe98)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  60435) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node032:60435] *** Process received signal ***
+[node032:60435] Signal: Segmentation fault (11)
+[node032:60435] Signal code:  (-6)
+[node032:60435] Failing at address: 0x8cfb80000ec13
+[node032:60435] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f345bcd6630]
+[node032:60435] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f343a5ccf63]
+[node032:60435] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f343a5d0a49]
+[node032:60435] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f343a638f01]
+[node032:60435] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f343a5dffdc]
+[node032:60435] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f343a568295]
+[node032:60435] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f343a5e27c2]
+[node032:60435] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f343a686923]
+[node032:60435] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f343a68cbff]
+[node032:60435] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f343a698846]
+[node032:60435] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f343a6a34df]
+[node032:60435] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f345bf91a4a]
+[node032:60435] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f345bf90fea]
+[node032:60435] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f3451c901e0]
+[node032:60435] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f3451c996ee]
+[node032:60435] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node032:60435] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node032:60435] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:60435] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:60435] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:60435] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:60435] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node032:60435] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:60435] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:60435] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:60435] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node032:60435] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node032:60435] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:60435] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:60435] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:60435] *** End of error message ***
+srun: error: node032: task 1: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node032 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5832955.0:1]
+slurmstepd: error: *** STEP 5832955.0 ON node032 CANCELLED AT 2025-03-21T15:32:44 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node032: tasks 0,2-3: Killed
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.012410381914214556
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} = 3.0^{+6.9}_{-2.1}
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : samplecollection] Loaded 33392 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[2 : samplecollection] Loaded 33179 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[1 : samplecollection] Loaded 33343 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[0 : samplecollection] Loaded 33599 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[2 : mcmc] Initial point: logA:3.040285, ns:0.963187, theta_MC_100:1.040769, ombh2:0.02232366, omch2:0.1209005, w:-0.6757932, wa:-0.2824137, beta_DE:-2.396357, tau:0.05352868, A_planck:0.9963411, calib_100T:1.000477, calib_217T:0.9980447, A_cib_217:39.54225, xi_sz_cib:0.4710511, A_sz:8.994641, ksz_norm:1.200571, gal545_A_100:8.41087, gal545_A_143:8.222515, gal545_A_143_217:19.27351, gal545_A_217:97.50931, ps_A_100_100:214.6434, ps_A_143_143:38.37098, ps_A_143_217:47.81582, ps_A_217_217:123.5383, galf_TE_A_100:0.08679319, galf_TE_A_100_143:0.1239091, galf_TE_A_100_217:0.6112819, galf_TE_A_143:0.1665385, galf_TE_A_143_217:0.5883587, galf_TE_A_217:2.088161
+[0 : mcmc] Initial point: logA:3.034542, ns:0.9613369, theta_MC_100:1.040936, ombh2:0.0223988, omch2:0.1206219, w:-0.9510021, wa:-0.3973343, beta_DE:4.683858, tau:0.04686104, A_planck:1.000279, calib_100T:0.9996342, calib_217T:0.9983285, A_cib_217:33.63611, xi_sz_cib:0.2086161, A_sz:4.473961, ksz_norm:2.608312, gal545_A_100:10.42184, gal545_A_143:8.837651, gal545_A_143_217:20.27669, gal545_A_217:105.2765, ps_A_100_100:236.9386, ps_A_143_143:44.55239, ps_A_143_217:36.71469, ps_A_217_217:129.6787, galf_TE_A_100:0.1306943, galf_TE_A_100_143:0.1201057, galf_TE_A_100_217:0.4209791, galf_TE_A_143:0.1634616, galf_TE_A_143_217:0.749236, galf_TE_A_217:2.247278
+[3 : mcmc] Initial point: logA:3.044621, ns:0.9700412, theta_MC_100:1.040681, ombh2:0.02245847, omch2:0.1188317, w:-0.8963391, wa:-0.008551763, beta_DE:-7.705949, tau:0.05951496, A_planck:0.9975252, calib_100T:1.000751, calib_217T:0.9987798, A_cib_217:37.16082, xi_sz_cib:0.5506073, A_sz:9.487251, ksz_norm:1.681217, gal545_A_100:10.07684, gal545_A_143:11.19799, gal545_A_143_217:22.57183, gal545_A_217:104.1946, ps_A_100_100:238.3009, ps_A_143_143:42.1468, ps_A_143_217:51.82829, ps_A_217_217:129.9299, galf_TE_A_100:0.04028288, galf_TE_A_100_143:0.07258388, galf_TE_A_100_217:0.4300447, galf_TE_A_143:0.1789756, galf_TE_A_143_217:0.6531611, galf_TE_A_217:2.331038
+[1 : mcmc] Initial point: logA:3.060126, ns:0.9690132, theta_MC_100:1.040948, ombh2:0.0225445, omch2:0.1188218, w:-0.60779, wa:-2.852483, beta_DE:5.560324, tau:0.06736088, A_planck:0.9961806, calib_100T:0.9997525, calib_217T:0.9981384, A_cib_217:43.22514, xi_sz_cib:0.9160112, A_sz:4.316541, ksz_norm:3.467491, gal545_A_100:9.658141, gal545_A_143:10.11193, gal545_A_143_217:18.16801, gal545_A_217:94.05747, ps_A_100_100:257.2486, ps_A_143_143:41.28116, ps_A_143_217:44.00772, ps_A_217_217:115.4818, galf_TE_A_100:0.1332083, galf_TE_A_100_143:0.1207627, galf_TE_A_100_217:0.3436169, galf_TE_A_143:0.2312361, galf_TE_A_143_217:0.4490874, galf_TE_A_217:1.696794
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[3 : mcmc] Progress @ 2025-03-21 15:33:04 : 1 steps taken, and 33392 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:33:23 : 1 steps taken, and 33179 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:33:33 : 1 steps taken, and 33599 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:33:34 : 1 steps taken, and 33343 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:34:08 : 8 steps taken, and 33393 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:34:36 : 10 steps taken, and 33179 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:34:37 : 13 steps taken, and 33600 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:34:45 : 15 steps taken, and 33347 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:35:10 : 22 steps taken, and 33394 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:35:37 : 22 steps taken, and 33601 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:35:42 : 20 steps taken, and 33181 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:35:55 : 23 steps taken, and 33348 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:36:13 : 43 steps taken, and 33396 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:36:44 : 34 steps taken, and 33604 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:36:45 : 31 steps taken, and 33182 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:36:58 : 33 steps taken, and 33349 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:37:15 : 60 steps taken, and 33399 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:37:51 : 48 steps taken, and 33605 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:37:58 : 43 steps taken, and 33184 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:38:09 : 38 steps taken, and 33352 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:38:18 : 76 steps taken, and 33400 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:38:51 : 59 steps taken, and 33606 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:39:08 : 50 steps taken, and 33185 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:39:12 : 48 steps taken, and 33356 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:39:21 : 83 steps taken, and 33400 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:39:54 : 66 steps taken, and 33609 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:40:16 : 57 steps taken, and 33359 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:40:18 : 63 steps taken, and 33186 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:40:27 : 103 steps taken, and 33400 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:40:58 : 72 steps taken, and 33611 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:41:20 : 66 steps taken, and 33360 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:41:21 : 69 steps taken, and 33189 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node032:13507:0:13507] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc057424f8)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  13507) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node032:13507] *** Process received signal ***
+[node032:13507] Signal: Segmentation fault (11)
+[node032:13507] Signal code:  (-6)
+[node032:13507] Failing at address: 0x8cfb8000034c3
+[node032:13507] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7fecbd68d630]
+[node032:13507] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7feca03a4f63]
+[node032:13507] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7feca03a8a49]
+[node032:13507] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7feca0410f01]
+[node032:13507] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7feca03b7fdc]
+[node032:13507] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7feca0340295]
+[node032:13507] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7feca03ba7c2]
+[node032:13507] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7feca045e923]
+[node032:13507] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7feca0464bff]
+[node032:13507] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7feca0470846]
+[node032:13507] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7feca047b4df]
+[node032:13507] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7fecbd948a4a]
+[node032:13507] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7fecbd947fea]
+[node032:13507] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7fecb36471e0]
+[node032:13507] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7fecb36506ee]
+[node032:13507] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node032:13507] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node032:13507] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13507] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13507] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13507] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13507] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node032:13507] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13507] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13507] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13507] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node032:13507] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node032:13507] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13507] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13507] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13507] *** End of error message ***
+srun: error: node032: task 2: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node032 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5832955.1:2]
+slurmstepd: error: *** STEP 5832955.1 ON node032 CANCELLED AT 2025-03-21T15:41:36 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node032: tasks 0-1,3: Killed
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.012544845423832628
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} = 3.0^{+7.0}_{-2.1}
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : samplecollection] Loaded 33189 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[3 : samplecollection] Loaded 33400 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[1 : samplecollection] Loaded 33360 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[0 : samplecollection] Loaded 33611 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[2 : mcmc] Initial point: logA:3.069117, ns:0.9671183, theta_MC_100:1.041026, ombh2:0.02253514, omch2:0.1190194, w:-0.6472902, wa:-1.082164, beta_DE:0.2610085, tau:0.06812743, A_planck:1.000815, calib_100T:1.00006, calib_217T:0.9978018, A_cib_217:48.93432, xi_sz_cib:0.7766301, A_sz:9.628841, ksz_norm:1.99927, gal545_A_100:9.523966, gal545_A_143:8.35388, gal545_A_143_217:19.12974, gal545_A_217:86.78548, ps_A_100_100:236.5217, ps_A_143_143:46.73457, ps_A_143_217:54.76729, ps_A_217_217:118.9957, galf_TE_A_100:0.08702339, galf_TE_A_100_143:0.08682634, galf_TE_A_100_217:0.5381477, galf_TE_A_143:0.1128317, galf_TE_A_143_217:0.612449, galf_TE_A_217:2.51729
+[0 : mcmc] Initial point: logA:3.03617, ns:0.9641829, theta_MC_100:1.040621, ombh2:0.02226245, omch2:0.1203603, w:-0.9829964, wa:-0.9860425, beta_DE:9.217727, tau:0.04663159, A_planck:1.004323, calib_100T:0.9993616, calib_217T:0.9986506, A_cib_217:60.48537, xi_sz_cib:0.4113968, A_sz:5.119492, ksz_norm:2.542311, gal545_A_100:5.771883, gal545_A_143:13.10731, gal545_A_143_217:19.9686, gal545_A_217:89.85365, ps_A_100_100:291.2937, ps_A_143_143:47.30532, ps_A_143_217:39.42554, ps_A_217_217:98.15353, galf_TE_A_100:0.09653444, galf_TE_A_100_143:0.0901921, galf_TE_A_100_217:0.4236486, galf_TE_A_143:0.1819209, galf_TE_A_143_217:0.7247851, galf_TE_A_217:1.77519
+[1 : mcmc] Initial point: logA:3.040401, ns:0.9589703, theta_MC_100:1.040645, ombh2:0.02237191, omch2:0.121222, w:-0.9415906, wa:-1.345332, beta_DE:9.169901, tau:0.0473766, A_planck:1.004936, calib_100T:1.000738, calib_217T:0.9988163, A_cib_217:54.42384, xi_sz_cib:0.4623612, A_sz:2.303842, ksz_norm:8.03062, gal545_A_100:11.53305, gal545_A_143:10.77907, gal545_A_143_217:18.96246, gal545_A_217:91.73314, ps_A_100_100:304.2854, ps_A_143_143:45.35302, ps_A_143_217:26.21825, ps_A_217_217:96.13426, galf_TE_A_100:0.1474643, galf_TE_A_100_143:0.1195581, galf_TE_A_100_217:0.3450839, galf_TE_A_143:0.2329703, galf_TE_A_143_217:0.7459052, galf_TE_A_217:1.835449
+[3 : mcmc] Initial point: logA:3.044196, ns:0.9699623, theta_MC_100:1.040681, ombh2:0.02245843, omch2:0.1188327, w:-0.8964773, wa:-0.008982425, beta_DE:-7.696972, tau:0.05951978, A_planck:0.9989959, calib_100T:0.9995437, calib_217T:0.9970749, A_cib_217:55.19007, xi_sz_cib:0.1407937, A_sz:8.540208, ksz_norm:3.645348, gal545_A_100:9.7067, gal545_A_143:10.57871, gal545_A_143_217:16.31305, gal545_A_217:86.34554, ps_A_100_100:251.069, ps_A_143_143:34.92775, ps_A_143_217:31.85873, ps_A_217_217:101.3772, galf_TE_A_100:0.03394304, galf_TE_A_100_143:0.112026, galf_TE_A_100_217:0.4499764, galf_TE_A_143:0.2501384, galf_TE_A_143_217:0.5798636, galf_TE_A_217:2.011479
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-03-21 15:41:56 : 1 steps taken, and 33611 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:41:56 : 1 steps taken, and 33400 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:42:15 : 1 steps taken, and 33189 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:42:16 : 1 steps taken, and 33360 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:43:02 : 8 steps taken, and 33611 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:43:03 : 15 steps taken, and 33401 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:43:26 : 6 steps taken, and 33360 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:43:30 : 9 steps taken, and 33190 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:44:02 : 16 steps taken, and 33613 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:44:13 : 35 steps taken, and 33402 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:44:30 : 15 steps taken, and 33364 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:44:34 : 15 steps taken, and 33191 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:45:10 : 26 steps taken, and 33616 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:45:25 : 52 steps taken, and 33404 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:45:34 : 21 steps taken, and 33369 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:45:44 : 21 steps taken, and 33193 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:46:10 : 32 steps taken, and 33617 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:46:34 : 26 steps taken, and 33371 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:46:35 : 68 steps taken, and 33406 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:46:47 : 28 steps taken, and 33196 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:47:10 : 38 steps taken, and 33619 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:47:35 : 32 steps taken, and 33372 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:47:48 : 80 steps taken, and 33406 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:47:50 : 35 steps taken, and 33199 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:48:23 : 44 steps taken, and 33622 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:48:35 : 37 steps taken, and 33373 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:48:51 : 88 steps taken, and 33406 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:49:01 : 45 steps taken, and 33203 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:49:27 : 50 steps taken, and 33623 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:49:49 : 45 steps taken, and 33373 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:50:04 : 57 steps taken, and 33206 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:50:05 : 102 steps taken, and 33406 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:50:37 : 57 steps taken, and 33624 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:50:58 : 51 steps taken, and 33375 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:51:07 : 68 steps taken, and 33208 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:51:18 : 113 steps taken, and 33406 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:51:45 : 66 steps taken, and 33627 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:52:02 : 57 steps taken, and 33376 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:52:10 : 74 steps taken, and 33211 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:52:21 : 127 steps taken, and 33408 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:52:59 : 74 steps taken, and 33629 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:53:07 : 63 steps taken, and 33377 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:53:24 : 83 steps taken, and 33213 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:53:33 : 136 steps taken, and 33408 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:54:02 : 83 steps taken, and 33632 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:54:11 : 70 steps taken, and 33377 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:54:28 : 90 steps taken, and 33214 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:54:36 : 147 steps taken, and 33409 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:55:08 : 92 steps taken, and 33635 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:55:12 : 75 steps taken, and 33379 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:55:31 : 96 steps taken, and 33215 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:55:38 : 155 steps taken, and 33412 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:56:08 : 97 steps taken, and 33638 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:56:26 : 81 steps taken, and 33381 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:56:42 : 163 steps taken, and 33412 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:56:42 : 101 steps taken, and 33217 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:57:13 : 107 steps taken, and 33640 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:57:26 : 86 steps taken, and 33385 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:57:45 : 171 steps taken, and 33413 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:57:56 : 111 steps taken, and 33218 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:58:23 : 115 steps taken, and 33642 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:58:35 : 92 steps taken, and 33387 accepted.
+[2 : mcmc] Progress @ 2025-03-21 15:58:56 : 119 steps taken, and 33221 accepted.
+[3 : mcmc] Progress @ 2025-03-21 15:58:58 : 179 steps taken, and 33413 accepted.
+[0 : mcmc] Progress @ 2025-03-21 15:59:26 : 121 steps taken, and 33643 accepted.
+[1 : mcmc] Progress @ 2025-03-21 15:59:49 : 102 steps taken, and 33390 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:00:10 : 125 steps taken, and 33222 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:00:11 : 192 steps taken, and 33413 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:00:29 : 128 steps taken, and 33645 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:00:50 : 109 steps taken, and 33393 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:01:18 : 202 steps taken, and 33415 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:01:23 : 131 steps taken, and 33224 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:01:32 : 137 steps taken, and 33648 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:01:54 : 116 steps taken, and 33395 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:02:23 : 137 steps taken, and 33226 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:02:32 : 209 steps taken, and 33417 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:02:46 : 147 steps taken, and 33650 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:02:55 : 121 steps taken, and 33396 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:03:26 : 144 steps taken, and 33230 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:03:39 : 219 steps taken, and 33418 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:03:46 : 153 steps taken, and 33652 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:03:55 : 126 steps taken, and 33398 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:04:30 : 152 steps taken, and 33232 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:04:47 : 159 steps taken, and 33654 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:04:52 : 227 steps taken, and 33419 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:04:56 : 133 steps taken, and 33401 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:05:41 : 158 steps taken, and 33236 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:05:54 : 169 steps taken, and 33656 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:05:55 : 237 steps taken, and 33420 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:06:00 : 143 steps taken, and 33402 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:06:45 : 164 steps taken, and 33238 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:07:01 : 153 steps taken, and 33404 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:07:08 : 175 steps taken, and 33657 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:07:08 : 243 steps taken, and 33422 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:07:54 : 178 steps taken, and 33241 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:08:04 : 162 steps taken, and 33408 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:08:11 : 183 steps taken, and 33659 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:08:19 : 249 steps taken, and 33422 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:08:58 : 187 steps taken, and 33246 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:09:05 : 168 steps taken, and 33410 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:09:25 : 190 steps taken, and 33660 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:09:30 : 257 steps taken, and 33425 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:10:05 : 174 steps taken, and 33412 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:10:11 : 195 steps taken, and 33248 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:10:29 : 198 steps taken, and 33661 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:10:40 : 262 steps taken, and 33426 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:11:08 : 181 steps taken, and 33412 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:11:24 : 203 steps taken, and 33251 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:11:36 : 211 steps taken, and 33663 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:11:54 : 270 steps taken, and 33426 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:12:12 : 189 steps taken, and 33413 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:12:28 : 211 steps taken, and 33252 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:12:37 : 218 steps taken, and 33665 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:12:57 : 277 steps taken, and 33427 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:13:25 : 198 steps taken, and 33415 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:13:31 : 218 steps taken, and 33255 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:13:41 : 225 steps taken, and 33669 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:14:08 : 282 steps taken, and 33428 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:14:29 : 206 steps taken, and 33416 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:14:32 : 223 steps taken, and 33258 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:14:41 : 230 steps taken, and 33672 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:15:19 : 294 steps taken, and 33431 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:15:29 : 215 steps taken, and 33417 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:15:44 : 236 steps taken, and 33675 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:15:45 : 231 steps taken, and 33259 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:16:19 : 299 steps taken, and 33433 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[1 : mcmc] Progress @ 2025-03-21 16:16:33 : 227 steps taken, and 33418 accepted.
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+ WARNING: mismatch in integrated times (CAMB: CalcScalarSources)
+[0 : mcmc] Progress @ 2025-03-21 16:16:58 : 242 steps taken, and 33676 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:17:05 : 236 steps taken, and 33259 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:17:19 : 305 steps taken, and 33433 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:17:33 : 234 steps taken, and 33421 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:18:08 : 249 steps taken, and 33676 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:18:10 : 244 steps taken, and 33260 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:18:19 : 310 steps taken, and 33436 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:18:33 : 241 steps taken, and 33424 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:19:13 : 250 steps taken, and 33260 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:19:15 : 257 steps taken, and 33678 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:19:29 : 325 steps taken, and 33438 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:19:33 : 246 steps taken, and 33425 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:20:16 : 264 steps taken, and 33680 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:20:21 : 256 steps taken, and 33263 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:20:37 : 254 steps taken, and 33427 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:20:42 : 336 steps taken, and 33438 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:21:19 : 275 steps taken, and 33680 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:21:24 : 263 steps taken, and 33263 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:21:37 : 259 steps taken, and 33430 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:21:44 : 347 steps taken, and 33442 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:22:26 : 288 steps taken, and 33682 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:22:27 : 271 steps taken, and 33265 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:22:41 : 267 steps taken, and 33431 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:22:50 : 356 steps taken, and 33443 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:23:30 : 297 steps taken, and 33683 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:23:36 : 281 steps taken, and 33266 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:23:41 : 273 steps taken, and 33433 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:24:00 : 363 steps taken, and 33446 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:24:34 : 305 steps taken, and 33686 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:24:45 : 280 steps taken, and 33436 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:24:49 : 289 steps taken, and 33266 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:25:02 : 370 steps taken, and 33448 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:25:44 : 310 steps taken, and 33687 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:25:55 : 300 steps taken, and 33268 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:25:59 : 287 steps taken, and 33438 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:26:05 : 380 steps taken, and 33450 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:26:48 : 316 steps taken, and 33687 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:27:06 : 385 steps taken, and 33452 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:27:09 : 292 steps taken, and 33438 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:27:09 : 309 steps taken, and 33268 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node032:13954:0:13954] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc05567198)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  13954) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node032:13954] *** Process received signal ***
+[node032:13954] Signal: Segmentation fault (11)
+[node032:13954] Signal code:  (-6)
+[node032:13954] Failing at address: 0x8cfb800003682
+[node032:13954] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f9700bd1630]
+[node032:13954] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f96df4bbf63]
+[node032:13954] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f96df4bfa49]
+[node032:13954] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f96df527f01]
+[node032:13954] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f96df4cefdc]
+[node032:13954] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f96df457295]
+[node032:13954] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f96df4d17c2]
+[node032:13954] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f96df575923]
+[node032:13954] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f96df57bbff]
+[node032:13954] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f96df587846]
+[node032:13954] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f96df5924df]
+[node032:13954] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f9700e8ca4a]
+[node032:13954] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f9700e8bfea]
+[node032:13954] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f96f6b8b1e0]
+[node032:13954] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f96f6b946ee]
+[node032:13954] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node032:13954] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node032:13954] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13954] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13954] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13954] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13954] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node032:13954] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13954] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13954] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13954] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node032:13954] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node032:13954] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:13954] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:13954] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:13954] *** End of error message ***
+srun: error: node032: task 1: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node032 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5832955.2:1]
+slurmstepd: error: *** STEP 5832955.2 ON node032 CANCELLED AT 2025-03-21T16:27:32 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node032: tasks 0,2-3: Killed
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.012564588191907628
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} = 3.0^{+7.0}_{-2.1}
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[2 : samplecollection] Loaded 33268 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[3 : samplecollection] Loaded 33452 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[1 : samplecollection] Loaded 33438 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[0 : samplecollection] Loaded 33687 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[2 : mcmc] Initial point: logA:3.028362, ns:0.9653626, theta_MC_100:1.040747, ombh2:0.0221989, omch2:0.1210268, w:-0.814136, wa:-0.143924, beta_DE:-3.130441, tau:0.04835195, A_planck:0.9971784, calib_100T:1.00016, calib_217T:0.9976086, A_cib_217:44.23773, xi_sz_cib:0.2635038, A_sz:7.688922, ksz_norm:0.2341454, gal545_A_100:9.326834, gal545_A_143:12.63951, gal545_A_143_217:22.93448, gal545_A_217:98.0372, ps_A_100_100:241.3354, ps_A_143_143:45.08183, ps_A_143_217:37.83337, ps_A_217_217:118.7145, galf_TE_A_100:0.08551851, galf_TE_A_100_143:0.138187, galf_TE_A_100_217:0.4087544, galf_TE_A_143:0.2561252, galf_TE_A_143_217:0.6453692, galf_TE_A_217:1.631932
+[0 : mcmc] Initial point: logA:3.066726, ns:0.9682246, theta_MC_100:1.040774, ombh2:0.02238224, omch2:0.1193078, w:-0.8719037, wa:-0.1057418, beta_DE:-2.049569, tau:0.06570814, A_planck:1.00229, calib_100T:1.000058, calib_217T:0.9980338, A_cib_217:48.77551, xi_sz_cib:0.1867761, A_sz:2.420929, ksz_norm:4.512252, gal545_A_100:8.222156, gal545_A_143:12.33862, gal545_A_143_217:17.70715, gal545_A_217:91.99258, ps_A_100_100:279.7475, ps_A_143_143:41.75288, ps_A_143_217:30.67693, ps_A_217_217:115.2442, galf_TE_A_100:0.04389537, galf_TE_A_100_143:0.1510407, galf_TE_A_100_217:0.4395186, galf_TE_A_143:0.314345, galf_TE_A_143_217:0.6935942, galf_TE_A_217:1.959003
+[3 : mcmc] Initial point: logA:3.0467, ns:0.9634841, theta_MC_100:1.041237, ombh2:0.02217884, omch2:0.1203547, w:-1.053907, wa:-0.4757778, beta_DE:3.777764, tau:0.05727151, A_planck:0.9983226, calib_100T:0.9997319, calib_217T:0.9982797, A_cib_217:32.22452, xi_sz_cib:0.6082305, A_sz:4.15026, ksz_norm:6.109288, gal545_A_100:9.543799, gal545_A_143:10.60234, gal545_A_143_217:14.88205, gal545_A_217:97.11549, ps_A_100_100:246.8237, ps_A_143_143:43.30087, ps_A_143_217:48.78707, ps_A_217_217:139.4978, galf_TE_A_100:0.124619, galf_TE_A_100_143:0.1177567, galf_TE_A_100_217:0.3718401, galf_TE_A_143:0.2673338, galf_TE_A_143_217:0.7059799, galf_TE_A_217:2.29777
+[1 : mcmc] Initial point: logA:3.033152, ns:0.9613327, theta_MC_100:1.041073, ombh2:0.02235078, omch2:0.1204205, w:-0.7541991, wa:-1.496157, beta_DE:2.772544, tau:0.04974911, A_planck:0.9981841, calib_100T:0.999746, calib_217T:0.9981368, A_cib_217:44.33272, xi_sz_cib:0.8780692, A_sz:5.011436, ksz_norm:0.2403653, gal545_A_100:9.699272, gal545_A_143:10.04238, gal545_A_143_217:22.54698, gal545_A_217:97.49224, ps_A_100_100:265.0431, ps_A_143_143:68.09447, ps_A_143_217:58.20618, ps_A_217_217:129.3927, galf_TE_A_100:0.06498102, galf_TE_A_100_143:0.1244711, galf_TE_A_100_217:0.4395557, galf_TE_A_143:0.193335, galf_TE_A_143_217:0.7176185, galf_TE_A_217:2.287983
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2025-03-21 16:28:21 : 1 steps taken, and 33268 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:28:21 : 1 steps taken, and 33452 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:28:21 : 1 steps taken, and 33687 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:28:22 : 1 steps taken, and 33438 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:29:24 : 7 steps taken, and 33452 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:29:24 : 9 steps taken, and 33269 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:29:25 : 7 steps taken, and 33440 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:29:29 : 12 steps taken, and 33687 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:30:25 : 12 steps taken, and 33441 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:30:26 : 21 steps taken, and 33455 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:30:31 : 21 steps taken, and 33687 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:30:37 : 15 steps taken, and 33270 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:31:26 : 17 steps taken, and 33442 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:31:28 : 34 steps taken, and 33457 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:31:34 : 29 steps taken, and 33687 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:31:44 : 28 steps taken, and 33271 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:32:27 : 23 steps taken, and 33444 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:32:38 : 49 steps taken, and 33458 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:32:47 : 36 steps taken, and 33273 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:32:48 : 39 steps taken, and 33687 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:33:41 : 29 steps taken, and 33447 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:33:50 : 44 steps taken, and 33274 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:33:51 : 47 steps taken, and 33687 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:33:51 : 60 steps taken, and 33458 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:34:54 : 54 steps taken, and 33687 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:34:55 : 39 steps taken, and 33449 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:35:04 : 53 steps taken, and 33274 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:35:05 : 77 steps taken, and 33459 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:35:58 : 46 steps taken, and 33451 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:36:01 : 65 steps taken, and 33689 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:36:07 : 59 steps taken, and 33274 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:36:12 : 88 steps taken, and 33460 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:37:11 : 69 steps taken, and 33275 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:37:12 : 53 steps taken, and 33453 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:37:15 : 72 steps taken, and 33692 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:37:22 : 93 steps taken, and 33460 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:38:16 : 59 steps taken, and 33455 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:38:18 : 78 steps taken, and 33277 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:38:25 : 104 steps taken, and 33461 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:38:29 : 81 steps taken, and 33694 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:39:18 : 84 steps taken, and 33277 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:39:20 : 66 steps taken, and 33456 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:39:36 : 120 steps taken, and 33463 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:39:42 : 90 steps taken, and 33697 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:40:21 : 95 steps taken, and 33278 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:40:28 : 76 steps taken, and 33458 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:40:39 : 130 steps taken, and 33464 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:40:45 : 102 steps taken, and 33698 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:41:34 : 107 steps taken, and 33278 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:41:38 : 81 steps taken, and 33460 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:41:53 : 137 steps taken, and 33465 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:41:59 : 109 steps taken, and 33700 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:42:38 : 116 steps taken, and 33279 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:42:42 : 90 steps taken, and 33461 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:42:56 : 144 steps taken, and 33466 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:43:02 : 119 steps taken, and 33701 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:43:42 : 98 steps taken, and 33465 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:43:48 : 123 steps taken, and 33281 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:43:59 : 153 steps taken, and 33466 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:44:15 : 125 steps taken, and 33703 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node032:16958:0:16958] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc04510378)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  16958) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node032:16958] *** Process received signal ***
+[node032:16958] Signal: Segmentation fault (11)
+[node032:16958] Signal code:  (-6)
+[node032:16958] Failing at address: 0x8cfb80000423e
+[node032:16958] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7f79f94c1630]
+[node032:16958] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7f79dc1dff63]
+[node032:16958] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7f79dc1e3a49]
+[node032:16958] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7f79dc24bf01]
+[node032:16958] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7f79dc1f2fdc]
+[node032:16958] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7f79dc17b295]
+[node032:16958] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7f79dc1f57c2]
+[node032:16958] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7f79dc299923]
+[node032:16958] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7f79dc29fbff]
+[node032:16958] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7f79dc2ab846]
+[node032:16958] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7f79dc2b64df]
+[node032:16958] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7f79f977ca4a]
+[node032:16958] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7f79f977bfea]
+[node032:16958] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7f79ef47b1e0]
+[node032:16958] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7f79ef4846ee]
+[node032:16958] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node032:16958] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node032:16958] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:16958] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:16958] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:16958] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:16958] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node032:16958] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:16958] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:16958] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:16958] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node032:16958] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node032:16958] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:16958] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:16958] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:16958] *** End of error message ***
+srun: error: node032: task 3: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node032 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5832955.3:3]
+slurmstepd: error: *** STEP 5832955.3 ON node032 CANCELLED AT 2025-03-21T16:44:36 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node032: tasks 0-2: Killed
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.012534138092618625
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} = 3.0^{+7.0}_{-2.1}
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : samplecollection] Loaded 33281 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[3 : samplecollection] Loaded 33466 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[1 : samplecollection] Loaded 33465 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[0 : samplecollection] Loaded 33703 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[2 : mcmc] Initial point: logA:3.035337, ns:0.9601688, theta_MC_100:1.040799, ombh2:0.02225029, omch2:0.1215583, w:-0.7489629, wa:-0.2698764, beta_DE:-3.062424, tau:0.04653075, A_planck:1.001069, calib_100T:0.9991198, calib_217T:0.9988118, A_cib_217:56.68671, xi_sz_cib:0.8064796, A_sz:3.242154, ksz_norm:6.970263, gal545_A_100:8.771185, gal545_A_143:12.42847, gal545_A_143_217:13.89668, gal545_A_217:79.91673, ps_A_100_100:236.62, ps_A_143_143:35.11298, ps_A_143_217:37.57085, ps_A_217_217:99.41398, galf_TE_A_100:0.1659621, galf_TE_A_100_143:0.1774333, galf_TE_A_100_217:0.3931404, galf_TE_A_143:0.2360451, galf_TE_A_143_217:0.6367782, galf_TE_A_217:2.332965
+[0 : mcmc] Initial point: logA:3.046648, ns:0.968488, theta_MC_100:1.040934, ombh2:0.02223469, omch2:0.1188512, w:-0.8025735, wa:-1.763197, beta_DE:6.822747, tau:0.05525942, A_planck:1.003311, calib_100T:0.9997414, calib_217T:0.9989159, A_cib_217:44.07444, xi_sz_cib:0.1147268, A_sz:6.369092, ksz_norm:2.329986, gal545_A_100:10.84723, gal545_A_143:13.19361, gal545_A_143_217:20.59718, gal545_A_217:99.6423, ps_A_100_100:251.3072, ps_A_143_143:45.22427, ps_A_143_217:40.63333, ps_A_217_217:122.6705, galf_TE_A_100:0.1267869, galf_TE_A_100_143:0.138812, galf_TE_A_100_217:0.5304443, galf_TE_A_143:0.291327, galf_TE_A_143_217:0.6436052, galf_TE_A_217:2.110401
+[3 : mcmc] Initial point: logA:3.055548, ns:0.965604, theta_MC_100:1.041058, ombh2:0.02235144, omch2:0.1199738, w:-0.9959882, wa:-0.01057306, beta_DE:-2.589775, tau:0.05941344, A_planck:1.001339, calib_100T:1.000444, calib_217T:0.9983095, A_cib_217:40.92153, xi_sz_cib:0.8622313, A_sz:3.991228, ksz_norm:4.856959, gal545_A_100:9.589956, gal545_A_143:11.3239, gal545_A_143_217:24.48387, gal545_A_217:107.4964, ps_A_100_100:281.0059, ps_A_143_143:56.99214, ps_A_143_217:44.70838, ps_A_217_217:117.9996, galf_TE_A_100:0.1944079, galf_TE_A_100_143:0.1941191, galf_TE_A_100_217:0.508128, galf_TE_A_143:0.2534015, galf_TE_A_143_217:0.757501, galf_TE_A_217:2.187991
+[1 : mcmc] Initial point: logA:3.046773, ns:0.9630928, theta_MC_100:1.041038, ombh2:0.02236029, omch2:0.1195085, w:-0.8340134, wa:-1.272953, beta_DE:5.536722, tau:0.05762544, A_planck:0.9986269, calib_100T:0.9991911, calib_217T:0.9984721, A_cib_217:53.66177, xi_sz_cib:0.5730459, A_sz:4.757324, ksz_norm:5.617944, gal545_A_100:5.454499, gal545_A_143:12.62049, gal545_A_143_217:21.42126, gal545_A_217:95.47592, ps_A_100_100:288.767, ps_A_143_143:40.01475, ps_A_143_217:32.87987, ps_A_217_217:95.58752, galf_TE_A_100:0.07999545, galf_TE_A_100_143:0.05962056, galf_TE_A_100_217:0.5036944, galf_TE_A_143:0.2174293, galf_TE_A_143_217:0.6736251, galf_TE_A_217:1.570324
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-03-21 16:44:57 : 1 steps taken, and 33703 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:45:26 : 1 steps taken, and 33466 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:45:26 : 1 steps taken, and 33281 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:45:26 : 1 steps taken, and 33465 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:45:58 : 6 steps taken, and 33704 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:46:26 : 7 steps taken, and 33467 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:46:29 : 7 steps taken, and 33468 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:46:29 : 7 steps taken, and 33282 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:47:00 : 15 steps taken, and 33706 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:47:31 : 14 steps taken, and 33471 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:47:32 : 20 steps taken, and 33470 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:47:42 : 15 steps taken, and 33283 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:48:10 : 20 steps taken, and 33708 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:48:34 : 28 steps taken, and 33472 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:48:35 : 22 steps taken, and 33474 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:48:56 : 22 steps taken, and 33283 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:49:24 : 28 steps taken, and 33709 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:49:38 : 36 steps taken, and 33474 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:49:49 : 30 steps taken, and 33477 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:50:10 : 28 steps taken, and 33284 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:50:34 : 34 steps taken, and 33710 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:50:40 : 46 steps taken, and 33476 accepted.
+[1 : mcmc] Learn + convergence test @ 33480 samples accepted.
+[1 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2025-03-21 16:50:50 : 35 steps taken, and 33480 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:51:17 : 38 steps taken, and 33285 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:51:42 : 43 steps taken, and 33713 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:51:53 : 52 steps taken, and 33478 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:51:54 : 47 steps taken, and 33484 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:52:31 : 44 steps taken, and 33285 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:52:45 : 53 steps taken, and 33715 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:53:00 : 64 steps taken, and 33478 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:53:08 : 54 steps taken, and 33486 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:53:35 : 50 steps taken, and 33285 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:53:59 : 59 steps taken, and 33716 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:54:03 : 75 steps taken, and 33478 accepted.
+[3 : mcmc] Learn + convergence test @ 33480 samples accepted.
+[3 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2025-03-21 16:54:21 : 63 steps taken, and 33489 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:54:38 : 57 steps taken, and 33286 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:55:07 : 82 steps taken, and 33481 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:55:13 : 66 steps taken, and 33719 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:55:32 : 69 steps taken, and 33491 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:55:42 : 65 steps taken, and 33289 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:56:10 : 88 steps taken, and 33482 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:56:16 : 72 steps taken, and 33719 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:56:36 : 78 steps taken, and 33494 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:56:49 : 72 steps taken, and 33289 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:57:23 : 99 steps taken, and 33483 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:57:29 : 80 steps taken, and 33720 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:57:44 : 89 steps taken, and 33495 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:57:52 : 79 steps taken, and 33291 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:58:32 : 105 steps taken, and 33483 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:58:42 : 88 steps taken, and 33722 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:58:55 : 95 steps taken, and 33496 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:58:55 : 88 steps taken, and 33293 accepted.
+[3 : mcmc] Progress @ 2025-03-21 16:59:39 : 113 steps taken, and 33486 accepted.
+[0 : mcmc] Progress @ 2025-03-21 16:59:44 : 96 steps taken, and 33725 accepted.
+[2 : mcmc] Progress @ 2025-03-21 16:59:55 : 94 steps taken, and 33294 accepted.
+[1 : mcmc] Progress @ 2025-03-21 16:59:59 : 103 steps taken, and 33496 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:00:46 : 122 steps taken, and 33486 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:00:51 : 103 steps taken, and 33728 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:00:59 : 102 steps taken, and 33294 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:01:07 : 114 steps taken, and 33498 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:01:56 : 140 steps taken, and 33488 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:02:00 : 108 steps taken, and 33731 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:02:11 : 121 steps taken, and 33499 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:02:13 : 109 steps taken, and 33296 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:03:03 : 114 steps taken, and 33733 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:03:07 : 150 steps taken, and 33490 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:03:14 : 129 steps taken, and 33500 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:03:16 : 117 steps taken, and 33296 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:04:07 : 127 steps taken, and 33735 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:04:10 : 163 steps taken, and 33492 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:04:15 : 137 steps taken, and 33503 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:04:29 : 123 steps taken, and 33299 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:05:13 : 172 steps taken, and 33493 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:05:19 : 148 steps taken, and 33506 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:05:20 : 136 steps taken, and 33735 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:05:32 : 129 steps taken, and 33303 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:06:16 : 179 steps taken, and 33493 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:06:23 : 143 steps taken, and 33737 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:06:23 : 157 steps taken, and 33508 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:06:46 : 137 steps taken, and 33309 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:07:18 : 188 steps taken, and 33494 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:07:24 : 162 steps taken, and 33510 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:07:37 : 154 steps taken, and 33739 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:07:55 : 142 steps taken, and 33310 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:08:21 : 197 steps taken, and 33494 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:08:27 : 170 steps taken, and 33512 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:08:42 : 167 steps taken, and 33740 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:09:09 : 151 steps taken, and 33312 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:09:31 : 204 steps taken, and 33494 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:09:31 : 176 steps taken, and 33514 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:09:49 : 181 steps taken, and 33741 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:10:13 : 158 steps taken, and 33314 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:10:42 : 213 steps taken, and 33498 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:10:42 : 181 steps taken, and 33516 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:10:59 : 196 steps taken, and 33742 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:11:23 : 163 steps taken, and 33316 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:11:46 : 189 steps taken, and 33517 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:11:55 : 223 steps taken, and 33500 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:12:02 : 206 steps taken, and 33745 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:12:26 : 170 steps taken, and 33316 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:12:46 : 196 steps taken, and 33517 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:12:58 : 232 steps taken, and 33500 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:13:05 : 218 steps taken, and 33746 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:13:29 : 178 steps taken, and 33320 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:14:00 : 202 steps taken, and 33521 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:14:10 : 242 steps taken, and 33501 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:14:18 : 225 steps taken, and 33749 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:14:32 : 186 steps taken, and 33322 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:15:04 : 208 steps taken, and 33522 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:15:20 : 250 steps taken, and 33501 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:15:21 : 233 steps taken, and 33751 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:15:42 : 191 steps taken, and 33325 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:16:18 : 215 steps taken, and 33524 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:16:26 : 260 steps taken, and 33502 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:16:34 : 242 steps taken, and 33753 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:16:45 : 200 steps taken, and 33327 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:17:22 : 223 steps taken, and 33527 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:17:30 : 270 steps taken, and 33503 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:17:38 : 251 steps taken, and 33755 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:17:56 : 205 steps taken, and 33330 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:18:23 : 229 steps taken, and 33530 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:18:32 : 280 steps taken, and 33504 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:18:48 : 266 steps taken, and 33758 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:19:03 : 214 steps taken, and 33332 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:19:26 : 235 steps taken, and 33534 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:19:39 : 299 steps taken, and 33506 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:19:55 : 277 steps taken, and 33758 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:20:06 : 221 steps taken, and 33335 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:20:33 : 246 steps taken, and 33535 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:20:43 : 306 steps taken, and 33507 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:20:55 : 285 steps taken, and 33761 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:21:09 : 234 steps taken, and 33339 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:21:40 : 258 steps taken, and 33538 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:21:45 : 314 steps taken, and 33509 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:22:09 : 239 steps taken, and 33339 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:22:09 : 292 steps taken, and 33764 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:22:43 : 272 steps taken, and 33538 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:22:54 : 322 steps taken, and 33510 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:23:12 : 299 steps taken, and 33767 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:23:16 : 247 steps taken, and 33343 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:23:44 : 283 steps taken, and 33538 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:23:57 : 329 steps taken, and 33512 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:24:26 : 252 steps taken, and 33345 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:24:26 : 307 steps taken, and 33769 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:24:47 : 291 steps taken, and 33542 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:25:00 : 337 steps taken, and 33512 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:25:29 : 258 steps taken, and 33347 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:25:40 : 320 steps taken, and 33771 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:25:48 : 296 steps taken, and 33543 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:26:07 : 350 steps taken, and 33515 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:26:42 : 266 steps taken, and 33348 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:26:48 : 301 steps taken, and 33545 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:26:50 : 328 steps taken, and 33773 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:27:10 : 360 steps taken, and 33515 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:27:46 : 274 steps taken, and 33349 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:27:48 : 306 steps taken, and 33548 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:27:54 : 334 steps taken, and 33775 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:28:24 : 374 steps taken, and 33516 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:28:46 : 279 steps taken, and 33352 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:28:57 : 341 steps taken, and 33776 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:28:58 : 316 steps taken, and 33550 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:29:27 : 388 steps taken, and 33516 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:30:00 : 285 steps taken, and 33355 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:30:00 : 350 steps taken, and 33777 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:30:08 : 322 steps taken, and 33552 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:30:30 : 398 steps taken, and 33517 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:31:03 : 359 steps taken, and 33780 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:31:11 : 331 steps taken, and 33554 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:31:13 : 291 steps taken, and 33357 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:31:32 : 412 steps taken, and 33519 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:32:16 : 297 steps taken, and 33359 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:32:16 : 367 steps taken, and 33782 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:32:22 : 345 steps taken, and 33557 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:32:35 : 422 steps taken, and 33520 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node032:17750:0:17750] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc05f53e48)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  17750) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node032:17750] *** Process received signal ***
+[node032:17750] Signal: Segmentation fault (11)
+[node032:17750] Signal code:  (-6)
+[node032:17750] Failing at address: 0x8cfb800004556
+[node032:17750] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7fe602cb3630]
+[node032:17750] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7fe5e19c2f63]
+[node032:17750] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7fe5e19c6a49]
+[node032:17750] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7fe5e1a2ef01]
+[node032:17750] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7fe5e19d5fdc]
+[node032:17750] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7fe5e195e295]
+[node032:17750] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7fe5e19d87c2]
+[node032:17750] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7fe5e1a7c923]
+[node032:17750] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7fe5e1a82bff]
+[node032:17750] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7fe5e1a8e846]
+[node032:17750] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7fe5e1a994df]
+[node032:17750] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7fe602f6ea4a]
+[node032:17750] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7fe602f6dfea]
+[node032:17750] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7fe5f8c6d1e0]
+[node032:17750] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7fe5f8c766ee]
+[node032:17750] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node032:17750] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node032:17750] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:17750] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:17750] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:17750] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:17750] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node032:17750] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:17750] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:17750] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:17750] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node032:17750] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node032:17750] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node032:17750] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node032:17750] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node032:17750] *** End of error message ***
+srun: error: node032: task 3: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node032 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5832955.4:3]
+slurmstepd: error: *** STEP 5832955.4 ON node032 CANCELLED AT 2025-03-21T17:33:04 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node032: tasks 0-2: Killed
+./chains/PlanckLensingSDSS.4.txt
+./chains/PlanckLensingSDSS.1.txt
+./chains/PlanckLensingSDSS.2.txt
+./chains/PlanckLensingSDSS.3.txt
+Removed 0.3 as burn in
+R-1 = 0.012615445414033324
+H_0 = 67.8\pm 1.8
+w_{0,\mathrm{DE}} = -0.86\pm 0.19
+w_{a,\mathrm{DE}} = -0.80^{+0.86}_{-1.1}
+\beta_{\mathrm{DE}} > 0.959
+triangle plot saved at ./chains/outputs/PlanckLensingSDSS_triangle.png
+parameters saved at ./chains/outputs/PlanckLensingSDSS_parameters.txt
+chain not converged
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckLensingSDSS'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckLensingSDSS'
+[0 : output] Let's try to resume/load.
+[0 : output] Found an old sample. Resuming.
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.sdss_dr16_baoplus_lrg] Initialized.
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.sdss_dr16_baoplus_lrg] Initialized.
+[0 : bao.sdss_dr16_baoplus_qso] Initialized.
+[0 : mcmc] Resuming from previous sample!
+[3 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : bao.sdss_dr16_baoplus_qso] Initialized.
+[1 : bao.sdss_dr16_baoplus_qso] Initialized.
+[2 : samplecollection] Loaded 33359 sample points from 'chains/PlanckLensingSDSS.3.txt'
+[3 : samplecollection] Loaded 33520 sample points from 'chains/PlanckLensingSDSS.4.txt'
+[0 : samplecollection] Loaded 33782 sample points from 'chains/PlanckLensingSDSS.1.txt'
+[1 : samplecollection] Loaded 33557 sample points from 'chains/PlanckLensingSDSS.2.txt'
+[0 : mcmc] Initial point: logA:3.0343, ns:0.9657968, theta_MC_100:1.040994, ombh2:0.0223403, omch2:0.1196636, w:-0.5825409, wa:-1.846122, beta_DE:2.115391, tau:0.04866048, A_planck:1.001367, calib_100T:0.9993732, calib_217T:0.9965467, A_cib_217:64.63046, xi_sz_cib:0.07955816, A_sz:3.978231, ksz_norm:2.609622, gal545_A_100:8.499371, gal545_A_143:11.1397, gal545_A_143_217:8.922006, gal545_A_217:65.7963, ps_A_100_100:305.9986, ps_A_143_143:42.23235, ps_A_143_217:33.00494, ps_A_217_217:96.89927, galf_TE_A_100:0.07024198, galf_TE_A_100_143:0.1017034, galf_TE_A_100_217:0.4867966, galf_TE_A_143:0.2397092, galf_TE_A_143_217:0.7373312, galf_TE_A_217:2.19812
+[3 : mcmc] Initial point: logA:3.044704, ns:0.9679535, theta_MC_100:1.040992, ombh2:0.0223566, omch2:0.1195392, w:-0.8037895, wa:-0.06306435, beta_DE:-4.953236, tau:0.05569421, A_planck:1.00124, calib_100T:0.9989456, calib_217T:0.9993372, A_cib_217:49.86046, xi_sz_cib:0.9644854, A_sz:2.988854, ksz_norm:7.717503, gal545_A_100:13.57714, gal545_A_143:9.260339, gal545_A_143_217:16.52527, gal545_A_217:89.72406, ps_A_100_100:253.4867, ps_A_143_143:46.28841, ps_A_143_217:39.18343, ps_A_217_217:106.0631, galf_TE_A_100:0.0997215, galf_TE_A_100_143:0.1212047, galf_TE_A_100_217:0.4409285, galf_TE_A_143:0.2115145, galf_TE_A_143_217:0.7473101, galf_TE_A_217:2.290072
+[2 : mcmc] Initial point: logA:3.044485, ns:0.9679979, theta_MC_100:1.04062, ombh2:0.0223457, omch2:0.1204776, w:-1.019397, wa:-0.2287391, beta_DE:2.464954, tau:0.05534224, A_planck:0.9999633, calib_100T:0.9994422, calib_217T:0.999289, A_cib_217:44.17606, xi_sz_cib:0.9659024, A_sz:3.515913, ksz_norm:1.544981, gal545_A_100:9.380638, gal545_A_143:8.399567, gal545_A_143_217:17.42933, gal545_A_217:95.7536, ps_A_100_100:277.8579, ps_A_143_143:63.57469, ps_A_143_217:50.48477, ps_A_217_217:117.8025, galf_TE_A_100:0.1930464, galf_TE_A_100_143:0.1044579, galf_TE_A_100_217:0.5880861, galf_TE_A_143:0.09049326, galf_TE_A_143_217:0.6354799, galf_TE_A_217:2.357449
+[1 : mcmc] Initial point: logA:3.063274, ns:0.9630679, theta_MC_100:1.041117, ombh2:0.02241153, omch2:0.1204712, w:-1.225322, wa:0.4864006, beta_DE:7.360809, tau:0.0634988, A_planck:0.9980933, calib_100T:0.9996272, calib_217T:0.9983331, A_cib_217:41.57074, xi_sz_cib:0.8129736, A_sz:7.672085, ksz_norm:2.238729, gal545_A_100:8.009025, gal545_A_143:11.65863, gal545_A_143_217:23.32574, gal545_A_217:99.19208, ps_A_100_100:245.8487, ps_A_143_143:45.88454, ps_A_143_217:50.61137, ps_A_217_217:120.8752, galf_TE_A_100:0.08378282, galf_TE_A_100_143:0.1255386, galf_TE_A_100_217:0.4149478, galf_TE_A_143:0.2356941, galf_TE_A_143_217:0.6215992, galf_TE_A_217:2.034634
+[0 : mcmc] *WARNING* Parameter blocking manually/previously fixed: speeds will not be measured.
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : (['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns'])
+[0 : mcmc] * 12 : (['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217'])
+[0 : mcmc] Covariance matrix from previous sample.
+[0 : mcmc] Sampling!
+[0 : mcmc] Progress @ 2025-03-21 17:33:25 : 1 steps taken, and 33782 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:33:54 : 1 steps taken, and 33520 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:33:54 : 1 steps taken, and 33359 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:33:54 : 1 steps taken, and 33557 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:34:26 : 6 steps taken, and 33783 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:34:55 : 6 steps taken, and 33557 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:34:56 : 11 steps taken, and 33521 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:35:05 : 9 steps taken, and 33359 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:35:30 : 15 steps taken, and 33785 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:35:55 : 11 steps taken, and 33560 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:36:10 : 23 steps taken, and 33522 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:36:18 : 16 steps taken, and 33359 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:36:41 : 21 steps taken, and 33785 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:37:03 : 21 steps taken, and 33563 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:37:12 : 34 steps taken, and 33523 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:37:21 : 23 steps taken, and 33360 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:37:44 : 28 steps taken, and 33787 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:38:07 : 29 steps taken, and 33566 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:38:15 : 43 steps taken, and 33524 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:38:25 : 30 steps taken, and 33362 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:38:58 : 42 steps taken, and 33789 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:39:17 : 53 steps taken, and 33524 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:39:18 : 34 steps taken, and 33567 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:39:38 : 37 steps taken, and 33366 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:40:10 : 52 steps taken, and 33792 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:40:20 : 61 steps taken, and 33525 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:40:25 : 45 steps taken, and 33568 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:40:51 : 44 steps taken, and 33366 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:41:13 : 60 steps taken, and 33794 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:41:28 : 55 steps taken, and 33571 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:41:30 : 66 steps taken, and 33526 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:41:54 : 54 steps taken, and 33368 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:42:23 : 65 steps taken, and 33796 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:42:37 : 78 steps taken, and 33528 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:42:42 : 67 steps taken, and 33573 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:42:58 : 62 steps taken, and 33370 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:43:36 : 73 steps taken, and 33796 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:43:37 : 84 steps taken, and 33528 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:43:51 : 74 steps taken, and 33574 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:44:08 : 70 steps taken, and 33371 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:44:37 : 93 steps taken, and 33529 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:44:40 : 80 steps taken, and 33798 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:44:54 : 84 steps taken, and 33576 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:45:21 : 78 steps taken, and 33373 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:45:40 : 86 steps taken, and 33798 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:45:40 : 100 steps taken, and 33530 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:45:57 : 90 steps taken, and 33578 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:46:24 : 85 steps taken, and 33376 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:46:44 : 107 steps taken, and 33531 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:46:54 : 93 steps taken, and 33800 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:47:01 : 96 steps taken, and 33580 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:47:34 : 94 steps taken, and 33377 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:47:47 : 113 steps taken, and 33533 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:47:54 : 99 steps taken, and 33800 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:48:01 : 102 steps taken, and 33580 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:48:38 : 100 steps taken, and 33378 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:49:01 : 119 steps taken, and 33534 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:49:01 : 107 steps taken, and 33580 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:49:05 : 108 steps taken, and 33802 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:49:51 : 106 steps taken, and 33380 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:50:05 : 113 steps taken, and 33582 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:50:07 : 127 steps taken, and 33534 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:50:14 : 114 steps taken, and 33805 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:50:54 : 116 steps taken, and 33383 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:51:16 : 119 steps taken, and 33583 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:51:17 : 124 steps taken, and 33808 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:51:21 : 134 steps taken, and 33535 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:51:57 : 126 steps taken, and 33383 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:52:17 : 124 steps taken, and 33585 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:52:25 : 140 steps taken, and 33537 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:52:30 : 132 steps taken, and 33811 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:53:01 : 132 steps taken, and 33387 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:53:24 : 131 steps taken, and 33587 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:53:28 : 152 steps taken, and 33540 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:53:33 : 144 steps taken, and 33812 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:54:14 : 141 steps taken, and 33390 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:54:27 : 139 steps taken, and 33589 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:54:32 : 158 steps taken, and 33544 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:54:37 : 160 steps taken, and 33813 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:55:18 : 148 steps taken, and 33394 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:55:36 : 164 steps taken, and 33549 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:55:38 : 144 steps taken, and 33590 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:55:40 : 168 steps taken, and 33814 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:56:18 : 153 steps taken, and 33395 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:56:38 : 149 steps taken, and 33592 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:56:43 : 177 steps taken, and 33814 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:56:49 : 170 steps taken, and 33551 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:57:32 : 159 steps taken, and 33397 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:57:41 : 158 steps taken, and 33594 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:57:49 : 190 steps taken, and 33816 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:58:03 : 176 steps taken, and 33552 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:58:39 : 170 steps taken, and 33400 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:58:51 : 163 steps taken, and 33595 accepted.
+[3 : mcmc] Progress @ 2025-03-21 17:59:03 : 183 steps taken, and 33555 accepted.
+[0 : mcmc] Progress @ 2025-03-21 17:59:03 : 197 steps taken, and 33817 accepted.
+[2 : mcmc] Progress @ 2025-03-21 17:59:42 : 178 steps taken, and 33402 accepted.
+[1 : mcmc] Progress @ 2025-03-21 17:59:55 : 170 steps taken, and 33599 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:00:07 : 189 steps taken, and 33555 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:00:11 : 210 steps taken, and 33819 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:00:54 : 194 steps taken, and 33404 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:00:55 : 176 steps taken, and 33600 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:01:10 : 197 steps taken, and 33556 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:01:21 : 222 steps taken, and 33819 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:01:57 : 202 steps taken, and 33406 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:01:59 : 185 steps taken, and 33601 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:02:13 : 203 steps taken, and 33556 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:02:28 : 235 steps taken, and 33821 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:03:07 : 212 steps taken, and 33409 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:03:13 : 194 steps taken, and 33602 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:03:23 : 209 steps taken, and 33557 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:03:32 : 244 steps taken, and 33822 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:04:11 : 220 steps taken, and 33410 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:04:21 : 204 steps taken, and 33605 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:04:33 : 215 steps taken, and 33560 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:04:45 : 251 steps taken, and 33824 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:05:11 : 236 steps taken, and 33412 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:05:24 : 213 steps taken, and 33606 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:05:37 : 222 steps taken, and 33561 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:05:53 : 260 steps taken, and 33824 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:06:11 : 243 steps taken, and 33413 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:06:38 : 222 steps taken, and 33609 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:06:41 : 232 steps taken, and 33562 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:06:54 : 268 steps taken, and 33825 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:07:13 : 250 steps taken, and 33416 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:07:44 : 239 steps taken, and 33565 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:07:49 : 227 steps taken, and 33611 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:07:58 : 274 steps taken, and 33828 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:08:23 : 257 steps taken, and 33417 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:08:47 : 247 steps taken, and 33568 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:08:49 : 232 steps taken, and 33612 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:09:01 : 281 steps taken, and 33830 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:09:34 : 264 steps taken, and 33419 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:09:50 : 238 steps taken, and 33612 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:09:57 : 257 steps taken, and 33570 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:10:01 : 288 steps taken, and 33830 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:10:44 : 271 steps taken, and 33421 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:10:53 : 245 steps taken, and 33615 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:11:04 : 266 steps taken, and 33571 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:11:05 : 294 steps taken, and 33832 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:11:57 : 251 steps taken, and 33617 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:11:57 : 278 steps taken, and 33423 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:12:14 : 276 steps taken, and 33573 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:12:15 : 300 steps taken, and 33836 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:13:04 : 286 steps taken, and 33426 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:13:07 : 257 steps taken, and 33620 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:13:21 : 285 steps taken, and 33577 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:13:25 : 317 steps taken, and 33839 accepted.
+[0 : mcmc] Learn + convergence test @ 33840 samples accepted.
+[0 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[2 : mcmc] Progress @ 2025-03-21 18:14:18 : 293 steps taken, and 33429 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:14:21 : 264 steps taken, and 33622 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:14:26 : 323 steps taken, and 33841 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:14:31 : 292 steps taken, and 33579 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:15:25 : 271 steps taken, and 33624 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:15:30 : 336 steps taken, and 33844 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:15:32 : 301 steps taken, and 33430 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:15:33 : 298 steps taken, and 33584 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:16:25 : 278 steps taken, and 33627 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:16:35 : 343 steps taken, and 33845 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:16:37 : 305 steps taken, and 33587 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:16:39 : 309 steps taken, and 33435 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:17:38 : 350 steps taken, and 33846 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:17:39 : 285 steps taken, and 33631 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:17:51 : 313 steps taken, and 33588 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:17:53 : 318 steps taken, and 33436 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:18:49 : 356 steps taken, and 33847 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:18:53 : 294 steps taken, and 33634 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:18:58 : 324 steps taken, and 33588 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:19:00 : 331 steps taken, and 33439 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:19:49 : 365 steps taken, and 33850 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:19:53 : 300 steps taken, and 33634 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:20:03 : 340 steps taken, and 33440 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:20:12 : 330 steps taken, and 33591 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:20:56 : 307 steps taken, and 33635 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:21:03 : 374 steps taken, and 33853 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:21:13 : 345 steps taken, and 33442 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:21:19 : 340 steps taken, and 33591 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:22:10 : 316 steps taken, and 33637 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:22:17 : 381 steps taken, and 33856 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:22:22 : 350 steps taken, and 33592 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:22:25 : 354 steps taken, and 33443 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:23:11 : 322 steps taken, and 33637 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:23:22 : 356 steps taken, and 33593 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:23:27 : 392 steps taken, and 33859 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:23:38 : 363 steps taken, and 33445 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:24:15 : 331 steps taken, and 33640 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:24:29 : 401 steps taken, and 33860 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:24:29 : 369 steps taken, and 33594 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:24:51 : 370 steps taken, and 33446 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:25:29 : 407 steps taken, and 33862 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:25:29 : 340 steps taken, and 33643 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:25:33 : 376 steps taken, and 33596 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:26:04 : 376 steps taken, and 33446 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:26:32 : 414 steps taken, and 33866 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:26:40 : 345 steps taken, and 33645 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:26:47 : 383 steps taken, and 33597 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:27:16 : 385 steps taken, and 33447 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:27:32 : 421 steps taken, and 33869 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:27:43 : 353 steps taken, and 33649 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:27:50 : 389 steps taken, and 33598 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:28:29 : 396 steps taken, and 33448 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:28:43 : 361 steps taken, and 33650 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:28:46 : 432 steps taken, and 33872 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:29:03 : 396 steps taken, and 33600 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:29:32 : 404 steps taken, and 33452 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:29:47 : 370 steps taken, and 33653 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:29:48 : 444 steps taken, and 33873 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:30:17 : 404 steps taken, and 33601 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:30:35 : 413 steps taken, and 33453 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:30:50 : 377 steps taken, and 33656 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:30:58 : 450 steps taken, and 33876 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:31:21 : 411 steps taken, and 33603 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:31:42 : 428 steps taken, and 33454 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:31:53 : 387 steps taken, and 33658 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:31:59 : 456 steps taken, and 33876 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:32:31 : 418 steps taken, and 33603 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:32:55 : 435 steps taken, and 33455 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:32:56 : 394 steps taken, and 33660 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:33:03 : 463 steps taken, and 33878 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:33:35 : 424 steps taken, and 33605 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:34:05 : 444 steps taken, and 33456 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:34:10 : 404 steps taken, and 33661 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:34:16 : 469 steps taken, and 33882 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:34:45 : 438 steps taken, and 33606 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:35:08 : 450 steps taken, and 33458 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:35:17 : 474 steps taken, and 33884 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:35:23 : 411 steps taken, and 33664 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:35:55 : 443 steps taken, and 33607 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:36:11 : 456 steps taken, and 33460 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:36:20 : 482 steps taken, and 33884 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:36:30 : 420 steps taken, and 33667 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:36:58 : 450 steps taken, and 33611 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:37:20 : 487 steps taken, and 33885 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:37:22 : 462 steps taken, and 33462 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:37:44 : 427 steps taken, and 33667 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:38:12 : 459 steps taken, and 33614 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:38:20 : 493 steps taken, and 33885 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:38:25 : 468 steps taken, and 33463 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:38:58 : 433 steps taken, and 33669 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:39:15 : 465 steps taken, and 33617 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:39:26 : 474 steps taken, and 33466 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:39:34 : 500 steps taken, and 33886 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:40:12 : 440 steps taken, and 33670 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:40:26 : 481 steps taken, and 33470 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:40:29 : 471 steps taken, and 33619 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:40:48 : 507 steps taken, and 33888 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:41:26 : 448 steps taken, and 33671 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:41:29 : 489 steps taken, and 33472 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:41:39 : 476 steps taken, and 33620 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:41:48 : 513 steps taken, and 33890 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:42:32 : 495 steps taken, and 33474 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:42:40 : 455 steps taken, and 33672 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:42:45 : 485 steps taken, and 33623 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:42:51 : 519 steps taken, and 33891 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:43:34 : 503 steps taken, and 33477 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:43:40 : 460 steps taken, and 33673 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:43:49 : 493 steps taken, and 33627 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:44:05 : 525 steps taken, and 33893 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:44:35 : 510 steps taken, and 33478 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:44:52 : 501 steps taken, and 33630 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:44:54 : 467 steps taken, and 33675 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:45:05 : 530 steps taken, and 33895 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:45:38 : 516 steps taken, and 33479 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:46:02 : 507 steps taken, and 33631 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:46:05 : 536 steps taken, and 33896 accepted.
+[2 : mcmc] Learn + convergence test @ 33480 samples accepted.
+[2 : mcmc] Ready to check convergence and learn a new proposal covmat (waiting for the rest...)
+[1 : mcmc] Progress @ 2025-03-21 18:46:08 : 476 steps taken, and 33677 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:46:38 : 523 steps taken, and 33480 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:47:06 : 515 steps taken, and 33632 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:47:10 : 544 steps taken, and 33899 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:47:17 : 482 steps taken, and 33680 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:47:41 : 529 steps taken, and 33481 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:48:10 : 549 steps taken, and 33901 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:48:20 : 521 steps taken, and 33633 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:48:31 : 488 steps taken, and 33682 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:48:55 : 535 steps taken, and 33483 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:49:24 : 555 steps taken, and 33903 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:49:34 : 528 steps taken, and 33636 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:49:45 : 498 steps taken, and 33685 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:49:57 : 546 steps taken, and 33483 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:50:28 : 564 steps taken, and 33906 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:50:45 : 537 steps taken, and 33638 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:50:48 : 507 steps taken, and 33686 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:51:11 : 553 steps taken, and 33484 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:51:31 : 570 steps taken, and 33906 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:51:59 : 546 steps taken, and 33638 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:52:01 : 515 steps taken, and 33688 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:52:21 : 566 steps taken, and 33487 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:52:44 : 577 steps taken, and 33909 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:53:01 : 521 steps taken, and 33689 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:53:06 : 558 steps taken, and 33639 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:53:34 : 573 steps taken, and 33487 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:53:58 : 586 steps taken, and 33910 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:54:05 : 530 steps taken, and 33692 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:54:09 : 566 steps taken, and 33643 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:54:37 : 583 steps taken, and 33489 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:55:01 : 593 steps taken, and 33911 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:55:06 : 535 steps taken, and 33694 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:55:13 : 574 steps taken, and 33646 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:55:47 : 590 steps taken, and 33491 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:56:11 : 600 steps taken, and 33912 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:56:16 : 586 steps taken, and 33648 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:56:19 : 541 steps taken, and 33698 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:56:54 : 599 steps taken, and 33492 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:57:14 : 609 steps taken, and 33913 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:57:20 : 594 steps taken, and 33650 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:57:22 : 551 steps taken, and 33701 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:58:00 : 611 steps taken, and 33494 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:58:18 : 616 steps taken, and 33913 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:58:33 : 557 steps taken, and 33703 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:58:34 : 601 steps taken, and 33653 accepted.
+[2 : mcmc] Progress @ 2025-03-21 18:59:03 : 620 steps taken, and 33496 accepted.
+[0 : mcmc] Progress @ 2025-03-21 18:59:32 : 624 steps taken, and 33915 accepted.
+[3 : mcmc] Progress @ 2025-03-21 18:59:40 : 609 steps taken, and 33656 accepted.
+[1 : mcmc] Progress @ 2025-03-21 18:59:43 : 562 steps taken, and 33705 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:00:07 : 627 steps taken, and 33498 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:00:35 : 631 steps taken, and 33917 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:00:47 : 570 steps taken, and 33708 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:00:54 : 623 steps taken, and 33659 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:01:17 : 633 steps taken, and 33500 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:01:39 : 640 steps taken, and 33917 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:01:47 : 575 steps taken, and 33709 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:02:07 : 631 steps taken, and 33660 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:02:20 : 641 steps taken, and 33502 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:02:39 : 646 steps taken, and 33917 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:02:54 : 582 steps taken, and 33711 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:03:10 : 638 steps taken, and 33663 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:03:23 : 648 steps taken, and 33503 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:03:43 : 654 steps taken, and 33921 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:04:05 : 589 steps taken, and 33713 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:04:10 : 644 steps taken, and 33664 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:04:27 : 657 steps taken, and 33505 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:04:43 : 662 steps taken, and 33921 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:05:09 : 597 steps taken, and 33716 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:05:11 : 650 steps taken, and 33665 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:05:30 : 666 steps taken, and 33505 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:05:46 : 668 steps taken, and 33924 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:06:13 : 605 steps taken, and 33720 accepted.
+[3 : mcmc] Progress @ 2025-03-21 19:06:24 : 657 steps taken, and 33669 accepted.
+[2 : mcmc] Progress @ 2025-03-21 19:06:33 : 672 steps taken, and 33507 accepted.
+[0 : mcmc] Progress @ 2025-03-21 19:06:46 : 673 steps taken, and 33926 accepted.
+[1 : mcmc] Progress @ 2025-03-21 19:07:20 : 611 steps taken, and 33723 accepted.
