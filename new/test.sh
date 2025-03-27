@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
-#SBATCH --cpus-per-task=1
-#SBATCH --time=72:00:00
+#SBATCH --cpus-per-task=2
+#SBATCH --time=12:00:00
 #SBATCH --mem=10G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
@@ -17,19 +17,4 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-chain_name="act-full"
-
-while true
-do
-	python check_convergence.py "$chain_name"
-	status=$?
-	python update_plots.py "$chain_name"
-
-	if [ $status -eq 0 ]
-	then
-		break
-	else
-		echo "chain not converged"
-		mpirun -np 4 cobaya-run act-params.yaml
-	fi
-done
+srun --export=ALL cobaya-run PlanckBao.yaml

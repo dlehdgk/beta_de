@@ -1,0 +1,15 @@
+theory: !defaults [../theories/planck]
+likelihood: !defaults [../likelihoods/planck, ../likelihoods/desi]
+params: !defaults [../parameters/cosmo]
+
+sampler:
+  mcmc:
+    drag: true
+    oversample_power: 0.4
+    proposal_scale: 1.9
+    covmat: ../old/chains/PlanckLensing.covmat
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.2
+resume: true
+allow_changes: true
+output: chains/PlanckBao

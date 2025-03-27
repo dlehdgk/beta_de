@@ -1,0 +1,16 @@
+camb:
+  path: /users/smp24dhl/cosmo/code/CAMB_beta
+  extra_args:
+    lmax: 4000
+    lens_margin: 1250
+    dark_energy_model: ppf
+    lens_potential_accuracy: 4
+    AccuracyBoost: 1
+    lSampleBoost: 1
+    lAccuracyBoost: 1
+    halofit_version: mead2016
+    num_massive_neutrinos: 1
+    nnu: 3.044
+    theta_H0_range:
+    - 20
+    - 100
