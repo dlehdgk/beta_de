@@ -1,2 +1,0 @@
-#        weight    minuslogpost   minuslogprior minuslogprior__0            chi2 chi2__act_dr6_lenslike.ACTDR6LensLike
-              1       8.1799096              -0               -0       16.359819                             16.359819
