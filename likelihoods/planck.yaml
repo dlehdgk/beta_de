@@ -2,6 +2,7 @@ planck_2018_lowl.TT:
 planck_2018_lowl.EE:
 planck_2018_highl_plik.TTTEEE:
 act_dr6_lenslike.ACTDR6Lenslike:
+  python_path: /home/smp24dhl/cosmo/code/act_dr6_lenslike
   lens_only: False
   stop_at_error: True
   lmax: 4000
