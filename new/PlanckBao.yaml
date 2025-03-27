@@ -1,4 +1,4 @@
-theory: !defaults [../theories/planck_mac]
+theory: !defaults [../theories/planck]
 likelihood: !defaults [../likelihoods/planck, ../likelihoods/desi]
 params: !defaults [../parameters/cosmo]
 

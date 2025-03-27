@@ -1,0 +1,84 @@
+[0 : output] Output to be read-from/written-into folder 'chains', with prefix 'PlanckBao'
+[0 : output] Found existing info files with the requested output prefix: 'chains/PlanckBao'
+[0 : output] Let's try to resume/load.
+[1 : input] is_equal_info: different content of [theory:camb] -- (re-run with `debug: True` for more info)
+[3 : input] is_equal_info: different content of [theory:camb] -- (re-run with `debug: True` for more info)
+[1 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[0 : input] is_equal_info: different content of [theory:camb] -- (re-run with `debug: True` for more info)
+[2 : input] is_equal_info: different content of [theory:camb] -- (re-run with `debug: True` for more info)
+[0 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[3 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[2 : output] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[1 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[1 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 496, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[3 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[2 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[0 : exception handler] *ERROR* Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+[3 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 496, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[0 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 496, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+[2 : exception handler] ---------------------------------------
+
+Traceback (most recent call last):
+  File "/users/smp24dhl/.conda/envs/cosmos/bin/cobaya-run", line 8, in <module>
+    sys.exit(run_script())
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 198, in run_script
+    run(info, **arguments.__dict__)
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/run.py", line 107, in run
+    out.check_and_dump_info(info, updated_info, cache_old=True,
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/cobaya/output.py", line 496, in check_and_dump_info
+    raise LoggedError(
+cobaya.log.LoggedError: Old and new run information not compatible! Resuming not possible!
+Use --allow-changes to proceed anyway.
+-------------------------------------------------------------
+
+srun: error: node043: tasks 0-3: Exited with exit code 1
