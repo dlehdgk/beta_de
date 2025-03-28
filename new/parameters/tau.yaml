@@ -89,7 +89,7 @@ wa:
   latex: w_{a,\mathrm{DE}}
 beta_DE:
   prior:
-    min: -3
+    min: -5
     max: 15
   ref:
     dist: norm
@@ -106,13 +106,14 @@ DHBBN:
   latex: 10^5 \mathrm{D}/\mathrm{H}
 tau:
   prior:
-    min: 0.01
-    max: 0.8
+    dist: norm
+    loc: 0.0566
+    scale: 0.0058
   ref:
     dist: norm
-    loc: 0.055
-    scale: 0.0006
-  proposal: 0.003
+    loc: 0.0566
+    scale: 0.0058
+  proposal: 0.01
   latex: \tau_\mathrm{reio}
 zrei:
   latex: z_\mathrm{re}

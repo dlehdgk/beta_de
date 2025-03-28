@@ -2,7 +2,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --cpus-per-task=1
-#SBATCH --time=12:00:00
+#SBATCH --time=72:00:00
 #SBATCH --mem=10G
 #SBATCH --mail-type=fail,end
 #SBATCH --mail-user=dhlee1@sheffield.ac.uk
@@ -17,4 +17,17 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-srun --export=ALL cobaya-run PlanckBao.yaml
+chain_name="actwmapdesi"
+
+while true
+do
+	python checkpoint.py ${chain_name}
+	status=$?
+	if [ $status -eq 0 ]
+	then
+		break
+	else
+		echo "chain not converged"
+		srun --export=ALL cobaya-run ../inputs/${chain_name}.yaml
+	fi
+done

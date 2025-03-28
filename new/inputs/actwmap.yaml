@@ -1,0 +1,15 @@
+theory: !defaults [../theories/act]
+likelihood: !defaults [../likelihoods/actwmap]
+params: !defaults [../parameters/tau]
+
+sampler:
+  mcmc:
+    drag: true
+    oversample_power: 0.4
+    proposal_scale: 1.9
+    covmat: ../../old/chains/PlanckLensingDesiPantheon.covmat
+    Rminus1_stop: 0.01
+    Rminus1_cl_stop: 0.2
+resume: true
+allow_changes: true
+output: ../chains/actwmap

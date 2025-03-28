@@ -17,19 +17,17 @@ source /users/smp24dhl/cosmo/code/planck/clik/bin/clik_profile.sh
 
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-chain_name="PlanckLensingDESI"
+chain_name="planckdesi"
 
 while true
 do
-	python check_convergence.py ${chain_name}
+	python checkpoint.py ${chain_name}
 	status=$?
-	python update_plots.py "$chain_name"
-
 	if [ $status -eq 0 ]
 	then
 		break
 	else
 		echo "chain not converged"
-		srun --export=ALL cobaya-run ${chain_name}.yaml
+		srun --export=ALL cobaya-run ../inputs/${chain_name}.yaml
 	fi
 done
