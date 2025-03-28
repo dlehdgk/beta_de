@@ -122,3 +122,212 @@ Loading ACT DR6 lensing likelihood v1.2...
 [2 : mcmc] Progress @ 2025-03-27 17:03:29 : 167 steps taken, and 19 accepted.
 [1 : mcmc] Progress @ 2025-03-27 17:04:00 : 163 steps taken, and 24 accepted.
 [3 : mcmc] Progress @ 2025-03-27 17:04:06 : 219 steps taken, and 25 accepted.
+[0 : mcmc] Progress @ 2025-03-27 17:04:17 : 197 steps taken, and 30 accepted.
+[2 : mcmc] Progress @ 2025-03-27 17:04:33 : 175 steps taken, and 19 accepted.
+[1 : mcmc] Progress @ 2025-03-27 17:05:03 : 172 steps taken, and 24 accepted.
+[3 : mcmc] Progress @ 2025-03-27 17:05:09 : 229 steps taken, and 26 accepted.
+[0 : mcmc] Progress @ 2025-03-27 17:05:22 : 205 steps taken, and 30 accepted.
+[2 : mcmc] Progress @ 2025-03-27 17:05:36 : 181 steps taken, and 19 accepted.
+[1 : mcmc] Progress @ 2025-03-27 17:06:17 : 182 steps taken, and 24 accepted.
+[3 : mcmc] Progress @ 2025-03-27 17:06:23 : 239 steps taken, and 27 accepted.
+[0 : mcmc] Progress @ 2025-03-27 17:06:28 : 212 steps taken, and 32 accepted.
+[2 : mcmc] Progress @ 2025-03-27 17:06:43 : 187 steps taken, and 19 accepted.
+[1 : mcmc] Progress @ 2025-03-27 17:07:27 : 187 steps taken, and 24 accepted.
+----
+clik version clik_16.0b1-2-g63c889f3aa9c MAKEFILE
+  smica
+Checking likelihood '/users/smp24dhl/cosmo/data/planck_2018/baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34054e-07)
+----
+[node043:63510:0:63510] Caught signal 11 (Segmentation fault: address not mapped to object at address 0xfffffffc0602f878)
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+BFD: DWARF error: can't find .debug_ranges section.
+==== backtrace (tid:  63510) ====
+ 0 0x0000000000021563 ucs_debug_print_backtrace()  /dev/shm/UCX/1.8.0/GCCcore-9.3.0/ucx-1.8.0/src/ucs/debug/debug.c:653
+ 1 0x0000000000039f63 __massivenu_MOD_thermalnubackground_rho()  ???:0
+ 2 0x000000000003da49 __results_MOD_grho_no_de()  ???:0
+ 3 0x00000000000a5f01 dtauda_()  ???:0
+ 4 0x000000000004cfdc __results_MOD_thermo_init._omp_fn.0()  results.f90:0
+ 5 0x0000000000014295 GOMP_parallel_sections()  ???:0
+ 6 0x000000000004f7c2 __results_MOD_thermo_init()  ???:0
+ 7 0x00000000000f3923 __cambmain_MOD_initvars()  ???:0
+ 8 0x00000000000f9bff __cambmain_MOD_cmbmain()  ???:0
+ 9 0x0000000000105846 __camb_MOD_camb_getresults()  ???:0
+10 0x00000000001104df __handles_MOD_cambdata_gettransfers()  ???:0
+11 0x0000000000006a4a ffi_call_unix64()  :0
+12 0x0000000000005fea ffi_call_int()  ffi64.c:0
+13 0x00000000000091e0 _ctypes_callproc.cold()  :0
+14 0x00000000000126ee PyCFuncPtr_call()  :0
+15 0x00000000004f061c _PyObject_MakeTpCall()  ???:0
+16 0x00000000004ec4f7 _PyEval_EvalFrameDefault()  ???:0
+17 0x00000000004e694a _PyEval_EvalCode()  :0
+18 0x000000000050500d method_vectorcall()  :0
+19 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+20 0x00000000004e694a _PyEval_EvalCode()  :0
+21 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+22 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+23 0x00000000004e694a _PyEval_EvalCode()  :0
+24 0x000000000050500d method_vectorcall()  :0
+25 0x0000000000505744 PyObject_Call()  ???:0
+26 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+27 0x00000000004e694a _PyEval_EvalCode()  :0
+28 0x000000000050500d method_vectorcall()  :0
+29 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+30 0x00000000004e694a _PyEval_EvalCode()  :0
+31 0x000000000050500d method_vectorcall()  :0
+32 0x00000000004e8a8b _PyEval_EvalFrameDefault()  ???:0
+33 0x00000000004e694a _PyEval_EvalCode()  :0
+34 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+35 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+36 0x00000000004f8073 function_code_fastcall()  :0
+37 0x0000000000504f01 method_vectorcall()  :0
+38 0x00000000004ec5b4 _PyEval_EvalFrameDefault()  ???:0
+39 0x00000000004f8073 function_code_fastcall()  :0
+40 0x00000000004e7edc _PyEval_EvalFrameDefault()  ???:0
+41 0x00000000004e694a _PyEval_EvalCode()  :0
+42 0x00000000004f7d95 _PyFunction_Vectorcall()  ???:0
+43 0x0000000000505744 PyObject_Call()  ???:0
+44 0x00000000004eac68 _PyEval_EvalFrameDefault()  ???:0
+45 0x00000000004f8073 function_code_fastcall()  :0
+46 0x00000000004e7c22 _PyEval_EvalFrameDefault()  ???:0
+47 0x00000000004e694a _PyEval_EvalCode()  :0
+48 0x00000000004e65d7 _PyEval_EvalCodeWithName()  ???:0
+49 0x00000000004e6589 PyEval_EvalCodeEx()  ???:0
+50 0x0000000000593f2b PyEval_EvalCode()  ???:0
+51 0x00000000005c1697 run_eval_code_obj()  :0
+52 0x00000000005bd6b0 run_mod()  :0
+53 0x00000000004565eb pyrun_file.cold()  :0
+54 0x00000000005b7392 PyRun_SimpleFileExFlags()  ???:0
+55 0x00000000005b490e Py_RunMain()  ???:0
+56 0x0000000000587fd9 Py_BytesMain()  ???:0
+57 0x0000000000022555 __libc_start_main()  ???:0
+=================================
+[node043:63510] *** Process received signal ***
+[node043:63510] Signal: Segmentation fault (11)
+[node043:63510] Signal code:  (-6)
+[node043:63510] Failing at address: 0x8cfb80000f816
+[node043:63510] [ 0] /lib64/libpthread.so.0(+0xf630)[0x7fb0d643e630]
+[node043:63510] [ 1] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__massivenu_MOD_thermalnubackground_rho+0x63)[0x7fb0b520af63]
+[node043:63510] [ 2] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_grho_no_de+0xc9)[0x7fb0b520ea49]
+[node043:63510] [ 3] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(dtauda_+0x61)[0x7fb0b5276f01]
+[node043:63510] [ 4] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(+0x4cfdc)[0x7fb0b521dfdc]
+[node043:63510] [ 5] /users/smp24dhl/.conda/envs/cosmos/bin/../lib/libgomp.so.1(GOMP_parallel_sections+0x80)[0x7fb0b51a6295]
+[node043:63510] [ 6] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__results_MOD_thermo_init+0x12d2)[0x7fb0b52207c2]
+[node043:63510] [ 7] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_initvars+0x193)[0x7fb0b52c4923]
+[node043:63510] [ 8] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__cambmain_MOD_cmbmain+0xbf)[0x7fb0b52cabff]
+[node043:63510] [ 9] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__camb_MOD_camb_getresults+0x2986)[0x7fb0b52d6846]
+[node043:63510] [10] /users/smp24dhl/cosmo/code/CAMB_beta/camb/camblib.so(__handles_MOD_cambdata_gettransfers+0x1f)[0x7fb0b52e14df]
+[node043:63510] [11] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x6a4a)[0x7fb0d66f9a4a]
+[node043:63510] [12] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/../../libffi.so.8(+0x5fea)[0x7fb0d66f8fea]
+[node043:63510] [13] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x91e0)[0x7fb0cc3f81e0]
+[node043:63510] [14] /users/smp24dhl/.conda/envs/cosmos/lib/python3.9/lib-dynload/_ctypes.cpython-39-x86_64-linux-gnu.so(+0x126ee)[0x7fb0cc4016ee]
+[node043:63510] [15] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyObject_MakeTpCall+0x2ec)[0x4f061c]
+[node043:63510] [16] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x4ca7)[0x4ec4f7]
+[node043:63510] [17] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node043:63510] [18] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node043:63510] [19] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node043:63510] [20] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node043:63510] [21] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyFunction_Vectorcall+0xd5)[0x4f7d95]
+[node043:63510] [22] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node043:63510] [23] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node043:63510] [24] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node043:63510] [25] /users/smp24dhl/.conda/envs/cosmos/bin/python(PyObject_Call+0xb4)[0x505744]
+[node043:63510] [26] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x3418)[0x4eac68]
+[node043:63510] [27] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x4e694a]
+[node043:63510] [28] /users/smp24dhl/.conda/envs/cosmos/bin/python[0x50500d]
+[node043:63510] [29] /users/smp24dhl/.conda/envs/cosmos/bin/python(_PyEval_EvalFrameDefault+0x123b)[0x4e8a8b]
+[node043:63510] *** End of error message ***
+[3 : mcmc] Progress @ 2025-03-27 17:07:31 : 255 steps taken, and 30 accepted.
+srun: error: node043: task 2: Segmentation fault
+slurmstepd: error:  mpi/pmix_v4: _errhandler: node043 [0]: pmixp_client_v2.c:212: Error handler invoked: status = -61, source = [slurm.pmix.5872185.0:2]
+slurmstepd: error: *** STEP 5872185.0 ON node043 CANCELLED AT 2025-03-27T17:07:32 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: node043: tasks 1,3: Killed
+srun: error: node043: task 0: Killed
