@@ -29,27 +29,6 @@ theory:
       yhe: YHe
       yheused: YHe
       YpBBN: Y_p
-    input_params:
-    - As
-    - ns
-    - cosmomc_theta
-    - ombh2
-    - omch2
-    - mnu
-    - w
-    - wa
-    - beta_DE
-    - tau
-    output_params:
-    - H0
-    - omegam
-    - YHe
-    - Y_p
-    - zrei
-    - sigma8
-    - age
-    - rdrag
-    - DH
 likelihood:
   planck_2018_lowl.TT:
     lmin: 2
@@ -60,9 +39,6 @@ likelihood:
     speed: -1
     stop_at_error: false
     version: null
-    input_params:
-    - A_planck
-    output_params: []
   planck_2018_lowl.EE:
     type: CMB
     aliases:
@@ -70,9 +46,6 @@ likelihood:
     speed: -1
     stop_at_error: false
     version: null
-    input_params:
-    - A_planck
-    output_params: []
   planck_2018_highl_plik.TTTEEE:
     path: null
     clik_file: baseline/plc_3.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik
@@ -85,55 +58,6 @@ likelihood:
     type: CMB
     stop_at_error: false
     version: null
-    input_params:
-    - A_planck
-    - calib_100T
-    - calib_217T
-    - A_pol
-    - calib_100P
-    - calib_143P
-    - calib_217P
-    - cib_index
-    - A_cib_217
-    - xi_sz_cib
-    - A_sz
-    - ksz_norm
-    - gal545_A_100
-    - gal545_A_143
-    - gal545_A_143_217
-    - gal545_A_217
-    - A_sbpx_100_100_TT
-    - A_sbpx_143_143_TT
-    - A_sbpx_143_217_TT
-    - A_sbpx_217_217_TT
-    - ps_A_100_100
-    - ps_A_143_143
-    - ps_A_143_217
-    - ps_A_217_217
-    - galf_TE_index
-    - galf_TE_A_100
-    - galf_TE_A_100_143
-    - galf_TE_A_100_217
-    - galf_TE_A_143
-    - galf_TE_A_143_217
-    - galf_TE_A_217
-    - galf_EE_index
-    - galf_EE_A_100
-    - galf_EE_A_100_143
-    - galf_EE_A_100_217
-    - galf_EE_A_143
-    - galf_EE_A_143_217
-    - galf_EE_A_217
-    - A_cnoise_e2e_100_100_EE
-    - A_cnoise_e2e_143_143_EE
-    - A_cnoise_e2e_217_217_EE
-    - A_sbpx_100_100_EE
-    - A_sbpx_100_143_EE
-    - A_sbpx_100_217_EE
-    - A_sbpx_143_143_EE
-    - A_sbpx_143_217_EE
-    - A_sbpx_217_217_EE
-    output_params: []
   act_dr6_lenslike.ACTDR6LensLike:
     lmax: 4000
     mock: false
@@ -157,8 +81,6 @@ likelihood:
     type: []
     speed: -1
     stop_at_error: true
-    input_params: []
-    output_params: []
   bao.desi_dr2:
     path: null
     measurements_file: bao_data/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt
@@ -178,8 +100,17 @@ likelihood:
     grid_file: null
     stop_at_error: false
     version: null
-    input_params: []
-    output_params: []
+  sn.pantheonplus:
+    path: null
+    dataset_file: PantheonPlus/config.dataset
+    dataset_params: null
+    aliases:
+    - PantheonPlus
+    use_abs_mag: false
+    speed: 100
+    type: SN
+    stop_at_error: false
+    version: null
 prior:
   SZ: 'lambda ksz_norm, A_sz: stats.norm.logpdf(ksz_norm+1.6*A_sz, loc=9.5, scale=3.0)'
 params:
@@ -282,7 +213,7 @@ params:
     latex: w_{a,\mathrm{DE}}
   beta_DE:
     prior:
-      min: -3
+      min: -5
       max: 15
     ref:
       dist: norm
@@ -294,8 +225,8 @@ params:
     latex: Y_\mathrm{P}
     derived: true
     renames:
-    - yheused
     - yhe
+    - yheused
   Y_p:
     latex: Y_P^\mathrm{BBN}
     derived: true
@@ -663,11 +594,14 @@ params:
   chi2__CMB:
     latex: \chi^2_\mathrm{CMB}
     derived: true
+  chi2__SN:
+    latex: \chi^2_\mathrm{SN}
+    derived: true
 sampler:
   mcmc:
     burn_in: 0
     max_tries: 40d
-    covmat: ../old/chains/PlanckLensing.covmat
+    covmat: ../../old/chains/PlanckLensingDESIPantheon.covmat
     covmat_params: null
     proposal_scale: 1.9
     output_every: 60s
@@ -728,7 +662,7 @@ sampler:
     oversample: null
     drag_limits: null
     fallback_covmat_scale: 4
-    version: 3.5.6
+    version: null
 allow_changes: true
-output: PlanckBao
+output: planckdesipantheon
 version: 3.5.6

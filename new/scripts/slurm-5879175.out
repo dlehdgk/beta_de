@@ -1,0 +1,89 @@
+Traceback (most recent call last):
+  File "/users/smp24dhl/cosmo/beta_de/new/scripts/checkpoint.py", line 18, in <module>
+    samples = getdist.loadMCSamples(chain_root, settings={"ignore_rows": 0.3})
+  File "/users/smp24dhl/.conda/envs/cosmos/lib/python3.9/site-packages/getdist/mcsamples.py", line 104, in loadMCSamples
+    raise IOError('No chains found: ' + file_root)
+OSError: No chains found: ../chains/planckdesi
+chain not converged
+[0 : output] Output to be read-from/written-into folder '../chains', with prefix 'planckdesi'
+[0 : prior] *WARNING* External prior 'SZ' loaded. Mind that it might not be normalized!
+[0 : camb] `camb` module loaded successfully from /users/smp24dhl/cosmo/code/CAMB_beta/camb
+[0 : planck_2018_highl_plik.ttteee] `clik` module loaded successfully from /users/smp24dhl/cosmo/code/planck/clik/lib/python3.9/site-packages/clik
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+/users/smp24dhl/cosmo/code/act_dr6_lenslike/act_dr6_lenslike/act_dr6_lenslike.py:416: UserWarning: Hartlap correction to cinv: 0.949874686716792
+  warnings.warn(f"Hartlap correction to cinv: {hartlap_correction}")
+Loading ACT DR6 lensing likelihood v1.2...
+[0 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[1 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[2 : bao.desi_dr2] Initialized.
+Loading ACT DR6 lensing likelihood v1.2...
+[3 : bao.desi_dr2] Initialized.
+[0 : mcmc] Getting initial point... (this may take a few seconds)
+[1 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Getting initial point... (this may take a few seconds)
+[3 : mcmc] Getting initial point... (this may take a few seconds)
+[2 : mcmc] Initial point: logA:3.051668, ns:0.954891, theta_MC_100:1.041191, ombh2:0.02253656, omch2:0.1209493, w:-0.9858198, wa:-0.08147324, beta_DE:1.000701, tau:0.0546645, A_planck:0.999575, calib_100T:0.9996727, calib_217T:0.998707, A_cib_217:64.64731, xi_sz_cib:0.02221731, A_sz:5.100726, ksz_norm:3.458951, gal545_A_100:0.3973362, gal545_A_143:9.217635, gal545_A_143_217:13.47201, gal545_A_217:128.6327, ps_A_100_100:250.5822, ps_A_143_143:37.88977, ps_A_143_217:41.91154, ps_A_217_217:110.4762, galf_TE_A_100:-0.0905632, galf_TE_A_100_143:0.1533455, galf_TE_A_100_217:0.4797836, galf_TE_A_143:0.09743484, galf_TE_A_143_217:0.7886593, galf_TE_A_217:1.92534
+[1 : mcmc] Initial point: logA:3.052311, ns:0.9705534, theta_MC_100:1.042002, ombh2:0.02239642, omch2:0.1189708, w:-1.012054, wa:0.006745047, beta_DE:0.9991859, tau:0.05549672, A_planck:0.9995111, calib_100T:0.9998284, calib_217T:0.9985518, A_cib_217:71.52106, xi_sz_cib:0.06537149, A_sz:7.473546, ksz_norm:3.027362, gal545_A_100:8.611904, gal545_A_143:8.851796, gal545_A_143_217:26.73507, gal545_A_217:81.86855, ps_A_100_100:239.1755, ps_A_143_143:67.1457, ps_A_143_217:22.48885, ps_A_217_217:97.75539, galf_TE_A_100:0.05509148, galf_TE_A_100_143:-0.04226724, galf_TE_A_100_217:0.5659743, galf_TE_A_143:0.2265004, galf_TE_A_143_217:0.6642036, galf_TE_A_217:2.007354
+[3 : mcmc] Initial point: logA:3.050985, ns:0.9544828, theta_MC_100:1.04095, ombh2:0.02244133, omch2:0.1193541, w:-0.958906, wa:0.07268941, beta_DE:0.999366, tau:0.05512362, A_planck:0.9975954, calib_100T:0.9990393, calib_217T:0.9992339, A_cib_217:70.14833, xi_sz_cib:0.077807, A_sz:8.493678, ksz_norm:1.67694, gal545_A_100:6.492994, gal545_A_143:11.00255, gal545_A_143_217:20.26071, gal545_A_217:71.9342, ps_A_100_100:247.5921, ps_A_143_143:38.36268, ps_A_143_217:31.96642, ps_A_217_217:82.1853, galf_TE_A_100:0.2255435, galf_TE_A_100_143:0.2126069, galf_TE_A_100_217:0.4186771, galf_TE_A_143:0.06843096, galf_TE_A_143_217:0.6754489, galf_TE_A_217:2.072304
+[0 : mcmc] Initial point: logA:3.050786, ns:0.9649295, theta_MC_100:1.041421, ombh2:0.02247059, omch2:0.1196747, w:-0.9906002, wa:0.02957911, beta_DE:1.00022, tau:0.05459568, A_planck:1.001548, calib_100T:1.001542, calib_217T:0.9978626, A_cib_217:79.83354, xi_sz_cib:0.02748212, A_sz:3.058946, ksz_norm:2.663814, gal545_A_100:8.754431, gal545_A_143:12.82644, gal545_A_143_217:21.25187, gal545_A_217:67.24939, ps_A_100_100:279.1811, ps_A_143_143:42.58307, ps_A_143_217:35.55761, ps_A_217_217:104.9837, galf_TE_A_100:0.177515, galf_TE_A_100_143:0.1571833, galf_TE_A_100_217:0.444682, galf_TE_A_143:0.2727251, galf_TE_A_143_217:0.5986871, galf_TE_A_217:2.00611
+[0 : model] Measuring speeds... (this may take a few seconds)
+[0 : model] Setting measured speeds (per sec): {planck_2018_lowl.TT: 1780.0, planck_2018_lowl.EE: 8840.0, planck_2018_highl_plik.TTTEEE: 58.4, act_dr6_lenslike.ACTDR6LensLike: 5.98, bao.desi_dr2: 1160.0, camb.transfers: 0.0979, camb: 0.333}
+[0 : mcmc] Dragging with number of interpolating steps:
+[0 : mcmc] *  1 : [['theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau'], ['logA', 'ns']]
+[0 : mcmc] * 30 : [['A_planck'], ['calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217']]
+[0 : mcmc] Covariance matrix loaded for params ['logA', 'ns', 'theta_MC_100', 'ombh2', 'omch2', 'w', 'wa', 'beta_DE', 'tau', 'A_planck', 'calib_100T', 'calib_217T', 'A_cib_217', 'xi_sz_cib', 'A_sz', 'ksz_norm', 'gal545_A_100', 'gal545_A_143', 'gal545_A_143_217', 'gal545_A_217', 'ps_A_100_100', 'ps_A_143_143', 'ps_A_143_217', 'ps_A_217_217', 'galf_TE_A_100', 'galf_TE_A_100_143', 'galf_TE_A_100_217', 'galf_TE_A_143', 'galf_TE_A_143_217', 'galf_TE_A_217']
+[0 : mcmc] All parameters' covariance loaded from given covmat.
+[0 : mcmc] *WARNING* The initial points are widely dispersed compared to the proposal covariance, it may take a long time to burn in (max dist to start mean: [7.586169490664483, 8.707054690264634, 19.05580175763875, 10.08483733667616])
+[0 : mcmc] Sampling!
+[2 : mcmc] Progress @ 2025-03-28 15:28:43 : 1 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:29:10 : 1 steps taken, and 0 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:29:11 : 1 steps taken, and 0 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:29:11 : 1 steps taken, and 0 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:29:46 : 9 steps taken, and 3 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:30:12 : 7 steps taken, and 0 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:30:14 : 7 steps taken, and 1 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:30:16 : 12 steps taken, and 2 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:30:56 : 16 steps taken, and 5 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:31:15 : 12 steps taken, and 2 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:31:16 : 19 steps taken, and 3 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:31:18 : 13 steps taken, and 5 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:32:04 : 26 steps taken, and 6 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:32:16 : 17 steps taken, and 4 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:32:19 : 20 steps taken, and 7 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:32:27 : 24 steps taken, and 4 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:33:16 : 22 steps taken, and 6 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:33:17 : 38 steps taken, and 11 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:33:20 : 25 steps taken, and 7 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:33:39 : 32 steps taken, and 6 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:34:17 : 28 steps taken, and 7 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:34:17 : 44 steps taken, and 16 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:34:21 : 30 steps taken, and 8 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:34:50 : 37 steps taken, and 8 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:35:18 : 33 steps taken, and 10 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:35:19 : 52 steps taken, and 18 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:35:21 : 35 steps taken, and 10 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:35:51 : 42 steps taken, and 10 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:36:22 : 39 steps taken, and 12 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:36:28 : 60 steps taken, and 20 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:36:33 : 40 steps taken, and 11 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:36:56 : 48 steps taken, and 14 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:37:24 : 45 steps taken, and 16 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:37:39 : 46 steps taken, and 13 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:37:39 : 65 steps taken, and 22 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:38:08 : 54 steps taken, and 15 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:38:25 : 51 steps taken, and 17 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:38:44 : 52 steps taken, and 14 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:38:45 : 73 steps taken, and 23 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:39:12 : 60 steps taken, and 17 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:39:34 : 59 steps taken, and 19 accepted.
+[0 : mcmc] Progress @ 2025-03-28 15:39:45 : 61 steps taken, and 15 accepted.
+[2 : mcmc] Progress @ 2025-03-28 15:39:46 : 78 steps taken, and 25 accepted.
+[3 : mcmc] Progress @ 2025-03-28 15:40:23 : 65 steps taken, and 18 accepted.
+[1 : mcmc] Progress @ 2025-03-28 15:40:34 : 68 steps taken, and 21 accepted.

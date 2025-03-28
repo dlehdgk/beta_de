@@ -25,6 +25,7 @@ likelihood:
     lmax: 4000
     variant: actplanck_baseline
   bao.desi_dr2: null
+  sn.pantheonplus: null
 params:
   logA:
     prior:
@@ -117,7 +118,7 @@ params:
     latex: w_{a,\mathrm{DE}}
   beta_DE:
     prior:
-      min: -3
+      min: -5
       max: 15
     ref:
       dist: norm
@@ -170,8 +171,8 @@ sampler:
     drag: true
     oversample_power: 0.4
     proposal_scale: 1.9
-    covmat: ../old/chains/PlanckLensing.covmat
+    covmat: ../../old/chains/PlanckLensingDESIPantheon.covmat
     Rminus1_stop: 0.01
     Rminus1_cl_stop: 0.2
 allow_changes: true
-output: PlanckBao
+output: planckdesipantheon
